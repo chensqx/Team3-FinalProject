@@ -130,6 +130,24 @@
 			]
 		},
 		{
+			"ShaderMapHash": "1B66C70626E4ADD6A93185FEEF5FCBC5E1FAE5C5",
+			"Assets": [
+				"/Game/Materials/M_LightFlicker"
+			]
+		},
+		{
+			"ShaderMapHash": "36C626BCD2D6DCD835E42BD2BA7F02412C167FD7",
+			"Assets": [
+				"/Game/LightProfilePack/Lighting/Materials/Blank2"
+			]
+		},
+		{
+			"ShaderMapHash": "FB6EB03DB78875E0144C4692E9B0D0ABB3AD0ADE",
+			"Assets": [
+				"/Game/LightProfilePack/Lighting/Materials/Blank"
+			]
+		},
+		{
 			"ShaderMapHash": "14454FD8BB2A4B33FF05E398A6E22E6E796EF007",
 			"Assets": [
 				"/Engine/BasicShapes/BasicShapeMaterial"
@@ -197,6 +215,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "F9263927B9A447444CEB25F0683B99FA6EDE8534",
 			"Assets": [
 				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
@@ -206,12 +230,6 @@
 			"ShaderMapHash": "3B599E1E84C6BED8F66AF5A2D1125FB845FE4CAB",
 			"Assets": [
 				"/ControlRig/M_Manip"
-			]
-		},
-		{
-			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
-			"Assets": [
-				"/Paper2D/DefaultSpriteMaterial"
 			]
 		},
 		{
@@ -576,9 +594,63 @@
 			]
 		},
 		{
-			"ShaderMapHash": "1B66C70626E4ADD6A93185FEEF5FCBC5E1FAE5C5",
+			"ShaderMapHash": "6BB584AF8FEF4299B1656BCA1901751539D42919",
 			"Assets": [
-				"/Game/Materials/M_LightFlicker"
+				"/Game/LightProfilePack/Lighting/Functions/Materials/Window",
+				"/Game/LightProfilePack/Lighting/Functions/Materials/Triangle",
+				"/Game/LightProfilePack/Lighting/Functions/Materials/Sparkle2",
+				"/Game/LightProfilePack/Lighting/Functions/Materials/Sparkle",
+				"/Game/LightProfilePack/Lighting/Functions/Materials/Pentagon",
+				"/Game/LightProfilePack/Lighting/Functions/Materials/Pattern",
+				"/Game/LightProfilePack/Lighting/Functions/Materials/Jet",
+				"/Game/LightProfilePack/Lighting/Functions/Materials/Grid2",
+				"/Game/LightProfilePack/Lighting/Functions/Materials/Grid",
+				"/Game/LightProfilePack/Lighting/Functions/Materials/Cross1"
+			]
+		},
+		{
+			"ShaderMapHash": "57B44243172B50FAA80FD33005157E93994B4283",
+			"Assets": [
+				"/Game/LightProfilePack/Lighting/Functions/Materials/Starburst",
+				"/Game/LightProfilePack/Lighting/Functions/Materials/Cross2"
+			]
+		},
+		{
+			"ShaderMapHash": "84772DBD4150B7963743A8E718BC2C65759A6EE7",
+			"Assets": [
+				"/Game/LightProfilePack/Lighting/Functions/Materials/Lines"
+			]
+		},
+		{
+			"ShaderMapHash": "E61872EFB6677422442480746262890F6A2E1118",
+			"Assets": [
+				"/Game/LightProfilePack/Lighting/Functions/Materials/Halo2",
+				"/Game/LightProfilePack/Lighting/Functions/Materials/Halo"
+			]
+		},
+		{
+			"ShaderMapHash": "89DD44DA850CAAA5C5159DFCCE12393C8B0696E3",
+			"Assets": [
+				"/Game/LightProfilePack/Lighting/Functions/Materials/Grid3"
+			]
+		},
+		{
+			"ShaderMapHash": "7483A2592D01DECE62EEB805F0CCD6CAB941E696",
+			"Assets": [
+				"/Game/LightProfilePack/Lighting/Functions/Materials/Future"
+			]
+		},
+		{
+			"ShaderMapHash": "2FB791D72840641BA73D5DC52BEC2ED31C0AEE96",
+			"Assets": [
+				"/Game/LightProfilePack/Lighting/Functions/Materials/Arrow"
+			]
+		},
+		{
+			"ShaderMapHash": "FC03451B10AB617696782C473ACBC4C996D93833",
+			"Assets": [
+				"/Game/Assets/Character/Mutant/T-Bone/Mutant/Texture/Ch30_Body1",
+				"/Game/Assets/Character/Mutant/T-Bone/Mutant/Texture/Ch30_Body"
 			]
 		},
 		{
@@ -713,71 +785,6 @@
 			"ShaderMapHash": "3A21A22B26B50FF022F4DB6451E17D307A26F2AF",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
-			]
-		},
-		{
-			"ShaderMapHash": "2FB791D72840641BA73D5DC52BEC2ED31C0AEE96",
-			"Assets": [
-				"/Game/LightProfilePack/Lighting/Functions/Materials/Arrow"
-			]
-		},
-		{
-			"ShaderMapHash": "6BB584AF8FEF4299B1656BCA1901751539D42919",
-			"Assets": [
-				"/Game/LightProfilePack/Lighting/Functions/Materials/Cross1",
-				"/Game/LightProfilePack/Lighting/Functions/Materials/Grid",
-				"/Game/LightProfilePack/Lighting/Functions/Materials/Grid2",
-				"/Game/LightProfilePack/Lighting/Functions/Materials/Jet",
-				"/Game/LightProfilePack/Lighting/Functions/Materials/Window",
-				"/Game/LightProfilePack/Lighting/Functions/Materials/Pattern",
-				"/Game/LightProfilePack/Lighting/Functions/Materials/Pentagon",
-				"/Game/LightProfilePack/Lighting/Functions/Materials/Sparkle",
-				"/Game/LightProfilePack/Lighting/Functions/Materials/Triangle",
-				"/Game/LightProfilePack/Lighting/Functions/Materials/Sparkle2"
-			]
-		},
-		{
-			"ShaderMapHash": "36C626BCD2D6DCD835E42BD2BA7F02412C167FD7",
-			"Assets": [
-				"/Game/LightProfilePack/Lighting/Materials/Blank2"
-			]
-		},
-		{
-			"ShaderMapHash": "57B44243172B50FAA80FD33005157E93994B4283",
-			"Assets": [
-				"/Game/LightProfilePack/Lighting/Functions/Materials/Cross2",
-				"/Game/LightProfilePack/Lighting/Functions/Materials/Starburst"
-			]
-		},
-		{
-			"ShaderMapHash": "FB6EB03DB78875E0144C4692E9B0D0ABB3AD0ADE",
-			"Assets": [
-				"/Game/LightProfilePack/Lighting/Materials/Blank"
-			]
-		},
-		{
-			"ShaderMapHash": "7483A2592D01DECE62EEB805F0CCD6CAB941E696",
-			"Assets": [
-				"/Game/LightProfilePack/Lighting/Functions/Materials/Future"
-			]
-		},
-		{
-			"ShaderMapHash": "89DD44DA850CAAA5C5159DFCCE12393C8B0696E3",
-			"Assets": [
-				"/Game/LightProfilePack/Lighting/Functions/Materials/Grid3"
-			]
-		},
-		{
-			"ShaderMapHash": "E61872EFB6677422442480746262890F6A2E1118",
-			"Assets": [
-				"/Game/LightProfilePack/Lighting/Functions/Materials/Halo",
-				"/Game/LightProfilePack/Lighting/Functions/Materials/Halo2"
-			]
-		},
-		{
-			"ShaderMapHash": "84772DBD4150B7963743A8E718BC2C65759A6EE7",
-			"Assets": [
-				"/Game/LightProfilePack/Lighting/Functions/Materials/Lines"
 			]
 		}
 	]

@@ -60,7 +60,9 @@
 		{
 			"ShaderMapHash": "64F711963ED34B6AF1EE61A4B93FC8E3225B225E",
 			"Assets": [
-				"/Engine/VREditor/TransformGizmo/Xray"
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/Props/Materials/M_Metal",
+				"/Game/Props/Materials/M_BatteryTex"
 			]
 		},
 		{
@@ -127,6 +129,18 @@
 			"ShaderMapHash": "D4E626D71DCA8D5A7D6B957A59DC97A950CA1A5F",
 			"Assets": [
 				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows"
+			]
+		},
+		{
+			"ShaderMapHash": "74507F8FC3CE944E357F2B833C6B5E5D3DE03C07",
+			"Assets": [
+				"/Game/SICKA_mansion/Materials/M_Black"
+			]
+		},
+		{
+			"ShaderMapHash": "2A4F75A3BDBCEA38721864413B8015B27B7E5256",
+			"Assets": [
+				"/Game/Props/Materials/M_DoorKey"
 			]
 		},
 		{
@@ -215,12 +229,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
-			"Assets": [
-				"/Paper2D/DefaultSpriteMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "F9263927B9A447444CEB25F0683B99FA6EDE8534",
 			"Assets": [
 				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
@@ -230,6 +238,12 @@
 			"ShaderMapHash": "3B599E1E84C6BED8F66AF5A2D1125FB845FE4CAB",
 			"Assets": [
 				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
 			]
 		},
 		{
@@ -287,10 +301,22 @@
 			]
 		},
 		{
+			"ShaderMapHash": "258677598B06A930E2D7C3D6D517E82C4DBF1557",
+			"Assets": [
+				"/Game/SICKA_mansion/Materials/M_FoodCollection"
+			]
+		},
+		{
 			"ShaderMapHash": "B43D983CD3BDA59466984205703D5D9E6F5FE1F6",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough",
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "9AC73C82DE01D8267D38BA0ACFC3ECBBA402C866",
+			"Assets": [
+				"/Game/Props/Materials/M_Bandage"
 			]
 		},
 		{
@@ -594,6 +620,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D38815132FD3A699FFDCDA593C88BC94DD8E4C95",
+			"Assets": [
+				"/Game/SICKA_mansion/Materials/M_GlassMaster"
+			]
+		},
+		{
 			"ShaderMapHash": "6BB584AF8FEF4299B1656BCA1901751539D42919",
 			"Assets": [
 				"/Game/LightProfilePack/Lighting/Functions/Materials/Window",
@@ -722,6 +754,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "3B3E48E876423C9706F302DE747A2B2CBF3BA1A4",
+			"Assets": [
+				"/Game/SICKA_mansion/Materials/M_OilPaints"
+			]
+		},
+		{
 			"ShaderMapHash": "7EB80B268E411CC7FEFCB8D7153A743BD65315E5",
 			"Assets": [
 				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
@@ -764,9 +802,22 @@
 			]
 		},
 		{
+			"ShaderMapHash": "150296F1F4D028F6AEC690347CE8B9145E583B27",
+			"Assets": [
+				"/Game/SICKA_mansion/Materials/MI_GlassProp"
+			]
+		},
+		{
 			"ShaderMapHash": "7B9B364B6611B4174271C215F157D9F6E590BDF1",
 			"Assets": [
 				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI"
+			]
+		},
+		{
+			"ShaderMapHash": "0668768E90C6BC1109ED0B6D4D36152A9A103A02",
+			"Assets": [
+				"/Game/SICKA_mansion/Materials/M_Props",
+				"/Game/SICKA_mansion/Materials/MI_PersianCarpets_V1"
 			]
 		},
 		{
@@ -785,6 +836,44 @@
 			"ShaderMapHash": "3A21A22B26B50FF022F4DB6451E17D307A26F2AF",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "28136D22561FF44B6230CB069C3FECD74868C842",
+			"Assets": [
+				"/Game/SICKA_mansion/Materials/MI_WallFillers1",
+				"/Game/SICKA_mansion/Materials/MI_Vitrin3",
+				"/Game/SICKA_mansion/Materials/MI_Vitrin2",
+				"/Game/SICKA_mansion/Materials/MI_RoofTiles",
+				"/Game/SICKA_mansion/Materials/MI_GrandpaClock",
+				"/Game/SICKA_mansion/Materials/MI_KnightCloth",
+				"/Game/SICKA_mansion/Materials/MI_KnightArmor",
+				"/Game/SICKA_mansion/Materials/MI_Gramophone",
+				"/Game/SICKA_mansion/Materials/MI_dinnerWareSet",
+				"/Game/SICKA_mansion/Materials/MI_CurtainSet_V1",
+				"/Game/SICKA_mansion/Materials/MI_Buffah1",
+				"/Game/SICKA_mansion/Materials/MI_FloorSeamless",
+				"/Game/SICKA_mansion/Materials/MI_CellarWallset",
+				"/Game/SICKA_mansion/Materials/MI_BED_Cover",
+				"/Game/SICKA_mansion/Materials/MI_BED"
+			]
+		},
+		{
+			"ShaderMapHash": "759FAFC026CBD7EE600432B0607FD49CFA17942B",
+			"Assets": [
+				"/Game/SICKA_mansion/Materials/MI_Chandelier"
+			]
+		},
+		{
+			"ShaderMapHash": "6E4675933CA62F234051BD44B9A2B63BC08A34C0",
+			"Assets": [
+				"/Game/SICKA_mansion/Materials/MI_BurntWood"
+			]
+		},
+		{
+			"ShaderMapHash": "F2722ED28F851FECCDC60D2158471DD53E767585",
+			"Assets": [
+				"/Game/SICKA_mansion/Materials/MI_AnimalHides"
 			]
 		}
 	]

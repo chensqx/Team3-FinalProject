@@ -679,6 +679,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "8EE9F44DB8648C246DD8EC50ADF73D662730F248",
+			"Assets": [
+				"/Game/Materials/M_Examination"
+			]
+		},
+		{
 			"ShaderMapHash": "FC03451B10AB617696782C473ACBC4C996D93833",
 			"Assets": [
 				"/Game/Assets/Character/Mutant/T-Bone/Mutant/Texture/Ch30_Body1",
@@ -818,6 +824,12 @@
 			"Assets": [
 				"/Game/SICKA_mansion/Materials/M_Props",
 				"/Game/SICKA_mansion/Materials/MI_PersianCarpets_V1"
+			]
+		},
+		{
+			"ShaderMapHash": "052FAD17F911E990BBB0A427D9CB05CC5CBCCF8B",
+			"Assets": [
+				"/Game/Materials/M_BloodScreen"
 			]
 		},
 		{

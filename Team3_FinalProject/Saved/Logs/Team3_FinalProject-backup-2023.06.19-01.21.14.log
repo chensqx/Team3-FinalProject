@@ -1,0 +1,1642 @@
+﻿Log file open, 06/18/23 14:45:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=2668)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Team3_FinalProject
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\suki\Documents\GitHub\Team3-FinalProject\Team3_FinalProject\Team3_FinalProject.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.2057] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|12th Gen Intel(R) Core(TM) i5-12400F"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="419e300a4aa67718ef5505a35ea22ebb"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 2.171954
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-95C5F8F340ACA075CA2A3E8C9670057B
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.02 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.03 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.01 seconds
+LogConfig: Display: Loading Windows ini files took 0.01 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.2057] (), CPU: 12th Gen Intel(R) Core(TM) i5-12400F, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.06.18-18.45.31:339][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.06.18-18.45.31:340][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.06.18-18.45.31:340][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.06.18-18.45.31:340][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.06.18-18.45.31:340][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.06.18-18.45.31:340][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.06.18-18.45.31:340][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.06.18-18.45.31:340][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.06.18-18.45.31:341][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.06.18-18.45.31:341][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.06.18-18.45.31:351][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.06.18-18.45.31:351][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.06.18-18.45.31:351][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.06.18-18.45.31:351][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.06.18-18.45.31:351][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.06.18-18.45.31:351][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.06.18-18.45.31:351][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.06.18-18.45.31:351][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.06.18-18.45.31:352][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.06.18-18.45.31:352][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.06.18-18.45.31:352][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.06.18-18.45.31:396][  0]LogD3D12RHI: Aftermath initialized
+[2023.06.18-18.45.31:396][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.06.18-18.45.31:709][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2060 (Max supported Feature Level 12_1, shader model 6.6)
+[2023.06.18-18.45.31:709][  0]LogD3D12RHI: Adapter has 5968MB of dedicated video memory, 0MB of dedicated system memory, and 8098MB of shared system memory, 1 output[s]
+[2023.06.18-18.45.31:754][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.06.18-18.45.31:754][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8098MB of shared system memory, 0 output[s]
+[2023.06.18-18.45.31:756][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.06.18-18.45.31:756][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.06.18-18.45.31:757][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.06.18-18.45.31:758][  0]LogHAL: Display: Platform has ~ 16 GB [16984182784 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.06.18-18.45.31:759][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.06.18-18.45.31:759][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.06.18-18.45.31:759][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.06.18-18.45.31:759][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.06.18-18.45.31:759][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Saved/Config/WindowsEditor/Editor.ini]
+[2023.06.18-18.45.31:760][  0]LogInit: Computer: DESKTOP-VAL2BR6
+[2023.06.18-18.45.31:760][  0]LogInit: User: suki
+[2023.06.18-18.45.31:760][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.06.18-18.45.31:760][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.06.18-18.45.31:762][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2023.06.18-18.45.31:762][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.06.18-18.45.31:762][  0]LogMemory: Process Physical Memory: 274.87 MB used, 285.96 MB peak
+[2023.06.18-18.45.31:762][  0]LogMemory: Process Virtual Memory: 231.64 MB used, 235.35 MB peak
+[2023.06.18-18.45.31:762][  0]LogMemory: Physical Memory: 13944.52 MB used,  2252.86 MB free, 16197.38 MB total
+[2023.06.18-18.45.31:762][  0]LogMemory: Virtual Memory: 24610.52 MB used,  10018.86 MB free, 34629.38 MB total
+[2023.06.18-18.45.31:762][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.06.18-18.45.31:767][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.06.18-18.45.31:819][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.06.18-18.45.31:824][  0]LogInit: Using OS detected language (en-US).
+[2023.06.18-18.45.31:824][  0]LogInit: Using OS detected locale (en-CA).
+[2023.06.18-18.45.31:833][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.06.18-18.45.31:977][  0]LogInit: Setting process to per monitor DPI aware
+[2023.06.18-18.45.32:003][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.06.18-18.45.32:003][  0]LogWindowsTextInputMethodSystem:   - English (Canada) - (Keyboard).
+[2023.06.18-18.45.32:003][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.06.18-18.45.32:003][  0]LogWindowsTextInputMethodSystem:   - Chinese (Simplified, China) - Microsoft Pinyin (TSF IME).
+[2023.06.18-18.45.32:004][  0]LogWindowsTextInputMethodSystem: Activated input method: Chinese (Simplified, China) - Microsoft Pinyin (TSF IME).
+[2023.06.18-18.45.32:056][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.06.18-18.45.32:056][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.06.18-18.45.32:256][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.06.18-18.45.32:261][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.06.18-18.45.32:261][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.06.18-18.45.32:354][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.06.18-18.45.32:354][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.06.18-18.45.32:354][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.06.18-18.45.32:354][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.06.18-18.45.32:354][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.06.18-18.45.32:355][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.06.18-18.45.32:355][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.06.18-18.45.32:355][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.06.18-18.45.32:355][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.06.18-18.45.32:355][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.06.18-18.45.32:355][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.06.18-18.45.32:355][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.06.18-18.45.32:355][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.06.18-18.45.32:355][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.06.18-18.45.32:355][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.06.18-18.45.32:355][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.06.18-18.45.32:403][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.06.18-18.45.32:409][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.06.18-18.45.32:424][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.06.18-18.45.32:468][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.06.18-18.45.32:468][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.06.18-18.45.32:501][  0]LogD3D12RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2023.06.18-18.45.32:501][  0]LogWindows: Attached monitors:
+[2023.06.18-18.45.32:501][  0]LogWindows:     resolution: 2560x1440, work area: (0, 0) -> (2560, 1392), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.06.18-18.45.32:501][  0]LogWindows: Found 1 attached monitors.
+[2023.06.18-18.45.32:501][  0]LogWindows: EnumDisplayDevices:
+[2023.06.18-18.45.32:501][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.06.18-18.45.32:501][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.06.18-18.45.32:501][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.06.18-18.45.32:501][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.06.18-18.45.32:501][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.06.18-18.45.32:501][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2023.06.18-18.45.32:501][  0]LogD3D12RHI:   Driver Version: 536.23 (internal:31.0.15.3623, unified:536.23)
+[2023.06.18-18.45.32:501][  0]LogD3D12RHI:      Driver Date: 6-8-2023
+[2023.06.18-18.45.32:501][  0]LogRHI: Texture pool is 3276 MB (70% of 4680 MB)
+[2023.06.18-18.45.32:501][  0]LogD3D12RHI: Async texture creation enabled
+[2023.06.18-18.45.32:502][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.06.18-18.45.32:585][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.06.18-18.45.32:606][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Team3_FinalProject.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Intermediate/TurnkeyReport_0.log" -log="C:/Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Intermediate/TurnkeyLog_0.log" -project="C:/Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Team3_FinalProject.uproject"  -platform=all'
+[2023.06.18-18.45.32:608][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Team3_FinalProject.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Intermediate/TurnkeyReport_0.log" -log="C:/Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Intermediate/TurnkeyLog_0.log" -project="C:/Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Team3_FinalProject.uproject"  -platform=all" ]
+[2023.06.18-18.45.32:647][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.06.18-18.45.32:670][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.06.18-18.45.32:670][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.06.18-18.45.32:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.06.18-18.45.32:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.06.18-18.45.32:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.06.18-18.45.32:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.06.18-18.45.32:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.06.18-18.45.32:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.06.18-18.45.32:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.06.18-18.45.32:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.06.18-18.45.32:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.06.18-18.45.32:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.06.18-18.45.32:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.06.18-18.45.32:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.06.18-18.45.32:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.06.18-18.45.32:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.06.18-18.45.32:766][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.06.18-18.45.32:766][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.06.18-18.45.32:766][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.06.18-18.45.32:766][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.06.18-18.45.32:771][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.06.18-18.45.32:771][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.06.18-18.45.32:771][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.06.18-18.45.32:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.06.18-18.45.32:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.06.18-18.45.32:783][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.06.18-18.45.32:783][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.06.18-18.45.32:783][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.06.18-18.45.32:783][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.06.18-18.45.32:783][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.06.18-18.45.32:796][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.06.18-18.45.32:801][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.06.18-18.45.32:801][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.06.18-18.45.32:801][  0]LogTargetPlatformManager:   ADPCM
+[2023.06.18-18.45.32:801][  0]LogTargetPlatformManager:   PCM
+[2023.06.18-18.45.32:806][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.06.18-18.45.32:806][  0]LogTargetPlatformManager:   BINKA
+[2023.06.18-18.45.32:806][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.06.18-18.45.32:806][  0]LogTargetPlatformManager:   OGG
+[2023.06.18-18.45.32:806][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.06.18-18.45.32:806][  0]LogTargetPlatformManager:   OPUS
+[2023.06.18-18.45.33:018][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.06.18-18.45.33:028][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.06.18-18.45.33:028][  0]LogTargetPlatformManager:   SF_METAL
+[2023.06.18-18.45.33:028][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.06.18-18.45.33:028][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.06.18-18.45.33:028][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.06.18-18.45.33:028][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.06.18-18.45.33:029][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.06.18-18.45.33:029][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.06.18-18.45.33:029][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.06.18-18.45.33:029][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.06.18-18.45.33:029][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.06.18-18.45.33:029][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.06.18-18.45.33:029][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.06.18-18.45.33:029][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.06.18-18.45.33:029][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.06.18-18.45.33:029][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.06.18-18.45.33:037][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.06.18-18.45.33:037][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.06.18-18.45.33:037][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.06.18-18.45.33:037][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.06.18-18.45.33:037][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.06.18-18.45.33:037][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.06.18-18.45.33:037][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.06.18-18.45.33:037][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.06.18-18.45.33:049][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.06.18-18.45.33:049][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.06.18-18.45.33:051][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.06.18-18.45.33:051][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.06.18-18.45.33:062][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.06.18-18.45.33:063][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.06.18-18.45.33:063][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.06.18-18.45.33:063][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.06.18-18.45.33:088][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.06.18-18.45.33:090][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.06.18-18.45.33:090][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.06.18-18.45.33:118][  0]LogDerivedDataCache: Speed tests for C:/Users/suki/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2023.06.18-18.45.33:119][  0]LogDerivedDataCache: Display: Performance to C:/Users/suki/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=42.94MBs, RandomWriteSpeed=233.53MBs. Assigned SpeedClass 'Local'
+[2023.06.18-18.45.33:121][  0]LogDerivedDataCache: Using Local data cache path C:/Users/suki/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.06.18-18.45.33:122][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.06.18-18.45.33:122][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.06.18-18.45.33:129][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.06.18-18.45.33:129][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.06.18-18.45.33:151][  0]LogShaderCompilers: Guid format shader working directory is -39 characters bigger than the processId version (../../../../../../Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Intermediate/Shaders/WorkingDirectory/34188/).
+[2023.06.18-18.45.33:151][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/suki/AppData/Local/Temp/UnrealShaderWorkingDir/A6FE469741891BE4BAEC7786D1B3C012/'.
+[2023.06.18-18.45.33:153][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.06.18-18.45.33:153][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2023.06.18-18.45.34:636][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.06.18-18.45.34:636][  0]LogSlate: Using FreeType 2.10.0
+[2023.06.18-18.45.34:642][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.06.18-18.45.34:723][  0]LogAssetRegistry: FAssetRegistry took 0.0163 seconds to start up
+[2023.06.18-18.45.34:732][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.06.18-18.45.35:186][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.06.18-18.45.35:202][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.06.18-18.45.35:353][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.06.18-18.45.35:353][  0]LogDeviceProfileManager: Active device profile: [00000A58ECAB9680][00000A58E5040000 50] WindowsEditor
+[2023.06.18-18.45.35:353][  0]LogDeviceProfileManager: Profiles: [00000A58ECAB9840][00000A58D5F20000 50] Windows, [00000A58ECAB9680][00000A58E5040000 50] WindowsEditor, [00000A58ECAB8C00][00000A58ECE10000 50] WindowsServer, [00000A58ECAB4280][00000A58ECE15000 50] WindowsClient, [00000A58ECAB8A40][00000A58ECE17800 50] IOS, [00000A58ECAB40C0][00000A58ECE1A000 50] iPadAir2, [00000A58ECAB9300][00000A58E5042800 50] IPadPro, [00000A58ECAB8880][00000A58ECE1C800 50] iPadAir3, [00000A58ECAB5080][00000A58ECE80000 50] iPadAir4, [00000A58ECAB5240][00000A58ECE85000 50] iPadMini4, [00000A58ECAB8500][00000A58ECE87800 50] iPadMini5, [00000A58ECAB5CC0][00000A58ECE8A000 50] iPadMini6, [00000A58ECABD040][00000A58ECED0000 50] iPhone6S, [00000A58ECABD3C0][00000A58ECED2800 50] iPhone7, [00000A58ECABD740][00000A58ECED5000 50] iPodTouch7, [00000A58ECAB7540][00000A58ECEDA000 50] iPhone6SPlus, [00000A58ECABA2C0][00000A58ECEDC800 50] iPhone7Plus, [00000A58ECABDAC0][00000A58ECE12800 50] iPhoneSE, [00000A58ECAB86C0][00000A58ECE8C800 50] iPhone8, [00000A58ECABA480][00000A58ECED7800 50] iPhone8Plus, [00000A58ECAB8F80][00000A58ECE90000 50] iPhoneX, [00000A58ECAB55C0][00000A58ECE95000 50] iPhoneXS, [00000A58ECAB71C0][00000A58ECE97800 50] iPhoneXSMax, [00000A58ECABC5C0][00000A58ECE9A000 50] iPhoneXR, [00000A58ECAB5E80][00000A58ECE9C800 50] iPhone11, [00000A58ECABD900][00000A58ECE82800 50] iPhone11Pro, [00000A58ECABD200][00000A58ECEA0000 50] iPhone11ProMax, [00000A58ECAB7000][00000A58ECEA5000 50] iPhoneSE2, [00000A58ECAB7E00][00000A58ECEA7800 50] iPhone12Mini, [00000A58ECABC400][00000A58ECEAA000 50] iPhone12, [00000A58ECAB7C40][00000A58ECEAC800 50] iPhone12Pro, [00000A58ECAB5B00][00000A58ECE92800 50] iPhone12ProMax, [00000A58ECABC940][00000A58ECEB0000 50] iPhone13Mini, [00000A58ECABCB00][00000A58ECEB5000 50] iPhone13, [00000A58ECABAB80][00000A58ECEB7800 50] iPhone13Pro, [00000A58ECAB4EC0][00000A58ECEBA000 50] iPhone13ProMax, [00000A58ECAB7380][00000A58ECEBC800 50] iPadPro105, [00000A58ECAB6580][00000A58ECEA2800 50] iPadPro129, [00000A58ECABC080][00000A58ECEC0000 50] iPadPro97, [00000A58ECAB4B40][00000A58ECEC5000 50] iPadPro2_129, [00000A58ECAB7FC0][00000A58ECEC7800 50] iPad5, [00000A58ECAB6E40][00000A58ECECA000 50] iPad6, [00000A58ECABCE80][00000A58ECECC800 50] iPad7, [00000A58ECAB63C0][00000A58ECEB2800 50] iPad8, [00000A58ECAB6200][00000A58ECEF0000 50] iPad9, [00000A58ECABB0C0][00000A58ECEF5000 50] iPadPro11, [00000A58ECAB6AC0][00000A58ECEF7800 50] iPadPro2_11, [00000A58ECABAD40][00000A58ECEFA000 50] iPadPro3_11, [00000A58ECAB6740][00000A58ECEFC800 50] iPadPro3_129, [00000A58ECABA800][00000A58ECEC2800 50] iPadPro4_129, [00000A58ECAB6900][00000A58ECF00000 50] iPadPro5_129, [00000A58ECABBD00][00000A58ECF05000 50] AppleTV, [00000A58ECAB4D00][00000A58ECF07800 50] AppleTV4K, [00000A58ECABBEC0][00000A58ECF0A000 50] TVOS, [00000A58ECABEC40][00000A58ECEF2800 50] Mac, [00000A58ECABEFC0][00000A58ECF0C800 50] MacEditor, [00000A58ECABE1C0][00000A58ECF10000 50] MacClient, [00000A58ECABEA80][00000A58ECF15000 50] MacServer, [00000A58ECABE8C0][00000A58ECF1A000 50] Linux, [00000A58ECABC780][00000A58ECF17800 50] LinuxEditor, [00000A58ECABF180][00000A58ECF1C800 50] LinuxArm64Editor, [00000A58ECABCCC0][00000A58ECF02800 50] LinuxArm64, [00000A58ECAB9F40][00000A58ECF20000 50] LinuxClient, [00000A58ECABA640][00000A58ECF25000 50] LinuxArm64Client, [00000A58ECABE700][00000A58ECF27800 50] LinuxServer, [00000A58ECAB6C80][00000A58ECF2A000 50] LinuxArm64Server, [00000A58ECABDE40][00000A58ECF2C800 50] Android, [00000A58ECABF880][00000A58ECF12800 50] Android_Preview_OpenGL, [00000A58ECAB9D80][00000A58ECF30000 50] Android_Preview_Vulkan, [00000A58ECABE000][00000A58ECF35000 50] Android_Low, [00000A58ECAB5780][00000A58ECF37800 50] Android_Mid, [00000A58ECABBB40][00000A58ECF3A000 50] Android_High, [00000A58ECAB8340][00000A58ECF3C800 50] Android_Default, [00000A58ECABAF00][00000A58ECF22800 50] Android_Adreno4xx, [00000A58ECABB7C0][00000A58ECF40000 50] Android_Adreno5xx_Low, [00000A58ECAB7700][00000A58ECF45000 50] Android_Adreno5xx, [00000A58ECABD580][00000A58ECF47800 50] Android_Adreno6xx, [00000A58ECABF6C0][00000A58ECF4A000 50] Android_Adreno6xx_Vulkan, [00000A58ECAB4440][00000A58ECF4C800 50] Android_Adreno7xx, [00000A58ECABE380][00000A58ECF32800 50] Android_Adreno7xx_Vulkan, [00000A58ECABA100][00000A58ECF50000 50] Android_Mali_T6xx, [00000A58ECABEE00][00000A58ECF55000 50] Android_Mali_T7xx, [00000A58ECAB9BC0][00000A58ECF57800 50] Android_Mali_T8xx, [00000A58ECAB7A80][00000A58ECF5A000 50] Android_Mali_G71, [00000A58ECAB78C0][00000A58ECF5C800 50] Android_Mali_G72, [00000A58ECABA9C0][00000A58ECF42800 50] Android_Mali_G72_Vulkan, [00000A58ECABFA40][00000A58ECF60000 50] Android_Mali_G76, [00000A58ECF70000][00000A58ECF65000 50] Android_Mali_G76_Vulkan, [00000A58ECF72300][00000A58ECF67800 50] Android_Mali_G77, [00000A58ECF72140][00000A58ECF6A000 50] Android_Mali_G77_Vulkan, [00000A58ECF71F80][00000A58ECF6C800 50] Android_Mali_G78, [00000A58ECF71DC0][00000A58ECF52800 50] Android_Mali_G78_Vulkan, [00000A58ECF71C00][00000A58ECF80000 50] Android_Mali_G710, [00000A58ECF724C0][00000A58ECF85000 50] Android_Mali_G710_Vulkan, [00000A58ECF701C0][00000A58ECF87800 50] Android_Xclipse_920, [00000A58ECF72A00][00000A58ECF8A000 50] Android_Xclipse_920_Vulkan, [00000A58ECF72D80][00000A58ECF8C800 50] Android_Vulkan_SM5, [00000A58ECF70A80][00000A58ECF62800 50] Android_PowerVR_G6xxx, [00000A58ECF70380][00000A58ECF90000 50] Android_PowerVR_GT7xxx, [00000A58ECF72840][00000A58ECF95000 50] Android_PowerVR_GE8xxx, [00000A58ECF708C0][00000A58ECF97800 50] Android_PowerVR_GM9xxx, [00000A58ECF72BC0][00000A58ECF9A000 50] Android_PowerVR_GM9xxx_Vulkan, [00000A58ECF72680][00000A58ECF9C800 50] Android_TegraK1, [00000A58ECF70540][00000A58ECF82800 50] Android_Unknown_Vulkan, [00000A58ECF72F40][00000A58ECFA0000 50] Oculus_Quest, [00000A58ECF70FC0][00000A58ECFA5000 50] Oculus_Quest2, [00000A58ECF73800][00000A58ECFA7800 50] HoloLens, 
+[2023.06.18-18.45.35:353][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.06.18-18.45.35:376][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.06.18-18.45.35:376][  0]LogTurnkeySupport: Turnkey Platform: HoloLens: (Status=Valid, Installed=10.0.22000.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.06.18-18.45.35:376][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.06.18-18.45.35:376][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.06.18-18.45.35:376][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.06.18-18.45.35:376][  0]LogTurnkeySupport: Turnkey Platform: TVOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.06.18-18.45.35:376][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.22000.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.06.18-18.45.35:453][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.06.18-18.45.35:717][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.06.18-18.45.35:717][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.06.18-18.45.35:717][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.06.18-18.45.35:717][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.06.18-18.45.35:718][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.06.18-18.45.35:776][  0]LogNetVersion: Team3_FinalProject 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3170613265)
+[2023.06.18-18.45.36:022][  0]LogSlate: Border
+[2023.06.18-18.45.36:022][  0]LogSlate: BreadcrumbButton
+[2023.06.18-18.45.36:022][  0]LogSlate: Default
+[2023.06.18-18.45.36:022][  0]LogSlate: Icons.Save
+[2023.06.18-18.45.36:022][  0]LogSlate: Icons.Toolbar.Settings
+[2023.06.18-18.45.36:022][  0]LogSlate: ListView
+[2023.06.18-18.45.36:022][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.06.18-18.45.36:022][  0]LogSlate: SoftwareCursor_Grab
+[2023.06.18-18.45.36:022][  0]LogSlate: TableView.DarkRow
+[2023.06.18-18.45.36:022][  0]LogSlate: TableView.Row
+[2023.06.18-18.45.36:022][  0]LogSlate: TreeView
+[2023.06.18-18.45.36:528][  0]SourceControl: Source control is disabled
+[2023.06.18-18.45.36:579][  0]SourceControl: Source control is disabled
+[2023.06.18-18.45.36:579][  0]SourceControl: Source control is disabled
+[2023.06.18-18.45.36:750][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.06.18-18.45.36:751][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2023.06.18-18.45.36:751][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.06.18-18.45.37:821][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 8E65A5A7444E61E0EE1D8D91126BC079 | Instance: 22F0A6024947EEC0C6051C9E108C9669 (DESKTOP-VAL2BR6-34188).
+[2023.06.18-18.45.38:060][  0]LogPython: Using Python 3.9.7
+[2023.06.18-18.45.38:730][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.06.18-18.45.38:741][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.06.18-18.45.39:508][  0]SourceControl: Source control is disabled
+[2023.06.18-18.45.39:516][  0]SourceControl: Source control is disabled
+[2023.06.18-18.45.39:529][  0]SourceControl: Source control is disabled
+[2023.06.18-18.45.39:540][  0]LogUProjectInfo: Found projects:
+[2023.06.18-18.45.39:817][  0]LogOpenImageDenoise: OIDN starting up
+[2023.06.18-18.45.39:893][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.06.18-18.45.39:927][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.18-18.45.39:927][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.18-18.45.40:101][  0]LogCollectionManager: Loaded 0 collections in 0.002988 seconds
+[2023.06.18-18.45.40:279][  0]LogFileCache: Scanning file cache for directory 'C:/Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Saved/Collections/' took 0.00s
+[2023.06.18-18.45.40:279][  0]LogFileCache: Scanning file cache for directory 'C:/Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Content/Developers/suki/Collections/' took 0.00s
+[2023.06.18-18.45.40:279][  0]LogFileCache: Scanning file cache for directory 'C:/Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Content/Collections/' took 0.00s
+[2023.06.18-18.45.40:892][  0]LogEngine: Initializing Engine...
+[2023.06.18-18.45.40:935][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.06.18-18.45.40:941][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2023.06.18-18.45.41:221][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.06.18-18.45.41:235][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.18-18.45.41:281][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.18-18.45.41:387][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.06.18-18.45.41:423][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.06.18-18.45.41:449][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.06.18-18.45.41:450][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.06.18-18.45.41:450][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.06.18-18.45.41:457][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.06.18-18.45.41:457][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.06.18-18.45.41:459][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.18-18.45.41:460][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.18-18.45.41:460][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.18-18.45.41:460][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.18-18.45.41:460][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.18-18.45.41:460][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.18-18.45.41:460][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.18-18.45.41:460][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.18-18.45.41:465][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.18-18.45.41:465][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.18-18.45.41:466][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.18-18.45.41:490][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.18-18.45.41:520][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (EMBERTON)
+[2023.06.18-18.45.41:522][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.18-18.45.41:525][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.18-18.45.41:525][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.18-18.45.41:530][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.06.18-18.45.41:530][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.06.18-18.45.41:531][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.06.18-18.45.41:532][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.06.18-18.45.41:532][  0]LogInit: FAudioDevice initialized.
+[2023.06.18-18.45.41:533][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.06.18-18.45.41:536][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.06.18-18.45.41:539][  0]LogInit: Texture streaming: Enabled
+[2023.06.18-18.45.41:578][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.06.18-18.45.41:587][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.06.18-18.45.41:626][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.06.18-18.45.41:638][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.06.18-18.45.41:638][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.06.18-18.45.43:437][  0]LogLiveCoding: Display: First instance in process group "UE_Team3_FinalProject_0xddc90619", spawning console
+[2023.06.18-18.45.43:438][  0]LogLiveCoding: Display: Waiting for server
+[2023.06.18-18.45.43:438][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.06.18-18.45.43:467][  0]LogInit: Transaction tracking system initialized
+[2023.06.18-18.45.43:604][  0]BlueprintLog: New page: Editor Load
+[2023.06.18-18.45.43:949][  0]LocalizationService: Localization service is disabled
+[2023.06.18-18.45.44:033][  0]TimingProfiler: Initialize
+[2023.06.18-18.45.44:034][  0]TimingProfiler: OnSessionChanged
+[2023.06.18-18.45.44:035][  0]LoadingProfiler: Initialize
+[2023.06.18-18.45.44:035][  0]LoadingProfiler: OnSessionChanged
+[2023.06.18-18.45.44:038][  0]NetworkingProfiler: Initialize
+[2023.06.18-18.45.44:041][  0]NetworkingProfiler: OnSessionChanged
+[2023.06.18-18.45.44:041][  0]MemoryProfiler: Initialize
+[2023.06.18-18.45.44:041][  0]MemoryProfiler: OnSessionChanged
+[2023.06.18-18.45.44:886][  0]LogFileCache: Scanning file cache for directory 'C:/Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Content/' took 0.01s
+[2023.06.18-18.45.44:886][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.06.18-18.45.45:131][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.06.18-18.45.45:145][  0]SourceControl: Source control is disabled
+[2023.06.18-18.45.45:149][  0]LogUnrealEdMisc: Loading editor; pre map load, took 17.922
+[2023.06.18-18.45.45:155][  0]Cmd: MAP LOAD FILE="../../../../../../Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Content/Map/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.18-18.45.45:157][  0]LightingResults: New page: Lighting Build
+[2023.06.18-18.45.45:184][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.06.18-18.45.45:199][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.18-18.45.45:216][  0]MapCheck: New page: Map Check
+[2023.06.18-18.45.45:216][  0]LightingResults: New page: Lighting Build
+[2023.06.18-18.45.45:269][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.18-18.45.45:327][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.06.18-18.45.46:471][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube should be resaved to improve async compilation performance.
+[2023.06.18-18.45.46:567][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame should be resaved to improve async compilation performance.
+[2023.06.18-18.45.46:660][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2023.06.18-18.45.46:660][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.18-18.45.46:661][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.18-18.45.46:661][  0]LogAIModule: Creating AISystem for world Level1
+[2023.06.18-18.45.46:728][  0]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2023.06.18-18.45.46:728][  0]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.06.18-18.45.46:810][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.18-18.45.46:850][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.06.18-18.45.46:853][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.18-18.45.46:854][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.715ms to complete.
+[2023.06.18-18.45.46:855][  0]LogFileHelpers: Loading map 'Level1' took 1.703
+[2023.06.18-18.45.46:959][  0]LogUnrealEdMisc: Total Editor Startup Time, took 19.732
+[2023.06.18-18.45.46:959][  0]LogShaderCompilers: Display: ================================================
+[2023.06.18-18.45.46:959][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.18-18.45.46:959][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.06.18-18.45.46:959][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.06.18-18.45.46:959][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.06.18-18.45.46:959][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.18-18.45.46:959][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.06.18-18.45.46:959][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.06.18-18.45.46:959][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.06.18-18.45.46:959][  0]LogShaderCompilers: Display: ================================================
+[2023.06.18-18.45.47:054][  0]LogWindowsTextInputMethodSystem: Activated input method: Chinese (Simplified, China) - Microsoft Pinyin (TSF IME).
+[2023.06.18-18.45.47:206][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.18-18.45.47:213][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.18-18.45.47:217][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.18-18.45.47:221][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.18-18.45.47:513][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.06.18-18.45.47:513][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.18-18.45.47:517][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.06.18-18.45.47:517][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.18-18.45.47:519][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.06.18-18.45.47:519][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.18-18.45.47:520][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.06.18-18.45.47:520][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.18-18.45.47:523][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.06.18-18.45.47:523][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.18-18.45.47:524][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.06.18-18.45.47:524][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.18-18.45.47:530][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.06.18-18.45.47:530][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.18-18.45.47:532][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.06.18-18.45.47:532][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.18-18.45.47:534][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.06.18-18.45.47:534][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.18-18.45.47:535][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.06.18-18.45.47:535][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.18-18.45.47:537][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.06.18-18.45.47:716][  0]LogStall: Startup...
+[2023.06.18-18.45.47:718][  0]LogStall: Startup complete.
+[2023.06.18-18.45.47:738][  0]LogLoad: (Engine Initialization) Total time: 20.51 seconds
+[2023.06.18-18.45.47:738][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.06.18-18.45.47:804][  0]LogAssetRegistry: Asset discovery search completed in 13.0845 seconds
+[2023.06.18-18.45.47:829][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.06.18-18.45.47:889][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.06.18-18.45.47:965][  0]LogSlate: Took 0.001100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.06.18-18.45.47:983][  0]LogSlate: Took 0.001010 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.06.18-18.45.47:987][  0]LogSlate: Took 0.000921 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.06.18-18.45.48:016][  0]LogViewport: Scene viewport resized to 1143x1113, mode Windowed.
+[2023.06.18-18.45.48:081][  0]LogRenderer: Scene Capture has ShowOnlyComponents or ShowOnlyActors ignored by the PrimitiveRenderMode setting! /Game/Map/Level1.Level1:PersistentLevel.SceneCapture2D_0.NewSceneCaptureComponent2D
+[2023.06.18-18.45.49:130][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Content/' took 1.35s
+[2023.06.18-18.45.49:242][  1]LogSlate: Took 0.001166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.06.18-18.45.49:290][  2]LogNavigationDataBuild: Navigation data generation finished in /Game/Map/Level1.
+[2023.06.18-18.45.50:596][ 83]LogRendererCore: Warning: Query 'Unaccounted' not ready.
+[2023.06.18-18.45.54:250][261]LogSlate: Took 0.001046 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.06.18-18.45.54:269][261]LogSlate: Took 0.001068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.06.18-18.45.55:332][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.06.18-18.45.55:521][350]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map/TutorialLevel.TutorialLevel
+[2023.06.18-18.45.55:521][350]Cmd: MAP LOAD FILE="../../../../../../Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Content/Map/TutorialLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.18-18.45.55:521][350]LightingResults: New page: Lighting Build
+[2023.06.18-18.45.55:521][350]LoadErrors: New page: Loading map: TutorialLevel.umap
+[2023.06.18-18.45.55:569][350]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.06.18-18.45.55:571][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.18-18.45.55:572][350]MapCheck: New page: Map Check
+[2023.06.18-18.45.55:572][350]LightingResults: New page: Lighting Build
+[2023.06.18-18.45.55:580][350]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.18-18.45.55:595][350]LogSlate: Slate User Unregistered.  User Index 8
+[2023.06.18-18.45.55:595][350]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.06.18-18.45.55:597][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.06.18-18.45.55:613][350]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2023.06.18-18.45.55:614][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.18-18.45.55:622][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.06.18-18.45.55:628][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.06.18-18.45.55:632][350]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialLevel'.
+[2023.06.18-18.45.55:632][350]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.18-18.45.55:633][350]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.18-18.45.55:633][350]LogAIModule: Creating AISystem for world TutorialLevel
+[2023.06.18-18.45.55:648][350]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.18-18.45.55:656][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.06.18-18.45.55:664][350]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.18-18.45.55:665][350]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.091ms to complete.
+[2023.06.18-18.45.55:665][350]LogFileHelpers: Loading map 'TutorialLevel' took 0.144
+[2023.06.18-18.45.58:558][657]LogViewport: Scene viewport resized to 2073x1254, mode Windowed.
+[2023.06.18-18.47.36:454][305]LogDerivedDataCache: C:/Users/suki/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.331 and deleted 0 file(s) with total size 0 MiB.
+[2023.06.18-19.08.55:702][445]LogViewport: Scene viewport resized to 1027x1248, mode Windowed.
+[2023.06.18-19.09.53:448][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.06.18-19.09.53:463][448]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.004938 seconds
+[2023.06.18-19.09.53:481][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/TutorialLevel_Auto1
+[2023.06.18-19.09.53:481][448]LogSavePackage: Moving '../../../../../../Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Saved/TutorialLevel_Auto14AC3AA1E429C7C5A29CEC2A0F97C7C73.tmp' to '../../../../../../Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Saved/Autosaves/Game/Map/TutorialLevel_Auto1.umap'
+[2023.06.18-19.09.53:504][448]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TutorialLevel' took 0.061
+[2023.06.18-19.09.53:504][448]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.061
+[2023.06.18-19.13.33:715][260]LogViewport: Scene viewport resized to 2073x1254, mode Windowed.
+[2023.06.18-19.13.39:649][758]Cmd: DUPLICATE
+[2023.06.18-19.13.39:649][758]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.14.25:736][123]Cmd: DUPLICATE
+[2023.06.18-19.14.25:736][123]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.14.34:210][707]Cmd: DUPLICATE
+[2023.06.18-19.14.34:210][707]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.16.26:766][298]Cmd: DUPLICATE
+[2023.06.18-19.16.26:766][298]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.17.29:159][751]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWallSet_Straight.SM_CellarWallSet_Straight
+[2023.06.18-19.17.29:160][751]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWallSet_Straight.SM_CellarWallSet_Straight
+[2023.06.18-19.17.29:161][751]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWallSet_Straight.SM_CellarWallSet_Straight as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_81
+[2023.06.18-19.17.29:871][827]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWallSet_Straight.SM_CellarWallSet_Straight
+[2023.06.18-19.17.29:871][827]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWallSet_Straight.SM_CellarWallSet_Straight
+[2023.06.18-19.17.29:872][827]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWallSet_Straight.SM_CellarWallSet_Straight as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_82
+[2023.06.18-19.17.54:608][700]Cmd: DELETE
+[2023.06.18-19.17.54:608][700]Cmd: ACTOR DELETE
+[2023.06.18-19.17.54:615][700]LogEditorActor: Actor GroupActor_13 is referenced by SM_CellarWallSet_Straight_Framed31.
+[2023.06.18-19.17.54:615][700]LogEditorActor: Actor GroupActor_13 is referenced by SM_CellarWallSet_Straight_Framed32.
+[2023.06.18-19.17.54:615][700]LogEditorActor: Actor GroupActor_13 is referenced by SM_CellarWallSet_Straight_Framed33.
+[2023.06.18-19.17.54:615][700]LogEditorActor: Actor GroupActor_13 is referenced by SM_CellarWallSet_Straight_Framed34.
+[2023.06.18-19.17.54:615][700]LogEditorActor: Actor GroupActor_13 is referenced by SM_CellarWallSet_Straight_Framed35.
+[2023.06.18-19.17.54:615][700]LogEditorActor: Actor GroupActor_13 is referenced by SM_CellarWallSet_Straight_Framed36.
+[2023.06.18-19.17.54:615][700]LogEditorActor: Actor GroupActor_13 is referenced by SM_CellarWallSet_Straight_Framed37.
+[2023.06.18-19.17.54:615][700]LogEditorActor: Actor GroupActor_13 is referenced by SM_CellarWallSet_Straight_Framed38.
+[2023.06.18-19.17.54:615][700]LogEditorActor: Actor GroupActor_13 is referenced by SM_CellarWallSet_Straight_Framed39.
+[2023.06.18-19.17.58:147][700]LogSlate: Window 'Message' being destroyed
+[2023.06.18-19.17.58:154][700]Message dialog closed, result: Yes, title: Message, text: Actor GroupActor_13 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+SM_CellarWallSet_Straight_Framed31
+SM_CellarWallSet_Straight_Framed32
+SM_CellarWallSet_Straight_Framed33
+SM_CellarWallSet_Straight_Framed34
+SM_CellarWallSet_Straight_Framed35
+SM_CellarWallSet_Straight_Framed36
+SM_CellarWallSet_Straight_Framed37
+SM_CellarWallSet_Straight_Framed38
+SM_CellarWallSet_Straight_Framed39
+[2023.06.18-19.17.58:157][700]LogEditorActor: Deleted Actor: GroupActor
+[2023.06.18-19.17.58:158][700]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-19.17.58:158][700]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-19.17.58:158][700]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-19.17.58:158][700]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-19.17.58:158][700]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-19.17.58:158][700]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-19.17.58:158][700]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-19.17.58:158][700]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-19.17.58:158][700]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-19.17.58:168][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.06.18-19.17.58:169][700]LogEditorActor: Deleted 10 Actors (0.021 secs)
+[2023.06.18-19.18.15:810][932]Cmd: DELETE
+[2023.06.18-19.18.15:810][932]Cmd: ACTOR DELETE
+[2023.06.18-19.18.15:811][932]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-19.18.15:819][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.06.18-19.18.15:819][932]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.06.18-19.18.17:435][ 53]Cmd: DUPLICATE
+[2023.06.18-19.18.17:435][ 53]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.18.20:234][264]Cmd: DELETE
+[2023.06.18-19.18.20:234][264]Cmd: ACTOR DELETE
+[2023.06.18-19.18.20:235][264]LogEditorActor: Actor GroupActor_13 is referenced by SM_CellarWallSet_Straight_Framed31.
+[2023.06.18-19.18.20:235][264]LogEditorActor: Actor GroupActor_13 is referenced by SM_CellarWallSet_Straight_Framed32.
+[2023.06.18-19.18.20:235][264]LogEditorActor: Actor GroupActor_13 is referenced by SM_CellarWallSet_Straight_Framed33.
+[2023.06.18-19.18.20:235][264]LogEditorActor: Actor GroupActor_13 is referenced by SM_CellarWallSet_Straight_Framed34.
+[2023.06.18-19.18.20:235][264]LogEditorActor: Actor GroupActor_13 is referenced by SM_CellarWallSet_Straight_Framed35.
+[2023.06.18-19.18.20:235][264]LogEditorActor: Actor GroupActor_13 is referenced by SM_CellarWallSet_Straight_Framed36.
+[2023.06.18-19.18.20:235][264]LogEditorActor: Actor GroupActor_13 is referenced by SM_CellarWallSet_Straight_Framed37.
+[2023.06.18-19.18.20:235][264]LogEditorActor: Actor GroupActor_13 is referenced by SM_CellarWallSet_Straight_Framed38.
+[2023.06.18-19.18.20:235][264]LogEditorActor: Actor GroupActor_13 is referenced by SM_CellarWallSet_Straight_Framed39.
+[2023.06.18-19.18.21:299][264]LogSlate: Window 'Message' being destroyed
+[2023.06.18-19.18.21:303][264]Message dialog closed, result: Yes, title: Message, text: Actor GroupActor_13 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+SM_CellarWallSet_Straight_Framed31
+SM_CellarWallSet_Straight_Framed32
+SM_CellarWallSet_Straight_Framed33
+SM_CellarWallSet_Straight_Framed34
+SM_CellarWallSet_Straight_Framed35
+SM_CellarWallSet_Straight_Framed36
+SM_CellarWallSet_Straight_Framed37
+SM_CellarWallSet_Straight_Framed38
+SM_CellarWallSet_Straight_Framed39
+[2023.06.18-19.18.21:305][264]LogEditorActor: Deleted Actor: GroupActor
+[2023.06.18-19.18.21:305][264]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-19.18.21:305][264]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-19.18.21:306][264]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-19.18.21:306][264]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-19.18.21:306][264]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-19.18.21:306][264]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-19.18.21:306][264]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-19.18.21:306][264]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-19.18.21:306][264]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-19.18.21:313][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.06.18-19.18.21:314][264]LogEditorActor: Deleted 10 Actors (0.013 secs)
+[2023.06.18-19.18.29:252][866]Cmd: DELETE
+[2023.06.18-19.18.29:252][866]Cmd: ACTOR DELETE
+[2023.06.18-19.18.29:253][866]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-19.18.29:260][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.06.18-19.18.29:261][866]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2023.06.18-19.18.52:467][597]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWallSet_Straight.SM_CellarWallSet_Straight
+[2023.06.18-19.18.52:467][597]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWallSet_Straight.SM_CellarWallSet_Straight
+[2023.06.18-19.18.52:468][597]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWallSet_Straight.SM_CellarWallSet_Straight as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_97
+[2023.06.18-19.18.53:101][667]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWallSet_Straight.SM_CellarWallSet_Straight
+[2023.06.18-19.18.53:101][667]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWallSet_Straight.SM_CellarWallSet_Straight
+[2023.06.18-19.18.53:102][667]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWallSet_Straight.SM_CellarWallSet_Straight as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_98
+[2023.06.18-19.18.57:324][983]Cmd: DELETE
+[2023.06.18-19.18.57:324][983]Cmd: ACTOR DELETE
+[2023.06.18-19.18.57:326][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-19.18.57:338][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.18-19.18.57:339][983]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2023.06.18-19.19.15:457][315]Cmd: DUPLICATE
+[2023.06.18-19.19.15:457][315]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.19.34:743][721]Cmd: DUPLICATE
+[2023.06.18-19.19.34:743][721]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.19.41:698][211]Cmd: DUPLICATE
+[2023.06.18-19.19.41:698][211]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.20.06:079][  1]Cmd: DUPLICATE
+[2023.06.18-19.20.06:079][  1]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.20.18:487][946]LogViewport: Scene viewport resized to 1143x1113, mode Windowed.
+[2023.06.18-19.20.19:046][946]LogViewport: Scene viewport resized to 1027x1248, mode Windowed.
+[2023.06.18-19.20.58:890][459]Cmd: DUPLICATE
+[2023.06.18-19.20.58:890][459]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.21.06:006][149]Cmd: TRANSACTION UNDO
+[2023.06.18-19.21.06:008][149]LogEditorTransaction: Undo Rotate Elements
+[2023.06.18-19.21.07:173][225]Cmd: DELETE
+[2023.06.18-19.21.07:173][225]Cmd: ACTOR DELETE
+[2023.06.18-19.21.07:174][225]LogEditorActor: Actor GroupActor_14 is referenced by SM_CellarWallSet_CurveOutward_Framed13.
+[2023.06.18-19.21.07:174][225]LogEditorActor: Actor GroupActor_14 is referenced by SM_CellarWallSet_CurveOutward_Framed14.
+[2023.06.18-19.21.07:174][225]LogEditorActor: Actor GroupActor_14 is referenced by SM_CellarWallSet_CurveOutward_Framed15.
+[2023.06.18-19.21.08:688][225]LogSlate: Window 'Message' being destroyed
+[2023.06.18-19.21.08:695][225]Message dialog closed, result: Yes, title: Message, text: Actor GroupActor_14 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+SM_CellarWallSet_CurveOutward_Framed13
+SM_CellarWallSet_CurveOutward_Framed14
+SM_CellarWallSet_CurveOutward_Framed15
+[2023.06.18-19.21.08:695][225]LogEditorActor: Deleted Actor: GroupActor
+[2023.06.18-19.21.08:696][225]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-19.21.08:696][225]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-19.21.08:696][225]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-19.21.08:704][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.06.18-19.21.08:705][225]LogEditorActor: Deleted 4 Actors (0.013 secs)
+[2023.06.18-19.21.30:451][237]Cmd: DUPLICATE
+[2023.06.18-19.21.30:451][237]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.21.41:981][318]Cmd: DUPLICATE
+[2023.06.18-19.21.41:981][318]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.22.14:130][996]Cmd: TRANSACTION UNDO
+[2023.06.18-19.22.14:130][996]LogEditorTransaction: Undo Move Elements
+[2023.06.18-19.23.36:563][245]Cmd: DUPLICATE
+[2023.06.18-19.23.36:563][245]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.23.44:386][ 55]Cmd: DUPLICATE
+[2023.06.18-19.23.44:386][ 55]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.23.57:902][251]Cmd: DUPLICATE
+[2023.06.18-19.23.57:902][251]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.24.04:836][783]Cmd: DUPLICATE
+[2023.06.18-19.24.04:836][783]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.24.19:058][  1]Cmd: DUPLICATE
+[2023.06.18-19.24.19:058][  1]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.24.46:300][366]Cmd: DUPLICATE
+[2023.06.18-19.24.46:300][366]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.25.16:095][989]Cmd: TRANSACTION UNDO
+[2023.06.18-19.25.16:095][989]LogEditorTransaction: Undo Clicking on Elements
+[2023.06.18-19.25.16:498][998]Cmd: TRANSACTION UNDO
+[2023.06.18-19.25.16:498][998]LogEditorTransaction: Undo Clicking on Elements
+[2023.06.18-19.25.16:945][ 27]Cmd: TRANSACTION UNDO
+[2023.06.18-19.25.16:945][ 27]LogEditorTransaction: Undo Move Elements
+[2023.06.18-19.25.17:349][ 60]Cmd: TRANSACTION UNDO
+[2023.06.18-19.25.17:349][ 60]LogEditorTransaction: Undo Move Elements
+[2023.06.18-19.25.43:875][454]Cmd: DUPLICATE
+[2023.06.18-19.25.43:875][454]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.27.59:417][149]Cmd: DUPLICATE
+[2023.06.18-19.27.59:417][149]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.28.19:099][819]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.06.18-19.28.19:099][819]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.06.18-19.28.26:002][325]LogViewport: Scene viewport resized to 1026x1248, mode Windowed.
+[2023.06.18-19.28.26:031][327]LogViewport: Scene viewport resized to 1023x1248, mode Windowed.
+[2023.06.18-19.28.26:061][329]LogViewport: Scene viewport resized to 1013x1248, mode Windowed.
+[2023.06.18-19.28.26:091][331]LogViewport: Scene viewport resized to 1004x1248, mode Windowed.
+[2023.06.18-19.28.26:121][333]LogViewport: Scene viewport resized to 995x1248, mode Windowed.
+[2023.06.18-19.28.26:147][335]LogViewport: Scene viewport resized to 989x1248, mode Windowed.
+[2023.06.18-19.28.26:182][337]LogViewport: Scene viewport resized to 979x1248, mode Windowed.
+[2023.06.18-19.28.26:211][339]LogViewport: Scene viewport resized to 969x1248, mode Windowed.
+[2023.06.18-19.28.26:242][341]LogViewport: Scene viewport resized to 956x1248, mode Windowed.
+[2023.06.18-19.28.26:274][343]LogViewport: Scene viewport resized to 946x1248, mode Windowed.
+[2023.06.18-19.28.26:296][344]LogViewport: Scene viewport resized to 944x1248, mode Windowed.
+[2023.06.18-19.29.10:663][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.18-19.29.10:680][129]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/TutorialLevel_Auto2
+[2023.06.18-19.29.10:680][129]LogSavePackage: Moving '../../../../../../Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Saved/TutorialLevel_Auto2293C8A6A48F335893AE10591A57730BA.tmp' to '../../../../../../Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Saved/Autosaves/Game/Map/TutorialLevel_Auto2.umap'
+[2023.06.18-19.29.10:687][129]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TutorialLevel' took 0.036
+[2023.06.18-19.29.10:687][129]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2023.06.18-19.29.10:989][152]Cmd: DUPLICATE
+[2023.06.18-19.29.10:989][152]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.29.19:850][797]Cmd: DUPLICATE
+[2023.06.18-19.29.19:850][797]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.29.35:085][923]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWallSet_Straight.SM_CellarWallSet_Straight
+[2023.06.18-19.29.35:085][923]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWallSet_Straight.SM_CellarWallSet_Straight
+[2023.06.18-19.29.35:085][923]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWallSet_Straight.SM_CellarWallSet_Straight as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_176
+[2023.06.18-19.29.36:075][ 25]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWallSet_Straight.SM_CellarWallSet_Straight
+[2023.06.18-19.29.36:075][ 25]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWallSet_Straight.SM_CellarWallSet_Straight
+[2023.06.18-19.29.36:075][ 25]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWallSet_Straight.SM_CellarWallSet_Straight as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_177
+[2023.06.18-19.29.53:081][356]Cmd: DELETE
+[2023.06.18-19.29.53:081][356]Cmd: ACTOR DELETE
+[2023.06.18-19.29.53:084][356]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-19.29.53:097][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.06.18-19.29.53:099][356]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2023.06.18-19.30.40:671][842]Cmd: DUPLICATE
+[2023.06.18-19.30.40:671][842]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.31.30:414][301]Cmd: DUPLICATE
+[2023.06.18-19.31.30:414][301]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.31.39:657][910]Cmd: DELETE
+[2023.06.18-19.31.39:658][910]Cmd: ACTOR DELETE
+[2023.06.18-19.31.39:660][910]LogEditorActor: Deleted Actor: PointLight
+[2023.06.18-19.31.39:666][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.06.18-19.31.39:668][910]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.06.18-19.31.42:240][ 91]Cmd: DUPLICATE
+[2023.06.18-19.31.42:240][ 91]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.39.10:919][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.06.18-19.39.10:937][757]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/TutorialLevel_Auto3
+[2023.06.18-19.39.10:937][757]LogSavePackage: Moving '../../../../../../Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Saved/TutorialLevel_Auto3C7DC157549EF3980983F9DA8806A7594.tmp' to '../../../../../../Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Saved/Autosaves/Game/Map/TutorialLevel_Auto3.umap'
+[2023.06.18-19.39.10:943][757]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TutorialLevel' took 0.033
+[2023.06.18-19.39.10:943][757]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2023.06.18-19.47.02:513][ 80]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_3.SM_CellarWoodenPlanks_3
+[2023.06.18-19.47.02:513][ 80]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_3.SM_CellarWoodenPlanks_3
+[2023.06.18-19.47.02:513][ 80]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_3.SM_CellarWoodenPlanks_3 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_178
+[2023.06.18-19.47.04:419][276]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_3.SM_CellarWoodenPlanks_3
+[2023.06.18-19.47.04:420][276]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_3.SM_CellarWoodenPlanks_3
+[2023.06.18-19.47.04:420][276]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_3.SM_CellarWoodenPlanks_3 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_179
+[2023.06.18-19.47.31:174][632]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_MiniRoofLight.SM_MiniRoofLight
+[2023.06.18-19.47.31:174][632]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_MiniRoofLight.SM_MiniRoofLight
+[2023.06.18-19.47.31:174][632]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_MiniRoofLight.SM_MiniRoofLight as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_180
+[2023.06.18-19.47.31:877][704]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_MiniRoofLight.SM_MiniRoofLight
+[2023.06.18-19.47.31:877][704]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_MiniRoofLight.SM_MiniRoofLight
+[2023.06.18-19.47.31:877][704]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_MiniRoofLight.SM_MiniRoofLight as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_181
+[2023.06.18-19.47.37:929][150]LogDerivedDataCache: C:/Users/suki/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.806 and deleted 0 file(s) with total size 0 MiB.
+[2023.06.18-19.47.56:990][501]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_SackSet_FourBase.SM_SackSet_FourBase
+[2023.06.18-19.47.56:990][501]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_SackSet_FourBase.SM_SackSet_FourBase
+[2023.06.18-19.47.56:990][501]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_SackSet_FourBase.SM_SackSet_FourBase as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_182
+[2023.06.18-19.47.57:756][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_SackSet_FourBase.SM_SackSet_FourBase
+[2023.06.18-19.47.57:756][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_SackSet_FourBase.SM_SackSet_FourBase
+[2023.06.18-19.47.57:756][587]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_SackSet_FourBase.SM_SackSet_FourBase as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_183
+[2023.06.18-19.48.14:391][993]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_SteampunkGear3.SM_SteampunkGear3
+[2023.06.18-19.48.14:391][993]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_SteampunkGear3.SM_SteampunkGear3
+[2023.06.18-19.48.14:391][993]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_SteampunkGear3.SM_SteampunkGear3 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_184
+[2023.06.18-19.48.15:743][148]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_SteampunkGear3.SM_SteampunkGear3
+[2023.06.18-19.48.15:743][148]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_SteampunkGear3.SM_SteampunkGear3
+[2023.06.18-19.48.15:743][148]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_SteampunkGear3.SM_SteampunkGear3 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_185
+[2023.06.18-19.48.50:953][915]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_Vitrin2DoubleDoor.SM_Vitrin2DoubleDoor
+[2023.06.18-19.48.50:953][915]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_Vitrin2DoubleDoor.SM_Vitrin2DoubleDoor
+[2023.06.18-19.48.50:953][915]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_Vitrin2DoubleDoor.SM_Vitrin2DoubleDoor as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_186
+[2023.06.18-19.48.51:986][ 12]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_Vitrin2DoubleDoor.SM_Vitrin2DoubleDoor
+[2023.06.18-19.48.51:986][ 12]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_Vitrin2DoubleDoor.SM_Vitrin2DoubleDoor
+[2023.06.18-19.48.51:987][ 12]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_Vitrin2DoubleDoor.SM_Vitrin2DoubleDoor as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_187
+[2023.06.18-19.49.10:706][498]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWallSet_Straight_Framed.SM_CellarWallSet_Straight_Framed
+[2023.06.18-19.49.10:706][498]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWallSet_Straight_Framed.SM_CellarWallSet_Straight_Framed
+[2023.06.18-19.49.10:707][498]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWallSet_Straight_Framed.SM_CellarWallSet_Straight_Framed as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_188
+[2023.06.18-19.49.11:488][582]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWallSet_Straight_Framed.SM_CellarWallSet_Straight_Framed
+[2023.06.18-19.49.11:489][582]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWallSet_Straight_Framed.SM_CellarWallSet_Straight_Framed
+[2023.06.18-19.49.11:489][582]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWallSet_Straight_Framed.SM_CellarWallSet_Straight_Framed as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_189
+[2023.06.18-19.49.52:014][687]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarBarrel.SM_CellarBarrel
+[2023.06.18-19.49.52:014][687]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarBarrel.SM_CellarBarrel
+[2023.06.18-19.49.52:014][687]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarBarrel.SM_CellarBarrel as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_190
+[2023.06.18-19.49.53:845][877]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarBarrel.SM_CellarBarrel
+[2023.06.18-19.49.53:845][877]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarBarrel.SM_CellarBarrel
+[2023.06.18-19.49.53:845][877]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarBarrel.SM_CellarBarrel as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_191
+[2023.06.18-19.50.08:397][956]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarBarrel.SM_CellarBarrel
+[2023.06.18-19.50.08:397][956]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarBarrel.SM_CellarBarrel
+[2023.06.18-19.50.08:398][956]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarBarrel.SM_CellarBarrel as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_192
+[2023.06.18-19.50.11:315][273]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarBarrel.SM_CellarBarrel
+[2023.06.18-19.50.11:315][273]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarBarrel.SM_CellarBarrel
+[2023.06.18-19.50.11:316][273]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarBarrel.SM_CellarBarrel as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_193
+[2023.06.18-19.50.40:454][744]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_RoofTile.SM_RoofTile
+[2023.06.18-19.50.40:454][744]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_RoofTile.SM_RoofTile
+[2023.06.18-19.50.40:454][744]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_RoofTile.SM_RoofTile as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_194
+[2023.06.18-19.50.41:482][845]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_RoofTile.SM_RoofTile
+[2023.06.18-19.50.41:482][845]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_RoofTile.SM_RoofTile
+[2023.06.18-19.50.41:483][845]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_RoofTile.SM_RoofTile as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_195
+[2023.06.18-19.50.43:400][  7]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Floor.SM_Floor
+[2023.06.18-19.50.43:400][  7]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Floor.SM_Floor
+[2023.06.18-19.50.43:400][  7]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Floor.SM_Floor as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_196
+[2023.06.18-19.50.45:072][182]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Floor.SM_Floor
+[2023.06.18-19.50.45:072][182]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Floor.SM_Floor
+[2023.06.18-19.50.45:072][182]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Floor.SM_Floor as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_197
+[2023.06.18-19.50.46:091][264]Cmd: DELETE
+[2023.06.18-19.50.46:091][264]Cmd: ACTOR DELETE
+[2023.06.18-19.50.46:093][264]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-19.50.46:103][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.06.18-19.50.46:104][264]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2023.06.18-19.51.02:651][524]Cmd: DELETE
+[2023.06.18-19.51.02:651][524]Cmd: ACTOR DELETE
+[2023.06.18-19.51.02:654][524]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-19.51.02:660][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.06.18-19.51.02:661][524]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.06.18-19.51.07:549][898]LogViewport: Scene viewport resized to 940x1248, mode Windowed.
+[2023.06.18-19.51.07:564][899]LogViewport: Scene viewport resized to 937x1248, mode Windowed.
+[2023.06.18-19.51.07:602][901]LogViewport: Scene viewport resized to 915x1248, mode Windowed.
+[2023.06.18-19.51.07:629][903]LogViewport: Scene viewport resized to 899x1248, mode Windowed.
+[2023.06.18-19.51.07:666][905]LogViewport: Scene viewport resized to 882x1248, mode Windowed.
+[2023.06.18-19.51.07:696][907]LogViewport: Scene viewport resized to 872x1248, mode Windowed.
+[2023.06.18-19.51.07:728][909]LogViewport: Scene viewport resized to 869x1248, mode Windowed.
+[2023.06.18-19.51.07:758][911]LogViewport: Scene viewport resized to 864x1248, mode Windowed.
+[2023.06.18-19.51.07:785][913]LogViewport: Scene viewport resized to 860x1248, mode Windowed.
+[2023.06.18-19.51.07:816][915]LogViewport: Scene viewport resized to 854x1248, mode Windowed.
+[2023.06.18-19.51.07:843][917]LogViewport: Scene viewport resized to 846x1248, mode Windowed.
+[2023.06.18-19.51.07:879][919]LogViewport: Scene viewport resized to 837x1248, mode Windowed.
+[2023.06.18-19.51.07:908][921]LogViewport: Scene viewport resized to 830x1248, mode Windowed.
+[2023.06.18-19.51.33:709][ 46]Cmd: DUPLICATE
+[2023.06.18-19.51.33:709][ 46]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.51.39:938][527]Cmd: DUPLICATE
+[2023.06.18-19.51.39:938][527]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.52.21:459][987]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_1.SM_CellarWoodenPlanks_1
+[2023.06.18-19.52.21:459][987]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_1.SM_CellarWoodenPlanks_1
+[2023.06.18-19.52.21:459][987]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_1.SM_CellarWoodenPlanks_1 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_200
+[2023.06.18-19.52.25:376][419]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_1.SM_CellarWoodenPlanks_1
+[2023.06.18-19.52.25:376][419]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_1.SM_CellarWoodenPlanks_1
+[2023.06.18-19.52.25:377][419]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_1.SM_CellarWoodenPlanks_1 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_201
+[2023.06.18-19.52.47:523][207]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_2.SM_CellarWoodenPlanks_2
+[2023.06.18-19.52.47:523][207]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_2.SM_CellarWoodenPlanks_2
+[2023.06.18-19.52.47:523][207]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_2.SM_CellarWoodenPlanks_2 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_202
+[2023.06.18-19.52.49:265][401]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_2.SM_CellarWoodenPlanks_2
+[2023.06.18-19.52.49:265][401]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_2.SM_CellarWoodenPlanks_2
+[2023.06.18-19.52.49:265][401]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_2.SM_CellarWoodenPlanks_2 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_203
+[2023.06.18-19.53.12:280][264]Cmd: DUPLICATE
+[2023.06.18-19.53.12:280][264]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.53.32:812][849]Cmd: DELETE
+[2023.06.18-19.53.32:812][849]Cmd: ACTOR DELETE
+[2023.06.18-19.53.32:815][849]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-19.53.32:828][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.06.18-19.53.32:829][849]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2023.06.18-19.54.08:273][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.06.18-19.54.08:292][721]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/TutorialLevel_Auto4
+[2023.06.18-19.54.08:292][721]LogSavePackage: Moving '../../../../../../Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Saved/TutorialLevel_Auto4F76A6B9D4A0252E6BE6817A4F8B0EF7B.tmp' to '../../../../../../Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Saved/Autosaves/Game/Map/TutorialLevel_Auto4.umap'
+[2023.06.18-19.54.08:299][721]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TutorialLevel' took 0.033
+[2023.06.18-19.54.08:299][721]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2023.06.18-19.55.05:459][534]Cmd: DUPLICATE
+[2023.06.18-19.55.05:459][534]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.55.43:541][577]Cmd: DELETE
+[2023.06.18-19.55.43:541][577]Cmd: ACTOR DELETE
+[2023.06.18-19.55.43:544][577]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-19.55.43:552][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.06.18-19.55.43:552][577]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.06.18-19.55.47:241][850]Cmd: DUPLICATE
+[2023.06.18-19.55.47:241][850]Cmd: ACTOR DUPLICATE
+[2023.06.18-19.55.59:747][841]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_1.SM_CellarWoodenPlanks_1
+[2023.06.18-19.55.59:747][841]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_1.SM_CellarWoodenPlanks_1
+[2023.06.18-19.55.59:748][841]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_1.SM_CellarWoodenPlanks_1 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_207
+[2023.06.18-19.56.00:515][922]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_1.SM_CellarWoodenPlanks_1
+[2023.06.18-19.56.00:515][922]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_1.SM_CellarWoodenPlanks_1
+[2023.06.18-19.56.00:516][922]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_1.SM_CellarWoodenPlanks_1 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_208
+[2023.06.18-19.58.32:553][ 64]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_4.SM_CellarWoodenPlanks_4
+[2023.06.18-19.58.32:553][ 64]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_4.SM_CellarWoodenPlanks_4
+[2023.06.18-19.58.32:554][ 64]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_4.SM_CellarWoodenPlanks_4 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_209
+[2023.06.18-19.58.33:591][171]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_4.SM_CellarWoodenPlanks_4
+[2023.06.18-19.58.33:591][171]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_4.SM_CellarWoodenPlanks_4
+[2023.06.18-19.58.33:592][171]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_4.SM_CellarWoodenPlanks_4 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_210
+[2023.06.18-19.58.48:172][365]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_11.SM_CellarWoodenPlanks_11
+[2023.06.18-19.58.48:172][365]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_11.SM_CellarWoodenPlanks_11
+[2023.06.18-19.58.48:173][365]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_11.SM_CellarWoodenPlanks_11 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_211
+[2023.06.18-19.58.49:354][493]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_11.SM_CellarWoodenPlanks_11
+[2023.06.18-19.58.49:354][493]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_11.SM_CellarWoodenPlanks_11
+[2023.06.18-19.58.49:355][493]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_11.SM_CellarWoodenPlanks_11 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_212
+[2023.06.18-19.58.59:424][312]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_13.SM_CellarWoodenPlanks_13
+[2023.06.18-19.58.59:424][312]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_13.SM_CellarWoodenPlanks_13
+[2023.06.18-19.58.59:425][312]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_13.SM_CellarWoodenPlanks_13 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_213
+[2023.06.18-19.59.00:829][461]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_13.SM_CellarWoodenPlanks_13
+[2023.06.18-19.59.00:829][461]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_13.SM_CellarWoodenPlanks_13
+[2023.06.18-19.59.00:830][461]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_13.SM_CellarWoodenPlanks_13 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_214
+[2023.06.18-19.59.13:161][440]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_8.SM_CellarWoodenPlanks_8
+[2023.06.18-19.59.13:161][440]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_8.SM_CellarWoodenPlanks_8
+[2023.06.18-19.59.13:162][440]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_8.SM_CellarWoodenPlanks_8 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_215
+[2023.06.18-19.59.14:119][542]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_8.SM_CellarWoodenPlanks_8
+[2023.06.18-19.59.14:119][542]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_8.SM_CellarWoodenPlanks_8
+[2023.06.18-19.59.14:120][542]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_8.SM_CellarWoodenPlanks_8 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_216
+[2023.06.18-19.59.28:008][652]Cmd: DUPLICATE
+[2023.06.18-19.59.28:008][652]Cmd: ACTOR DUPLICATE
+[2023.06.18-20.00.19:429][757]Cmd: DUPLICATE
+[2023.06.18-20.00.19:429][757]Cmd: ACTOR DUPLICATE
+[2023.06.18-20.00.27:210][369]Cmd: DUPLICATE
+[2023.06.18-20.00.27:210][369]Cmd: ACTOR DUPLICATE
+[2023.06.18-20.00.45:310][827]Cmd: DUPLICATE
+[2023.06.18-20.00.45:311][827]Cmd: ACTOR DUPLICATE
+[2023.06.18-20.01.10:846][860]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_15.SM_CellarWoodenPlanks_15
+[2023.06.18-20.01.10:846][860]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_15.SM_CellarWoodenPlanks_15
+[2023.06.18-20.01.10:846][860]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_15.SM_CellarWoodenPlanks_15 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_221
+[2023.06.18-20.01.13:487][131]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_15.SM_CellarWoodenPlanks_15
+[2023.06.18-20.01.13:487][131]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_15.SM_CellarWoodenPlanks_15
+[2023.06.18-20.01.13:488][131]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_15.SM_CellarWoodenPlanks_15 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_222
+[2023.06.18-20.02.07:775][199]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_KnightPileBig.SM_KnightPileBig
+[2023.06.18-20.02.07:775][199]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_KnightPileBig.SM_KnightPileBig
+[2023.06.18-20.02.07:775][199]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_KnightPileBig.SM_KnightPileBig as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_223
+[2023.06.18-20.02.08:598][282]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_KnightPileBig.SM_KnightPileBig
+[2023.06.18-20.02.08:598][282]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_KnightPileBig.SM_KnightPileBig
+[2023.06.18-20.02.08:599][282]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_KnightPileBig.SM_KnightPileBig as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_224
+[2023.06.18-20.02.15:843][805]Cmd: DELETE
+[2023.06.18-20.02.15:843][805]Cmd: ACTOR DELETE
+[2023.06.18-20.02.15:846][805]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-20.02.15:857][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.18-20.02.15:858][805]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2023.06.18-20.02.39:933][565]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_FireToolsASh.SM_FireToolsASh
+[2023.06.18-20.02.39:933][565]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_FireToolsASh.SM_FireToolsASh
+[2023.06.18-20.02.39:933][565]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_FireToolsASh.SM_FireToolsASh as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_225
+[2023.06.18-20.02.40:681][629]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_FireToolsASh.SM_FireToolsASh
+[2023.06.18-20.02.40:681][629]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_FireToolsASh.SM_FireToolsASh
+[2023.06.18-20.02.40:681][629]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_FireToolsASh.SM_FireToolsASh as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_226
+[2023.06.18-20.02.56:996][780]Cmd: DUPLICATE
+[2023.06.18-20.02.56:996][780]Cmd: ACTOR DUPLICATE
+[2023.06.18-20.02.58:527][896]Cmd: TRANSACTION UNDO
+[2023.06.18-20.02.58:527][896]LogEditorTransaction: Undo Duplicate Elements
+[2023.06.18-20.02.59:534][948]Cmd: EDIT COPY
+[2023.06.18-20.03.01:570][ 99]Cmd: EDIT COPY
+[2023.06.18-20.03.02:435][165]Cmd: EDIT PASTE
+[2023.06.18-20.03.04:436][319]Cmd: DELETE
+[2023.06.18-20.03.04:436][319]Cmd: ACTOR DELETE
+[2023.06.18-20.03.04:438][319]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-20.03.04:450][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.06.18-20.03.04:451][319]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2023.06.18-20.03.08:107][593]Cmd: EDIT COPY
+[2023.06.18-20.03.35:414][294]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_Buffah1_DoubleDoor.SM_Buffah1_DoubleDoor
+[2023.06.18-20.03.35:414][294]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_Buffah1_DoubleDoor.SM_Buffah1_DoubleDoor
+[2023.06.18-20.03.35:414][294]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_Buffah1_DoubleDoor.SM_Buffah1_DoubleDoor as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_229
+[2023.06.18-20.03.36:178][370]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_Buffah1_DoubleDoor.SM_Buffah1_DoubleDoor
+[2023.06.18-20.03.36:178][370]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_Buffah1_DoubleDoor.SM_Buffah1_DoubleDoor
+[2023.06.18-20.03.36:178][370]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_Buffah1_DoubleDoor.SM_Buffah1_DoubleDoor as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_230
+[2023.06.18-20.04.08:821][875]Cmd: DELETE
+[2023.06.18-20.04.08:821][875]Cmd: ACTOR DELETE
+[2023.06.18-20.04.08:823][875]LogEditorActor: Actor GroupActor_15 is referenced by SM_WineCab7.
+[2023.06.18-20.04.08:823][875]LogEditorActor: Actor GroupActor_15 is referenced by SM_WineCab8.
+[2023.06.18-20.04.08:823][875]LogEditorActor: Actor GroupActor_15 is referenced by SM_WineCab9.
+[2023.06.18-20.04.08:823][875]LogEditorActor: Actor GroupActor_15 is referenced by SM_WineCab10.
+[2023.06.18-20.04.08:823][875]LogEditorActor: Actor GroupActor_15 is referenced by SM_WineCab11.
+[2023.06.18-20.04.08:823][875]LogEditorActor: Actor GroupActor_15 is referenced by SM_WineCab12.
+[2023.06.18-20.04.10:259][875]LogSlate: Window 'Message' being destroyed
+[2023.06.18-20.04.10:264][875]Message dialog closed, result: Yes, title: Message, text: Actor GroupActor_15 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+SM_WineCab7
+SM_WineCab8
+SM_WineCab9
+SM_WineCab10
+SM_WineCab11
+SM_WineCab12
+[2023.06.18-20.04.10:265][875]LogEditorActor: Deleted Actor: GroupActor
+[2023.06.18-20.04.10:266][875]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-20.04.10:266][875]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-20.04.10:266][875]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-20.04.10:266][875]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-20.04.10:266][875]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-20.04.10:266][875]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.18-20.04.10:274][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.06.18-20.04.10:275][875]LogEditorActor: Deleted 7 Actors (0.013 secs)
+[2023.06.18-20.04.26:158][ 91]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_Candlesticktrihead.SM_Candlesticktrihead
+[2023.06.18-20.04.26:159][ 91]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_Candlesticktrihead.SM_Candlesticktrihead
+[2023.06.18-20.04.26:159][ 91]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_Candlesticktrihead.SM_Candlesticktrihead as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_231
+[2023.06.18-20.04.27:454][222]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_Candlesticktrihead.SM_Candlesticktrihead
+[2023.06.18-20.04.27:454][222]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_Candlesticktrihead.SM_Candlesticktrihead
+[2023.06.18-20.04.27:454][222]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_Candlesticktrihead.SM_Candlesticktrihead as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_232
+[2023.06.18-20.05.05:126][ 36]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Fence.SM_Fence
+[2023.06.18-20.05.05:126][ 36]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Fence.SM_Fence
+[2023.06.18-20.05.05:127][ 36]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Fence.SM_Fence as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_233
+[2023.06.18-20.05.05:926][116]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Fence.SM_Fence
+[2023.06.18-20.05.05:926][116]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Fence.SM_Fence
+[2023.06.18-20.05.05:926][116]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Fence.SM_Fence as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_234
+[2023.06.18-20.05.27:869][651]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_FenceSmall.SM_FenceSmall
+[2023.06.18-20.05.27:869][651]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_FenceSmall.SM_FenceSmall
+[2023.06.18-20.05.27:869][651]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_FenceSmall.SM_FenceSmall as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_235
+[2023.06.18-20.05.28:538][709]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_FenceSmall.SM_FenceSmall
+[2023.06.18-20.05.28:538][709]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_FenceSmall.SM_FenceSmall
+[2023.06.18-20.05.28:539][709]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_FenceSmall.SM_FenceSmall as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_236
+[2023.06.18-20.06.23:600][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.18-20.06.23:622][768]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/TutorialLevel_Auto5
+[2023.06.18-20.06.23:622][768]LogSavePackage: Moving '../../../../../../Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Saved/TutorialLevel_Auto54BA40C5348876193B359ADAD878388BF.tmp' to '../../../../../../Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Saved/Autosaves/Game/Map/TutorialLevel_Auto5.umap'
+[2023.06.18-20.06.23:635][768]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TutorialLevel' took 0.067
+[2023.06.18-20.06.23:635][768]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.067
+[2023.06.18-20.16.24:126][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.06.18-20.16.24:148][957]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/TutorialLevel_Auto6
+[2023.06.18-20.16.24:148][957]LogSavePackage: Moving '../../../../../../Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Saved/TutorialLevel_Auto62ECACAD9490F00B51A8FE5A3C4CB28C4.tmp' to '../../../../../../Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Saved/Autosaves/Game/Map/TutorialLevel_Auto6.umap'
+[2023.06.18-20.16.24:155][957]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TutorialLevel' took 0.040
+[2023.06.18-20.16.24:155][957]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2023.06.18-20.47.34:660][543]LogDerivedDataCache: C:/Users/suki/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.432 and deleted 0 file(s) with total size 0 MiB.
+[2023.06.18-21.47.34:908][287]LogDerivedDataCache: C:/Users/suki/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.539 and deleted 0 file(s) with total size 0 MiB.
+[2023.06.18-22.42.47:608][177]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Razer Kraken V3), InstanceID=1
+[2023.06.18-22.42.47:608][177]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=33680
+[2023.06.18-22.42.47:944][177]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{39f49547-716c-4b4f-b02c-e4f7ec43f77b}, Name=Speakers (Razer Kraken V3)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=61.40
+[2023.06.18-22.42.47:945][177]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.06.18-22.42.47:956][178]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.06.18-22.43.07:380][236]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (EMBERTON), InstanceID=1
+[2023.06.18-22.43.07:380][236]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=33680
+[2023.06.18-22.43.07:711][236]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{1055e549-1d02-47d2-ae90-06452ab3cb28}, Name=Speakers (EMBERTON)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=10.54
+[2023.06.18-22.43.07:711][236]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.06.18-22.43.07:717][237]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.06.18-22.44.02:728][401]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.06.18-22.47.34:691][ 57]LogDerivedDataCache: C:/Users/suki/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.460 and deleted 0 file(s) with total size 0 MiB.
+[2023.06.18-23.47.34:951][821]LogDerivedDataCache: C:/Users/suki/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.699 and deleted 0 file(s) with total size 0 MiB.
+[2023.06.18-23.54.40:601][ 90]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Razer Kraken V3), InstanceID=1
+[2023.06.18-23.54.40:601][ 90]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=33680
+[2023.06.18-23.54.40:941][ 90]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{39f49547-716c-4b4f-b02c-e4f7ec43f77b}, Name=Speakers (Razer Kraken V3)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=19.47
+[2023.06.18-23.54.40:941][ 90]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.06.18-23.54.40:944][ 91]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.06.18-23.55.16:347][197]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (EMBERTON), InstanceID=1
+[2023.06.18-23.55.16:347][197]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=33680
+[2023.06.18-23.55.17:020][198]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{1055e549-1d02-47d2-ae90-06452ab3cb28}, Name=Speakers (EMBERTON)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=605.82
+[2023.06.18-23.55.17:020][198]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.06.18-23.55.17:021][199]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.06.19-00.08.57:102][642]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Razer Kraken V3), InstanceID=1
+[2023.06.19-00.08.57:102][642]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=33680
+[2023.06.19-00.08.57:442][642]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{39f49547-716c-4b4f-b02c-e4f7ec43f77b}, Name=Speakers (Razer Kraken V3)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=17.98
+[2023.06.19-00.08.57:442][642]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.06.19-00.08.57:444][643]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.06.19-00.25.23:690][595]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Suki的AirPods), InstanceID=1
+[2023.06.19-00.25.23:690][595]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=33680
+[2023.06.19-00.25.24:027][595]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{1fa79b3c-707c-4294-8c35-bfd859173737}, Name=Headphones (Suki的AirPods)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=10.32
+[2023.06.19-00.25.24:027][595]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.06.19-00.25.24:032][596]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.06.19-00.25.24:698][598]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Razer Kraken V3), InstanceID=1
+[2023.06.19-00.25.24:700][598]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=33680
+[2023.06.19-00.25.25:033][598]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{39f49547-716c-4b4f-b02c-e4f7ec43f77b}, Name=Speakers (Razer Kraken V3)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=21.61
+[2023.06.19-00.25.25:033][598]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.06.19-00.25.25:035][599]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.06.19-00.25.26:031][602]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Suki的AirPods), InstanceID=1
+[2023.06.19-00.25.26:031][602]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=33680
+[2023.06.19-00.25.26:372][602]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{1fa79b3c-707c-4294-8c35-bfd859173737}, Name=Headphones (Suki的AirPods)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=10.36
+[2023.06.19-00.25.26:372][602]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.06.19-00.25.26:373][603]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.06.19-00.26.33:128][802]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Razer Kraken V3), InstanceID=1
+[2023.06.19-00.26.33:128][802]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=33680
+[2023.06.19-00.26.33:469][802]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{39f49547-716c-4b4f-b02c-e4f7ec43f77b}, Name=Speakers (Razer Kraken V3)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=12.89
+[2023.06.19-00.26.33:469][802]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.06.19-00.26.33:470][803]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.06.19-00.26.59:975][882]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (EMBERTON), InstanceID=1
+[2023.06.19-00.26.59:975][882]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=33680
+[2023.06.19-00.27.00:310][882]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{1055e549-1d02-47d2-ae90-06452ab3cb28}, Name=Speakers (EMBERTON)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=16.76
+[2023.06.19-00.27.00:310][882]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.06.19-00.27.00:312][883]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.06.19-00.38.11:249][183]Cmd: DUPLICATE
+[2023.06.19-00.38.11:249][183]Cmd: ACTOR DUPLICATE
+[2023.06.19-00.38.11:512][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.06.19-00.38.11:766][183]LogSavePackage: Moving output files for package: /Game/Map/TutorialLevel
+[2023.06.19-00.38.11:768][183]LogSavePackage: Moving '../../../../../../Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Saved/TutorialLevelFC9F9B3D4D36A1589C2F83A772DA1DE6.tmp' to '../../../../../../Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Content/Map/TutorialLevel.umap'
+[2023.06.19-00.38.12:276][183]AssetCheck: New page: Asset Save: TutorialLevel
+[2023.06.19-00.38.12:278][183]LogContentValidation: Display: Validating World /Game/Map/TutorialLevel.TutorialLevel
+[2023.06.19-00.38.29:631][450]Cmd: DUPLICATE
+[2023.06.19-00.38.29:631][450]Cmd: ACTOR DUPLICATE
+[2023.06.19-00.39.00:681][857]Cmd: DUPLICATE
+[2023.06.19-00.39.00:681][857]Cmd: ACTOR DUPLICATE
+[2023.06.19-00.39.47:114][421]Cmd: DELETE
+[2023.06.19-00.39.47:114][421]Cmd: ACTOR DELETE
+[2023.06.19-00.39.47:120][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-00.39.47:161][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.06.19-00.39.47:163][421]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2023.06.19-00.40.04:074][705]Cmd: DUPLICATE
+[2023.06.19-00.40.04:074][705]Cmd: ACTOR DUPLICATE
+[2023.06.19-00.40.26:052][373]Cmd: DUPLICATE
+[2023.06.19-00.40.26:052][373]Cmd: ACTOR DUPLICATE
+[2023.06.19-00.41.10:253][640]Cmd: DUPLICATE
+[2023.06.19-00.41.10:253][640]Cmd: ACTOR DUPLICATE
+[2023.06.19-00.42.06:964][287]Cmd: DUPLICATE
+[2023.06.19-00.42.06:964][287]Cmd: ACTOR DUPLICATE
+[2023.06.19-00.42.31:241][835]Cmd: TRANSACTION UNDO
+[2023.06.19-00.42.31:241][835]LogEditorTransaction: Undo Move Elements
+[2023.06.19-00.44.00:255][742]Cmd: DUPLICATE
+[2023.06.19-00.44.00:255][742]Cmd: ACTOR DUPLICATE
+[2023.06.19-00.45.15:094][101]Cmd: DUPLICATE
+[2023.06.19-00.45.15:094][101]Cmd: ACTOR DUPLICATE
+[2023.06.19-00.45.29:193][955]LogViewport: Scene viewport resized to 1677x1254, mode Windowed.
+[2023.06.19-00.45.30:996][ 54]LogViewport: Scene viewport resized to 1678x1254, mode Windowed.
+[2023.06.19-00.45.31:065][ 58]LogViewport: Scene viewport resized to 1684x1254, mode Windowed.
+[2023.06.19-00.45.31:089][ 60]LogViewport: Scene viewport resized to 1738x1254, mode Windowed.
+[2023.06.19-00.45.31:115][ 61]LogViewport: Scene viewport resized to 1859x1254, mode Windowed.
+[2023.06.19-00.45.31:162][ 63]LogViewport: Scene viewport resized to 2083x1254, mode Windowed.
+[2023.06.19-00.45.31:197][ 65]LogViewport: Scene viewport resized to 2208x1254, mode Windowed.
+[2023.06.19-00.45.31:267][ 67]LogViewport: Scene viewport resized to 2308x1254, mode Windowed.
+[2023.06.19-00.45.31:326][ 69]LogViewport: Scene viewport resized to 2334x1254, mode Windowed.
+[2023.06.19-00.45.31:365][ 71]LogViewport: Scene viewport resized to 2374x1254, mode Windowed.
+[2023.06.19-00.45.31:401][ 73]LogViewport: Scene viewport resized to 2389x1254, mode Windowed.
+[2023.06.19-00.47.34:668][445]LogDerivedDataCache: C:/Users/suki/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.542 and deleted 0 file(s) with total size 0 MiB.
+[2023.06.19-00.48.11:380][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.06.19-00.48.11:403][326]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/TutorialLevel_Auto7
+[2023.06.19-00.48.11:403][326]LogSavePackage: Moving '../../../../../../Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Saved/TutorialLevel_Auto7D1696B434A0B0AD5BE8E41994027A30D.tmp' to '../../../../../../Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Saved/Autosaves/Game/Map/TutorialLevel_Auto7.umap'
+[2023.06.19-00.48.11:410][326]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TutorialLevel' took 0.046
+[2023.06.19-00.48.11:410][326]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.046
+[2023.06.19-00.50.28:137][173]Cmd: DELETE
+[2023.06.19-00.50.28:137][173]Cmd: ACTOR DELETE
+[2023.06.19-00.50.28:139][173]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-00.50.28:149][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.06.19-00.50.28:151][173]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2023.06.19-00.50.32:171][393]Cmd: DELETE
+[2023.06.19-00.50.32:171][393]Cmd: ACTOR DELETE
+[2023.06.19-00.50.32:174][393]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-00.50.32:182][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.06.19-00.50.32:186][393]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2023.06.19-00.50.45:487][ 67]Cmd: DUPLICATE
+[2023.06.19-00.50.45:487][ 67]Cmd: ACTOR DUPLICATE
+[2023.06.19-00.50.58:718][738]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Fence.SM_Fence
+[2023.06.19-00.50.58:718][738]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Fence.SM_Fence
+[2023.06.19-00.50.58:719][738]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Fence.SM_Fence as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_262
+[2023.06.19-00.51.01:011][919]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Fence.SM_Fence
+[2023.06.19-00.51.01:012][919]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Fence.SM_Fence
+[2023.06.19-00.51.01:012][919]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Fence.SM_Fence as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_263
+[2023.06.19-00.51.22:259][  4]Cmd: DELETE
+[2023.06.19-00.51.22:259][  4]Cmd: ACTOR DELETE
+[2023.06.19-00.51.22:261][  4]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-00.51.22:279][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.19-00.51.22:281][  4]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2023.06.19-00.51.25:057][147]Cmd: DELETE
+[2023.06.19-00.51.25:057][147]Cmd: ACTOR DELETE
+[2023.06.19-00.51.25:059][147]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-00.51.25:066][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.19-00.51.25:068][147]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.06.19-00.51.39:773][906]Cmd: DUPLICATE
+[2023.06.19-00.51.39:773][906]Cmd: ACTOR DUPLICATE
+[2023.06.19-00.51.49:064][426]LogViewport: Scene viewport resized to 2385x1254, mode Windowed.
+[2023.06.19-00.51.49:091][428]LogViewport: Scene viewport resized to 2371x1254, mode Windowed.
+[2023.06.19-00.51.49:125][430]LogViewport: Scene viewport resized to 2324x1254, mode Windowed.
+[2023.06.19-00.51.49:153][432]LogViewport: Scene viewport resized to 2226x1254, mode Windowed.
+[2023.06.19-00.51.49:181][434]LogViewport: Scene viewport resized to 2129x1254, mode Windowed.
+[2023.06.19-00.51.49:210][436]LogViewport: Scene viewport resized to 2064x1254, mode Windowed.
+[2023.06.19-00.51.49:236][438]LogViewport: Scene viewport resized to 2027x1254, mode Windowed.
+[2023.06.19-00.51.49:263][440]LogViewport: Scene viewport resized to 2004x1254, mode Windowed.
+[2023.06.19-00.51.49:292][442]LogViewport: Scene viewport resized to 1985x1254, mode Windowed.
+[2023.06.19-00.51.49:319][444]LogViewport: Scene viewport resized to 1955x1254, mode Windowed.
+[2023.06.19-00.51.49:336][445]LogViewport: Scene viewport resized to 1934x1254, mode Windowed.
+[2023.06.19-00.51.49:364][447]LogViewport: Scene viewport resized to 1906x1254, mode Windowed.
+[2023.06.19-00.51.50:748][537]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarBarrel.SM_CellarBarrel
+[2023.06.19-00.51.50:936][537]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.19-00.51.51:511][537]LogViewport: Scene viewport resized to 874x1172, mode Windowed.
+[2023.06.19-00.52.00:344][923]LogSlate: Window 'SM_CellarBarrel' being destroyed
+[2023.06.19-00.52.00:349][923]LogSlate: Window 'SM_CellarBarrel' being destroyed
+[2023.06.19-00.52.00:414][923]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.06.19-00.52.00:422][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.19-00.52.39:455][ 36]Cmd: DUPLICATE
+[2023.06.19-00.52.39:455][ 36]Cmd: ACTOR DUPLICATE
+[2023.06.19-00.53.02:692][233]Cmd: DELETE
+[2023.06.19-00.53.02:692][233]Cmd: ACTOR DELETE
+[2023.06.19-00.53.02:694][233]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-00.53.02:735][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.06.19-00.53.02:737][233]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2023.06.19-00.53.31:065][737]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Fence.SM_Fence
+[2023.06.19-00.53.31:065][737]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Fence.SM_Fence
+[2023.06.19-00.53.31:065][737]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Fence.SM_Fence as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_270
+[2023.06.19-00.53.32:029][817]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Fence.SM_Fence
+[2023.06.19-00.53.32:030][817]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Fence.SM_Fence
+[2023.06.19-00.53.32:030][817]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Fence.SM_Fence as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_271
+[2023.06.19-00.53.39:011][194]Cmd: DELETE
+[2023.06.19-00.53.39:011][194]Cmd: ACTOR DELETE
+[2023.06.19-00.53.39:015][194]LogEditorActor: Actor GroupActor_34 is referenced by SM_Fence4.
+[2023.06.19-00.53.39:015][194]LogEditorActor: Actor GroupActor_34 is referenced by SM_Fence5.
+[2023.06.19-00.53.39:015][194]LogEditorActor: Actor GroupActor_34 is referenced by SM_Fence6.
+[2023.06.19-00.53.40:072][194]LogSlate: Window 'Message' being destroyed
+[2023.06.19-00.53.40:078][194]Message dialog closed, result: Yes, title: Message, text: Actor GroupActor_34 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+SM_Fence4
+SM_Fence5
+SM_Fence6
+[2023.06.19-00.53.40:079][194]LogEditorActor: Deleted Actor: GroupActor
+[2023.06.19-00.53.40:080][194]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-00.53.40:080][194]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-00.53.40:080][194]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-00.53.40:091][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.06.19-00.53.40:094][194]LogEditorActor: Deleted 4 Actors (0.020 secs)
+[2023.06.19-00.53.41:655][277]Cmd: DELETE
+[2023.06.19-00.53.41:655][277]Cmd: ACTOR DELETE
+[2023.06.19-00.53.41:657][277]LogEditorActor: Actor GroupActor_35 is referenced by SM_Fence7.
+[2023.06.19-00.53.41:657][277]LogEditorActor: Actor GroupActor_35 is referenced by SM_Fence8.
+[2023.06.19-00.53.41:657][277]LogEditorActor: Actor GroupActor_35 is referenced by SM_Fence9.
+[2023.06.19-00.53.42:821][277]LogSlate: Window 'Message' being destroyed
+[2023.06.19-00.53.42:827][277]Message dialog closed, result: Yes, title: Message, text: Actor GroupActor_35 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+SM_Fence7
+SM_Fence8
+SM_Fence9
+[2023.06.19-00.53.42:828][277]LogEditorActor: Deleted Actor: GroupActor
+[2023.06.19-00.53.42:828][277]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-00.53.42:828][277]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-00.53.42:829][277]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-00.53.42:834][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.06.19-00.53.42:836][277]LogEditorActor: Deleted 4 Actors (0.011 secs)
+[2023.06.19-00.54.59:232][338]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_SteampunkGear1.SM_SteampunkGear1
+[2023.06.19-00.54.59:232][338]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_SteampunkGear1.SM_SteampunkGear1
+[2023.06.19-00.54.59:233][338]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_SteampunkGear1.SM_SteampunkGear1 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_272
+[2023.06.19-00.55.02:284][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_SteampunkGear1.SM_SteampunkGear1
+[2023.06.19-00.55.02:284][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_SteampunkGear1.SM_SteampunkGear1
+[2023.06.19-00.55.02:284][615]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_SteampunkGear1.SM_SteampunkGear1 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_273
+[2023.06.19-00.55.51:335][235]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_2.SM_CellarWoodenPlanks_2
+[2023.06.19-00.55.51:335][235]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_2.SM_CellarWoodenPlanks_2
+[2023.06.19-00.55.51:335][235]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_2.SM_CellarWoodenPlanks_2 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_274
+[2023.06.19-00.55.52:462][328]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_2.SM_CellarWoodenPlanks_2
+[2023.06.19-00.55.52:462][328]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_2.SM_CellarWoodenPlanks_2
+[2023.06.19-00.55.52:462][328]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_2.SM_CellarWoodenPlanks_2 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_275
+[2023.06.19-00.55.55:606][506]Cmd: TRANSACTION UNDO
+[2023.06.19-00.55.55:606][506]LogEditorTransaction: Undo Rotate Elements
+[2023.06.19-00.56.29:099][273]Cmd: DUPLICATE
+[2023.06.19-00.56.29:099][273]Cmd: ACTOR DUPLICATE
+[2023.06.19-00.56.59:719][927]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_1.SM_CellarWoodenPlanks_1
+[2023.06.19-00.56.59:719][927]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_1.SM_CellarWoodenPlanks_1
+[2023.06.19-00.56.59:719][927]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_1.SM_CellarWoodenPlanks_1 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_277
+[2023.06.19-00.57.01:134][ 49]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_1.SM_CellarWoodenPlanks_1
+[2023.06.19-00.57.01:134][ 49]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_1.SM_CellarWoodenPlanks_1
+[2023.06.19-00.57.01:134][ 49]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_1.SM_CellarWoodenPlanks_1 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_278
+[2023.06.19-00.57.14:848][777]Cmd: DELETE
+[2023.06.19-00.57.14:848][777]Cmd: ACTOR DELETE
+[2023.06.19-00.57.14:851][777]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-00.57.14:866][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.06.19-00.57.14:870][777]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2023.06.19-00.57.37:839][972]Cmd: DUPLICATE
+[2023.06.19-00.57.37:840][972]Cmd: ACTOR DUPLICATE
+[2023.06.19-00.57.41:205][151]Cmd: TRANSACTION UNDO
+[2023.06.19-00.57.41:205][151]LogEditorTransaction: Undo Move Elements
+[2023.06.19-00.58.11:961][708]Cmd: DELETE
+[2023.06.19-00.58.11:961][708]Cmd: ACTOR DELETE
+[2023.06.19-00.58.11:964][708]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-00.58.11:970][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.06.19-00.58.11:973][708]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2023.06.19-00.58.15:527][910]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_7.SM_CellarWoodenPlanks_7
+[2023.06.19-00.58.15:527][910]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_7.SM_CellarWoodenPlanks_7
+[2023.06.19-00.58.15:528][910]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_7.SM_CellarWoodenPlanks_7 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_287
+[2023.06.19-00.58.16:397][981]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_7.SM_CellarWoodenPlanks_7
+[2023.06.19-00.58.16:397][981]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_7.SM_CellarWoodenPlanks_7
+[2023.06.19-00.58.16:398][981]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_7.SM_CellarWoodenPlanks_7 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_288
+[2023.06.19-00.59.56:122][144]Cmd: DUPLICATE
+[2023.06.19-00.59.56:122][144]Cmd: ACTOR DUPLICATE
+[2023.06.19-01.00.00:093][352]Cmd: TRANSACTION UNDO
+[2023.06.19-01.00.00:093][352]LogEditorTransaction: Undo Move Elements
+[2023.06.19-01.00.19:912][362]Cmd: DUPLICATE
+[2023.06.19-01.00.19:913][362]Cmd: ACTOR DUPLICATE
+[2023.06.19-01.01.36:490][291]Cmd: DELETE
+[2023.06.19-01.01.36:490][291]Cmd: ACTOR DELETE
+[2023.06.19-01.01.36:493][291]LogEditorActor: Deleted Actor: PointLight
+[2023.06.19-01.01.36:508][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.06.19-01.01.36:511][291]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2023.06.19-01.02.09:397][225]Cmd: DELETE
+[2023.06.19-01.02.09:397][225]Cmd: ACTOR DELETE
+[2023.06.19-01.02.09:400][225]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-01.02.09:408][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.06.19-01.02.09:410][225]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2023.06.19-01.02.59:765][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.06.19-01.02.59:841][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.06.19-01.02.59:866][216]LogSavePackage: Moving output files for package: /Game/Map/TutorialLevel
+[2023.06.19-01.02.59:867][216]LogSavePackage: Moving '../../../../../../Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Saved/TutorialLevel9951CCFE49023E0834C6488B7AAF55D3.tmp' to '../../../../../../Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Content/Map/TutorialLevel.umap'
+[2023.06.19-01.02.59:879][216]LogFileHelpers: Saving map 'TutorialLevel' took 0.047
+[2023.06.19-01.02.59:907][216]AssetCheck: New page: Asset Save: TutorialLevel
+[2023.06.19-01.02.59:907][216]LogContentValidation: Display: Validating World /Game/Map/TutorialLevel.TutorialLevel
+[2023.06.19-01.13.00:024][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.06.19-01.13.00:051][521]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/TutorialLevel_Auto8
+[2023.06.19-01.13.00:051][521]LogSavePackage: Moving '../../../../../../Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Saved/TutorialLevel_Auto86F69915341F4519006C13C8EC8478475.tmp' to '../../../../../../Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Saved/Autosaves/Game/Map/TutorialLevel_Auto8.umap'
+[2023.06.19-01.13.00:060][521]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TutorialLevel' took 0.044
+[2023.06.19-01.13.00:062][521]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2023.06.19-01.13.47:361][694]Cmd: DELETE
+[2023.06.19-01.13.47:361][694]Cmd: ACTOR DELETE
+[2023.06.19-01.13.47:363][694]LogEditorActor: Actor GroupActor_27 is referenced by SM_CellarWallSet_Straight19.
+[2023.06.19-01.13.47:363][694]LogEditorActor: Actor GroupActor_27 is referenced by SM_CellarWallSet_Straight20.
+[2023.06.19-01.13.47:363][694]LogEditorActor: Actor GroupActor_27 is referenced by SM_CellarWallSet_Straight21.
+[2023.06.19-01.13.47:363][694]LogEditorActor: Actor GroupActor_27 is referenced by SM_CellarWallSet_Straight22.
+[2023.06.19-01.13.47:363][694]LogEditorActor: Actor GroupActor_27 is referenced by SM_CellarWallSet_Straight23.
+[2023.06.19-01.13.47:363][694]LogEditorActor: Actor GroupActor_27 is referenced by SM_CellarWallSet_Straight24.
+[2023.06.19-01.13.48:666][694]LogSlate: Window 'Message' being destroyed
+[2023.06.19-01.13.48:672][694]Message dialog closed, result: Yes, title: Message, text: Actor GroupActor_27 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+SM_CellarWallSet_Straight19
+SM_CellarWallSet_Straight20
+SM_CellarWallSet_Straight21
+SM_CellarWallSet_Straight22
+SM_CellarWallSet_Straight23
+SM_CellarWallSet_Straight24
+[2023.06.19-01.13.48:674][694]LogEditorActor: Deleted Actor: GroupActor
+[2023.06.19-01.13.48:674][694]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-01.13.48:674][694]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-01.13.48:674][694]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-01.13.48:674][694]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-01.13.48:674][694]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-01.13.48:675][694]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-01.13.48:682][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.06.19-01.13.48:686][694]LogEditorActor: Deleted 7 Actors (0.016 secs)
+[2023.06.19-01.14.11:814][ 97]Cmd: DUPLICATE
+[2023.06.19-01.14.11:814][ 97]Cmd: ACTOR DUPLICATE
+[2023.06.19-01.14.20:215][597]Cmd: DELETE
+[2023.06.19-01.14.20:215][597]Cmd: ACTOR DELETE
+[2023.06.19-01.14.20:218][597]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-01.14.20:218][597]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-01.14.20:230][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.06.19-01.14.20:234][597]LogEditorActor: Deleted 2 Actors (0.018 secs)
+[2023.06.19-01.14.22:281][732]Cmd: DUPLICATE
+[2023.06.19-01.14.22:281][732]Cmd: ACTOR DUPLICATE
+[2023.06.19-01.14.42:795][118]Cmd: DELETE
+[2023.06.19-01.14.42:795][118]Cmd: ACTOR DELETE
+[2023.06.19-01.14.42:797][118]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-01.14.42:807][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.06.19-01.14.42:811][118]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2023.06.19-01.14.43:309][149]Cmd: DELETE
+[2023.06.19-01.14.43:309][149]Cmd: ACTOR DELETE
+[2023.06.19-01.14.43:311][149]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-01.14.43:317][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.06.19-01.14.43:318][149]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.06.19-01.15.22:072][543]Cmd: DELETE
+[2023.06.19-01.15.22:072][543]Cmd: ACTOR DELETE
+[2023.06.19-01.15.22:074][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-01.15.22:084][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.06.19-01.15.22:087][543]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2023.06.19-01.15.22:661][576]Cmd: DELETE
+[2023.06.19-01.15.22:661][576]Cmd: ACTOR DELETE
+[2023.06.19-01.15.22:664][576]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-01.15.22:670][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.19-01.15.22:671][576]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.06.19-01.15.42:717][733]Cmd: DELETE
+[2023.06.19-01.15.42:717][733]Cmd: ACTOR DELETE
+[2023.06.19-01.15.42:720][733]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-01.15.42:731][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.06.19-01.15.42:734][733]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2023.06.19-01.15.43:245][760]Cmd: DELETE
+[2023.06.19-01.15.43:245][760]Cmd: ACTOR DELETE
+[2023.06.19-01.15.43:248][760]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-01.15.43:255][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.06.19-01.15.43:257][760]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.06.19-01.15.43:901][796]Cmd: DELETE
+[2023.06.19-01.15.43:901][796]Cmd: ACTOR DELETE
+[2023.06.19-01.15.43:903][796]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-01.15.43:911][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.06.19-01.15.43:913][796]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2023.06.19-01.16.50:096][929]Cmd: TRANSACTION UNDO
+[2023.06.19-01.16.50:096][929]LogEditorTransaction: Undo Move Elements
+[2023.06.19-01.17.34:096][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.06.19-01.17.34:136][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.19-01.17.34:159][545]LogSavePackage: Moving output files for package: /Game/Map/TutorialLevel
+[2023.06.19-01.17.34:160][545]LogSavePackage: Moving '../../../../../../Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Saved/TutorialLevelECB12C474398C24BEADE2CA4FF09991B.tmp' to '../../../../../../Users/suki/Documents/GitHub/Team3-FinalProject/Team3_FinalProject/Content/Map/TutorialLevel.umap'
+[2023.06.19-01.17.34:174][545]LogFileHelpers: Saving map 'TutorialLevel' took 0.044
+[2023.06.19-01.17.34:205][545]AssetCheck: New page: Asset Save: TutorialLevel
+[2023.06.19-01.17.34:205][545]LogContentValidation: Display: Validating World /Game/Map/TutorialLevel.TutorialLevel
+[2023.06.19-01.17.59:152][983]Cmd: DUPLICATE
+[2023.06.19-01.17.59:152][983]Cmd: ACTOR DUPLICATE
+[2023.06.19-01.18.41:457][279]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Fence.SM_Fence
+[2023.06.19-01.18.41:457][279]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Fence.SM_Fence
+[2023.06.19-01.18.41:457][279]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Fence.SM_Fence as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_318
+[2023.06.19-01.18.42:503][363]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Fence.SM_Fence
+[2023.06.19-01.18.42:503][363]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Fence.SM_Fence
+[2023.06.19-01.18.42:504][363]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/Modular/SM_Fence.SM_Fence as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_319
+[2023.06.19-01.19.26:401][697]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_8.SM_CellarWoodenPlanks_8
+[2023.06.19-01.19.26:401][697]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_8.SM_CellarWoodenPlanks_8
+[2023.06.19-01.19.26:401][697]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_8.SM_CellarWoodenPlanks_8 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_320
+[2023.06.19-01.19.27:497][791]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_8.SM_CellarWoodenPlanks_8
+[2023.06.19-01.19.27:497][791]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_8.SM_CellarWoodenPlanks_8
+[2023.06.19-01.19.27:498][791]LogActorFactory: Actor Factory spawned StaticMesh /Game/SICKA_mansion/StaticMeshes/SM_CellarWoodenPlanks_8.SM_CellarWoodenPlanks_8 as actor: StaticMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.StaticMeshActor_321
+[2023.06.19-01.20.58:979][  8]LogRHI: Error: [Aftermath] Status: PageFault
+[2023.06.19-01.20.58:979][  8]LogRHI: Error: [Aftermath] Failed to get Aftermath stack data
+[2023.06.19-01.20.58:979][  8]LogRHI: Error: [Aftermath] Faulting address: 0x0000000000000000
+[2023.06.19-01.20.58:979][  8]LogRHI: Error: [Aftermath] Faulting resource dims: 0 x 0 x 0
+[2023.06.19-01.20.58:979][  8]LogRHI: Error: [Aftermath] Faulting result size: 0 bytes
+[2023.06.19-01.20.58:979][  8]LogRHI: Error: [Aftermath] Faulting resource mips: 0
+[2023.06.19-01.20.58:979][  8]LogRHI: Error: [Aftermath] Faulting resource format: UNKNOWN (0x0)
+[2023.06.19-01.20.58:979][  8]LogD3D12RHI: Error: [GPUBreadCrumb] Last tracked GPU operations:
+[2023.06.19-01.20.58:979][  8]LogD3D12RHI: Error: [GPUBreadCrumb]	3D Queue 0 - Begin: Frame 379005 - EnqueueCopy(GPUMessageManager.MessageBuffer)
+[2023.06.19-01.20.58:992][  9]LogD3D12RHI: Error: pResource->Map(Subresource, pReadRange, reinterpret_cast<void**>(&pData)) failed 
+ at D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12RHIPrivate.h:1387 
+ with error DXGI_ERROR_DEVICE_REMOVED with Reason: DXGI_ERROR_DEVICE_HUNG
+
+[2023.06.19-01.20.58:992][  9]LogD3D12RHI: Error: pResource->Map(Subresource, pReadRange, reinterpret_cast<void**>(&pData)) failed 
+ at D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12RHIPrivate.h:1387 
+ with error DXGI_ERROR_DEVICE_REMOVED with Reason: DXGI_ERROR_DEVICE_HUNG
+
+[2023.06.19-01.20.58:992][  9]LogD3D12RHI: Error: [GPUBreadCrumb]	Compute Queue 0 - No Data
+[2023.06.19-01.20.59:005][  9]LogD3D12RHI: Error: [GPUBreadCrumb]	Copy Queue 0 - No Data
+[2023.06.19-01.20.59:019][  9]LogD3D12RHI: Error: DRED: No breadcrumb head found.
+[2023.06.19-01.20.59:019][  9]LogD3D12RHI: Error: DRED: No PageFault data.
+[2023.06.19-01.20.59:019][  9]LogD3D12RHI: Error: Memory Info from frame ID 380229:
+[2023.06.19-01.20.59:019][  9]LogD3D12RHI: Error: 	Budget:	5200.00 MB
+[2023.06.19-01.20.59:019][  9]LogD3D12RHI: Error: 	Used:	2640.29 MB
+[2023.06.19-01.21.14:106][  9]LogRHI: Error: Breadcrumbs 'RHIThread'
+
+[2023.06.19-01.21.14:106][  9]LogWindows: FPlatformMisc::RequestExit(0)
+[2023.06.19-01.21.14:106][  9]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2023.06.19-01.21.14:106][  9]LogCore: Engine exit requested (reason: Win RequestExit)
+[2023.06.19-01.21.14:106][  9]LogWindows: FPlatformMisc::RequestExit(1)
+[2023.06.19-01.21.14:106][  9]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2023.06.19-01.21.14:106][  9]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2023.06.19-01.21.14:116][  9]Log file closed, 06/18/23 21:21:14

@@ -138,9 +138,39 @@
 			]
 		},
 		{
+			"ShaderMapHash": "26EE7C53D064B99B5E2E7CBFD3B58B4044DFE2A8",
+			"Assets": [
+				"/Game/Props/Materials/M_Notes"
+			]
+		},
+		{
+			"ShaderMapHash": "FBE1FC8B50B09FF4272FE8BD73B603F2EF3639C3",
+			"Assets": [
+				"/Game/Props/Materials/M_LockMetal"
+			]
+		},
+		{
+			"ShaderMapHash": "A88EECEE8EF1B970E603E80E4B5ACD0C61758E3F",
+			"Assets": [
+				"/Game/Props/Materials/M_LockBody"
+			]
+		},
+		{
 			"ShaderMapHash": "2A4F75A3BDBCEA38721864413B8015B27B7E5256",
 			"Assets": [
 				"/Game/Props/Materials/M_DoorKey"
+			]
+		},
+		{
+			"ShaderMapHash": "5059FF21ACD6D78394CBC53615B08841FCFC65A2",
+			"Assets": [
+				"/Game/Props/Materials/M_BoxLatch"
+			]
+		},
+		{
+			"ShaderMapHash": "E30E3209E163F869D05FBC61E2CAF0476EA233BE",
+			"Assets": [
+				"/Game/Props/Materials/M_Box"
 			]
 		},
 		{
@@ -229,12 +259,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
-			"Assets": [
-				"/Paper2D/DefaultSpriteMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "F9263927B9A447444CEB25F0683B99FA6EDE8534",
 			"Assets": [
 				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
@@ -244,6 +268,12 @@
 			"ShaderMapHash": "3B599E1E84C6BED8F66AF5A2D1125FB845FE4CAB",
 			"Assets": [
 				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
 			]
 		},
 		{
@@ -317,6 +347,12 @@
 			"ShaderMapHash": "9AC73C82DE01D8267D38BA0ACFC3ECBBA402C866",
 			"Assets": [
 				"/Game/Props/Materials/M_Bandage"
+			]
+		},
+		{
+			"ShaderMapHash": "9752DBEDDE7490327F6132ABE01C9E4AEE4B4AAD",
+			"Assets": [
+				"/Game/Props/Materials/M_Shelf"
 			]
 		},
 		{
@@ -626,6 +662,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C070A1DB4F1012A1908AF8C65F7F3F041E3B156E",
+			"Assets": [
+				"/Game/Props/Materials/Material_005"
+			]
+		},
+		{
 			"ShaderMapHash": "6BB584AF8FEF4299B1656BCA1901751539D42919",
 			"Assets": [
 				"/Game/LightProfilePack/Lighting/Functions/Materials/Window",
@@ -679,10 +721,16 @@
 			]
 		},
 		{
+			"ShaderMapHash": "65CF17840FAAE69A9A56470CD9DC9FA7E37B53B5",
+			"Assets": [
+				"/Game/Fonts/M_JF_Fonts"
+			]
+		},
+		{
 			"ShaderMapHash": "8EE9F44DB8648C246DD8EC50ADF73D662730F248",
 			"Assets": [
-				"/Game/Materials/M_Examination",
-				"/Game/Materials/M_NoteExamination"
+				"/Game/Materials/M_NoteExamination",
+				"/Game/Materials/M_Examination"
 			]
 		},
 		{
@@ -864,9 +912,9 @@
 				"/Game/SICKA_mansion/Materials/MI_Gramophone",
 				"/Game/SICKA_mansion/Materials/MI_dinnerWareSet",
 				"/Game/SICKA_mansion/Materials/MI_CurtainSet_V1",
-				"/Game/SICKA_mansion/Materials/MI_CellarWallset",
-				"/Game/SICKA_mansion/Materials/MI_FloorSeamless",
 				"/Game/SICKA_mansion/Materials/MI_Buffah1",
+				"/Game/SICKA_mansion/Materials/MI_FloorSeamless",
+				"/Game/SICKA_mansion/Materials/MI_CellarWallset",
 				"/Game/SICKA_mansion/Materials/MI_BED_Cover",
 				"/Game/SICKA_mansion/Materials/MI_BED"
 			]
@@ -887,54 +935,6 @@
 			"ShaderMapHash": "F2722ED28F851FECCDC60D2158471DD53E767585",
 			"Assets": [
 				"/Game/SICKA_mansion/Materials/MI_AnimalHides"
-			]
-		},
-		{
-			"ShaderMapHash": "26EE7C53D064B99B5E2E7CBFD3B58B4044DFE2A8",
-			"Assets": [
-				"/Game/Props/Materials/M_Notes"
-			]
-		},
-		{
-			"ShaderMapHash": "65CF17840FAAE69A9A56470CD9DC9FA7E37B53B5",
-			"Assets": [
-				"/Game/Fonts/M_JF_Fonts"
-			]
-		},
-		{
-			"ShaderMapHash": "9752DBEDDE7490327F6132ABE01C9E4AEE4B4AAD",
-			"Assets": [
-				"/Game/Props/Materials/M_Shelf"
-			]
-		},
-		{
-			"ShaderMapHash": "E30E3209E163F869D05FBC61E2CAF0476EA233BE",
-			"Assets": [
-				"/Game/Props/Materials/M_Box"
-			]
-		},
-		{
-			"ShaderMapHash": "C070A1DB4F1012A1908AF8C65F7F3F041E3B156E",
-			"Assets": [
-				"/Game/Props/Materials/Material_005"
-			]
-		},
-		{
-			"ShaderMapHash": "FBE1FC8B50B09FF4272FE8BD73B603F2EF3639C3",
-			"Assets": [
-				"/Game/Props/Materials/M_LockMetal"
-			]
-		},
-		{
-			"ShaderMapHash": "A88EECEE8EF1B970E603E80E4B5ACD0C61758E3F",
-			"Assets": [
-				"/Game/Props/Materials/M_LockBody"
-			]
-		},
-		{
-			"ShaderMapHash": "5059FF21ACD6D78394CBC53615B08841FCFC65A2",
-			"Assets": [
-				"/Game/Props/Materials/M_BoxLatch"
 			]
 		}
 	]

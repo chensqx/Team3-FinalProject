@@ -28,8 +28,7 @@
 		{
 			"ShaderMapHash": "B75365FD1D472D9BDDB570FDE8960C5F56236FF0",
 			"Assets": [
-				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
-				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master"
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
 			]
 		},
 		{
@@ -150,7 +149,7 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A88EECEE8EF1B970E603E80E4B5ACD0C61758E3F",
+			"ShaderMapHash": "4CFD611D82E912DE5B4D1DBDF06CDA55561CA93D",
 			"Assets": [
 				"/Game/Props/Materials/M_LockBody"
 			]
@@ -809,6 +808,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "93DE8AADD67C4C858B699649344AA7BF2EB738A5",
+			"Assets": [
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master"
+			]
+		},
+		{
 			"ShaderMapHash": "3B3E48E876423C9706F302DE747A2B2CBF3BA1A4",
 			"Assets": [
 				"/Game/SICKA_mansion/Materials/M_OilPaints"
@@ -863,7 +868,7 @@
 			]
 		},
 		{
-			"ShaderMapHash": "7B9B364B6611B4174271C215F157D9F6E590BDF1",
+			"ShaderMapHash": "C2F96106AEE5C71E9850B274A8AD14C59F195876",
 			"Assets": [
 				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI"
 			]

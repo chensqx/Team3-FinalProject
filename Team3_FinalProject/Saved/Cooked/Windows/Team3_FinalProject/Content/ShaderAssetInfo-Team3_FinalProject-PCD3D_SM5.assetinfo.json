@@ -941,6 +941,19 @@
 			"Assets": [
 				"/Game/SICKA_mansion/Materials/MI_AnimalHides"
 			]
+		},
+		{
+			"ShaderMapHash": "A2DEF3A2044F2DFEC45682AF08237914543A7294",
+			"Assets": [
+				"/Game/Assets/Character/Zombie/T-Bone/Texture/ZombieGirl_Material_ncl1_1",
+				"/Game/Assets/Character/Zombie/T-Bone/Texture/ZombieGirl_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "AADFDB861D65F87036ADBCA3A42144E9889FFA79",
+			"Assets": [
+				"/Game/Assets/Character/Zombie/T-Bone/Texture/ZombieGirl_body_Material"
+			]
 		}
 	]
 }

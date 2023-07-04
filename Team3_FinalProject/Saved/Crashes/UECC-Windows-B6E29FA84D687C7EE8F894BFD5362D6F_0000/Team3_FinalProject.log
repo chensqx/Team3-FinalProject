@@ -1,0 +1,1493 @@
+﻿Log file open, 07/01/23 20:56:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=29108)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Team3_FinalProject
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" D:\Team3-FinalProject\Team3_FinalProject\Team3_FinalProject.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.3086] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="a8a7cf2d40fd966e87f145b68b964ce8"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.424560
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-B6E29FA84D687C7EE8F894BFD5362D6F
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.05 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.06 seconds
+LogConfig: Display: Loading IOS ini files took 0.06 seconds
+LogConfig: Display: Loading Android ini files took 0.06 seconds
+LogConfig: Display: Loading Unix ini files took 0.07 seconds
+LogConfig: Display: Loading TVOS ini files took 0.08 seconds
+LogConfig: Display: Loading Linux ini files took 0.09 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.09 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (22H2) [10.0.19045.3086] (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: NVIDIA GeForce GTX 1660 Ti
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Development/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.07.02-00.56.43:198][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.07.02-00.56.43:198][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.07.02-00.56.43:198][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.07.02-00.56.43:198][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.07.02-00.56.43:198][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.07.02-00.56.43:198][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.07.02-00.56.43:198][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.07.02-00.56.43:198][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.07.02-00.56.43:198][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.07.02-00.56.43:198][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.07.02-00.56.43:198][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.07.02-00.56.43:198][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.07.02-00.56.43:199][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.07.02-00.56.43:203][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.07.02-00.56.43:203][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.07.02-00.56.43:203][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.07.02-00.56.43:203][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.07.02-00.56.43:203][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.07.02-00.56.43:203][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.07.02-00.56.43:203][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.07.02-00.56.43:203][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.07.02-00.56.43:204][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.07.02-00.56.43:204][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.07.02-00.56.43:204][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.07.02-00.56.43:228][  0]LogD3D12RHI: Aftermath initialized
+[2023.07.02-00.56.43:228][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.07.02-00.56.43:559][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1660 Ti (Max supported Feature Level 12_1, shader model 6.6)
+[2023.07.02-00.56.43:560][  0]LogD3D12RHI: Adapter has 5979MB of dedicated video memory, 0MB of dedicated system memory, and 8151MB of shared system memory, 1 output[s]
+[2023.07.02-00.56.43:580][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.07.02-00.56.43:580][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8151MB of shared system memory, 0 output[s]
+[2023.07.02-00.56.43:580][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.07.02-00.56.43:580][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.07.02-00.56.43:580][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.07.02-00.56.43:580][  0]LogHAL: Display: Platform has ~ 16 GB [17095184384 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.07.02-00.56.43:581][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.07.02-00.56.43:581][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.07.02-00.56.43:581][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.07.02-00.56.43:581][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.07.02-00.56.43:581][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Team3-FinalProject/Team3_FinalProject/Saved/Config/WindowsEditor/Editor.ini]
+[2023.07.02-00.56.43:581][  0]LogInit: Computer: LAPTOP-430CGDAD
+[2023.07.02-00.56.43:581][  0]LogInit: User: zhang
+[2023.07.02-00.56.43:581][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.07.02-00.56.43:581][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.07.02-00.56.43:581][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2023.07.02-00.56.43:581][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.07.02-00.56.43:581][  0]LogMemory: Process Physical Memory: 274.57 MB used, 285.84 MB peak
+[2023.07.02-00.56.43:581][  0]LogMemory: Process Virtual Memory: 229.43 MB used, 229.43 MB peak
+[2023.07.02-00.56.43:581][  0]LogMemory: Physical Memory: 8697.80 MB used,  7605.43 MB free, 16303.24 MB total
+[2023.07.02-00.56.43:581][  0]LogMemory: Virtual Memory: 14627.07 MB used,  16012.17 MB free, 30639.24 MB total
+[2023.07.02-00.56.43:581][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.07.02-00.56.43:595][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.07.02-00.56.43:631][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.07.02-00.56.43:633][  0]LogInit: Overriding language with editor language configuration option (en).
+[2023.07.02-00.56.43:633][  0]LogInit: Using OS detected locale (zh-CN).
+[2023.07.02-00.56.43:864][  0]LogInit: Setting process to per monitor DPI aware
+[2023.07.02-00.56.43:891][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.07.02-00.56.43:891][  0]LogWindowsTextInputMethodSystem:   - 英语(美国) - (Keyboard).
+[2023.07.02-00.56.43:891][  0]LogWindowsTextInputMethodSystem:   - 中文(简体，中国) - (Keyboard).
+[2023.07.02-00.56.43:891][  0]LogWindowsTextInputMethodSystem:   - 中文(简体，中国) - 微软五笔 (TSF IME).
+[2023.07.02-00.56.43:891][  0]LogWindowsTextInputMethodSystem:   - 法语(法国) - (Keyboard).
+[2023.07.02-00.56.43:891][  0]LogWindowsTextInputMethodSystem:   - 中文(简体，中国) - 触控输入更正 (TSF IME).
+[2023.07.02-00.56.43:891][  0]LogWindowsTextInputMethodSystem: Activated input method: 英语(美国) - (Keyboard).
+[2023.07.02-00.56.43:915][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.07.02-00.56.43:915][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.07.02-00.56.44:190][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.07.02-00.56.44:198][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.07.02-00.56.44:198][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.07.02-00.56.44:384][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.07.02-00.56.44:384][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.07.02-00.56.44:384][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.07.02-00.56.44:384][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.07.02-00.56.44:384][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.07.02-00.56.44:384][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.07.02-00.56.44:384][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.07.02-00.56.44:384][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.07.02-00.56.44:384][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.07.02-00.56.44:384][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.07.02-00.56.44:384][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.07.02-00.56.44:384][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.07.02-00.56.44:384][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.07.02-00.56.44:384][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.07.02-00.56.44:384][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.07.02-00.56.44:457][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.07.02-00.56.44:472][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.07.02-00.56.44:508][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.07.02-00.56.44:537][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.07.02-00.56.44:537][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.07.02-00.56.44:629][  0]LogD3D12RHI:     GPU DeviceId: 0x2191 (for the marketing name, search the web for "GPU Device Id")
+[2023.07.02-00.56.44:629][  0]LogWindows: Attached monitors:
+[2023.07.02-00.56.44:629][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.07.02-00.56.44:629][  0]LogWindows: Found 1 attached monitors.
+[2023.07.02-00.56.44:629][  0]LogWindows: EnumDisplayDevices:
+[2023.07.02-00.56.44:629][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 Ti' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.07.02-00.56.44:630][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.07.02-00.56.44:630][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.07.02-00.56.44:631][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.07.02-00.56.44:631][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.07.02-00.56.44:631][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2023.07.02-00.56.44:631][  0]LogD3D12RHI:   Driver Version: 531.61 (internal:31.0.15.3161, unified:531.61)
+[2023.07.02-00.56.44:631][  0]LogD3D12RHI:      Driver Date: 4-8-2023
+[2023.07.02-00.56.44:631][  0]LogRHI: Texture pool is 3282 MB (70% of 4689 MB)
+[2023.07.02-00.56.44:631][  0]LogD3D12RHI: Async texture creation enabled
+[2023.07.02-00.56.44:631][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.07.02-00.56.44:647][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.07.02-00.56.44:659][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/Team3-FinalProject/Team3_FinalProject/Team3_FinalProject.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Team3-FinalProject/Team3_FinalProject/Intermediate/TurnkeyReport_0.log" -log="D:/Team3-FinalProject/Team3_FinalProject/Intermediate/TurnkeyLog_0.log" -project="D:/Team3-FinalProject/Team3_FinalProject/Team3_FinalProject.uproject"  -platform=all'
+[2023.07.02-00.56.44:659][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/Development/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Team3-FinalProject/Team3_FinalProject/Team3_FinalProject.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Team3-FinalProject/Team3_FinalProject/Intermediate/TurnkeyReport_0.log" -log="D:/Team3-FinalProject/Team3_FinalProject/Intermediate/TurnkeyLog_0.log" -project="D:/Team3-FinalProject/Team3_FinalProject/Team3_FinalProject.uproject"  -platform=all" ]
+[2023.07.02-00.56.44:695][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.07.02-00.56.44:710][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.07.02-00.56.44:710][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.07.02-00.56.44:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.07.02-00.56.44:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.07.02-00.56.44:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.07.02-00.56.44:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.07.02-00.56.44:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.07.02-00.56.44:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.07.02-00.56.44:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.07.02-00.56.44:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.07.02-00.56.44:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.07.02-00.56.44:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.07.02-00.56.44:773][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.07.02-00.56.44:773][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.07.02-00.56.44:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.07.02-00.56.44:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.07.02-00.56.44:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.07.02-00.56.44:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.07.02-00.56.44:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.07.02-00.56.44:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.07.02-00.56.44:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.07.02-00.56.44:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.07.02-00.56.44:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.07.02-00.56.44:796][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.07.02-00.56.44:796][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.07.02-00.56.44:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.07.02-00.56.44:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.07.02-00.56.44:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.07.02-00.56.44:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.07.02-00.56.44:807][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.07.02-00.56.44:821][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.07.02-00.56.44:827][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.07.02-00.56.44:827][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.07.02-00.56.44:827][  0]LogTargetPlatformManager:   ADPCM
+[2023.07.02-00.56.44:827][  0]LogTargetPlatformManager:   PCM
+[2023.07.02-00.56.44:831][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.07.02-00.56.44:831][  0]LogTargetPlatformManager:   BINKA
+[2023.07.02-00.56.44:831][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.07.02-00.56.44:831][  0]LogTargetPlatformManager:   OGG
+[2023.07.02-00.56.44:831][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.07.02-00.56.44:831][  0]LogTargetPlatformManager:   OPUS
+[2023.07.02-00.56.44:896][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.07.02-00.56.44:910][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.07.02-00.56.44:910][  0]LogTargetPlatformManager:   SF_METAL
+[2023.07.02-00.56.44:910][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.07.02-00.56.44:910][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.07.02-00.56.44:910][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.07.02-00.56.44:910][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.07.02-00.56.44:910][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.07.02-00.56.44:910][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.07.02-00.56.44:910][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.07.02-00.56.44:910][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.07.02-00.56.44:910][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.07.02-00.56.44:910][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.07.02-00.56.44:910][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.07.02-00.56.44:910][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.07.02-00.56.44:910][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.07.02-00.56.44:910][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.07.02-00.56.44:916][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.07.02-00.56.44:916][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.07.02-00.56.44:916][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.07.02-00.56.44:916][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.07.02-00.56.44:916][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.07.02-00.56.44:916][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.07.02-00.56.44:916][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.07.02-00.56.44:916][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.07.02-00.56.44:917][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Team3-FinalProject/Team3_FinalProject/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.07.02-00.56.44:917][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.07.02-00.56.44:917][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Team3-FinalProject/Team3_FinalProject/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.07.02-00.56.44:918][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.07.02-00.56.44:921][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Team3-FinalProject/Team3_FinalProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.07.02-00.56.44:921][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.07.02-00.56.44:921][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Team3-FinalProject/Team3_FinalProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.07.02-00.56.44:921][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.07.02-00.56.44:949][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.07.02-00.56.44:950][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.07.02-00.56.44:950][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.07.02-00.56.44:963][  0]LogDerivedDataCache: Speed tests for C:/Users/zhang/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.07.02-00.56.44:963][  0]LogDerivedDataCache: Display: Performance to C:/Users/zhang/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.12ms. RandomReadSpeed=441.87MBs, RandomWriteSpeed=98.32MBs. Assigned SpeedClass 'Local'
+[2023.07.02-00.56.44:964][  0]LogDerivedDataCache: Using Local data cache path C:/Users/zhang/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.07.02-00.56.44:964][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.07.02-00.56.44:964][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.07.02-00.56.44:972][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.07.02-00.56.44:972][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.07.02-00.56.44:973][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../Team3-FinalProject/Team3_FinalProject/Intermediate/Shaders/WorkingDirectory/23516/).
+[2023.07.02-00.56.44:973][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/zhang/AppData/Local/Temp/UnrealShaderWorkingDir/0C0115784E1BCA7334F3D1826F7168C4/'.
+[2023.07.02-00.56.44:974][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.07.02-00.56.44:974][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2023.07.02-00.56.47:229][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.07.02-00.56.47:229][  0]LogSlate: Using FreeType 2.10.0
+[2023.07.02-00.56.47:230][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.07.02-00.56.47:294][  0]LogAssetRegistry: FAssetRegistry took 0.0168 seconds to start up
+[2023.07.02-00.56.47:303][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.07.02-00.56.47:592][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.07.02-00.56.47:593][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.07.02-00.56.47:965][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.07.02-00.56.47:965][  0]LogDeviceProfileManager: Active device profile: [00000487B1289680][00000487A7890000 50] WindowsEditor
+[2023.07.02-00.56.47:965][  0]LogDeviceProfileManager: Profiles: [00000487B1289840][0000048797FF0000 50] Windows, [00000487B1289680][00000487A7890000 50] WindowsEditor, [00000487B1284EC0][00000487B1600000 50] WindowsServer, [00000487B1287540][00000487B1605000 50] WindowsClient, [00000487B1285780][00000487B1607800 50] IOS, [00000487B1288F80][00000487B160A000 50] iPadAir2, [00000487B128A100][00000487A7892800 50] IPadPro, [00000487B128A480][00000487B160C800 50] iPadAir3, [00000487B1289D80][00000487B15E0000 50] iPadAir4, [00000487B1287C40][00000487B15E5000 50] iPadMini4, [00000487B1289F40][00000487B15E7800 50] iPadMini5, [00000487B1289BC0][00000487B15EA000 50] iPadMini6, [00000487B128D200][00000487B16A0000 50] iPhone6S, [00000487B128D580][00000487B16A2800 50] iPhone7, [00000487B128D900][00000487B16A5000 50] iPodTouch7, [00000487B1287A80][00000487B16AA000 50] iPhone6SPlus, [00000487B128AF00][00000487B16AC800 50] iPhone7Plus, [00000487B1285940][00000487B1602800 50] iPhoneSE, [00000487B1286040][00000487B15EC800 50] iPhone8, [00000487B12886C0][00000487B16A7800 50] iPhone8Plus, [00000487B128B980][00000487B1660000 50] iPhoneX, [00000487B1286C80][00000487B1665000 50] iPhoneXS, [00000487B1286740][00000487B1667800 50] iPhoneXSMax, [00000487B12894C0][00000487B166A000 50] iPhoneXR, [00000487B128C940][00000487B166C800 50] iPhone11, [00000487B1288A40][00000487B15E2800 50] iPhone11Pro, [00000487B12871C0][00000487B1630000 50] iPhone11ProMax, [00000487B128D3C0][00000487B1635000 50] iPhoneSE2, [00000487B1288340][00000487B1637800 50] iPhone12Mini, [00000487B128D040][00000487B163A000 50] iPhone12, [00000487B1287E00][00000487B163C800 50] iPhone12Pro, [00000487B1289300][00000487B1662800 50] iPhone12ProMax, [00000487B128A2C0][00000487B1670000 50] iPhone13Mini, [00000487B12878C0][00000487B1675000 50] iPhone13, [00000487B128C780][00000487B1677800 50] iPhone13Pro, [00000487B1288180][00000487B167A000 50] iPhone13ProMax, [00000487B128D740][00000487B167C800 50] iPadPro105, [00000487B1287380][00000487B1632800 50] iPadPro129, [00000487B1286AC0][00000487B1680000 50] iPadPro97, [00000487B128B600][00000487B1685000 50] iPadPro2_129, [00000487B12847C0][00000487B1687800 50] iPad5, [00000487B128C080][00000487B168A000 50] iPad6, [00000487B1288C00][00000487B168C800 50] iPad7, [00000487B128B440][00000487B1672800 50] iPad8, [00000487B1286200][00000487B1690000 50] iPad9, [00000487B128BB40][00000487B1695000 50] iPadPro11, [00000487B128DAC0][00000487B1697800 50] iPadPro2_11, [00000487B128CB00][00000487B169A000 50] iPadPro3_11, [00000487B1285B00][00000487B169C800 50] iPadPro3_129, [00000487B128C400][00000487B1682800 50] iPadPro4_129, [00000487B12863C0][00000487B16B0000 50] iPadPro5_129, [00000487B1285080][00000487B16B5000 50] AppleTV, [00000487B128C5C0][00000487B16B7800 50] AppleTV4K, [00000487B128CCC0][00000487B16BA000 50] TVOS, [00000487B128FA40][00000487B1692800 50] Mac, [00000487B128FDC0][00000487B16BC800 50] MacEditor, [00000487B128F500][00000487B16C0000 50] MacClient, [00000487B1286E40][00000487B16C5000 50] MacServer, [00000487AFE8FDC0][00000487B16CA000 50] Linux, [00000487B17001C0][00000487B16C7800 50] LinuxEditor, [00000487B1702680][00000487B16CC800 50] LinuxArm64Editor, [00000487B1702840][00000487B16B2800 50] LinuxArm64, [00000487B1702300][00000487B16D0000 50] LinuxClient, [00000487B1702A00][00000487B16D5000 50] LinuxArm64Client, [00000487B1700FC0][00000487B16D7800 50] LinuxServer, [00000487B17024C0][00000487B16DA000 50] LinuxArm64Server, [00000487B1703100][00000487B16DC800 50] Android, [00000487B1701880][00000487B16C2800 50] Android_Preview_OpenGL, [00000487B1700000][00000487B16E0000 50] Android_Preview_Vulkan, [00000487B17032C0][00000487B16E5000 50] Android_Low, [00000487B1703800][00000487B16E7800 50] Android_Mid, [00000487B1703480][00000487B16EA000 50] Android_High, [00000487B1701500][00000487B16EC800 50] Android_Default, [00000487B1700A80][00000487B16D2800 50] Android_Adreno4xx, [00000487B1703640][00000487B16F0000 50] Android_Adreno5xx_Low, [00000487B1703F00][00000487B16F5000 50] Android_Adreno5xx, [00000487B1702BC0][00000487B16F7800 50] Android_Adreno6xx, [00000487B1702D80][00000487B16FA000 50] Android_Adreno6xx_Vulkan, [00000487B17040C0][00000487B16FC800 50] Android_Adreno7xx, [00000487B1700C40][00000487B16E2800 50] Android_Adreno7xx_Vulkan, [00000487B1701A40][00000487B1710000 50] Android_Mali_T6xx, [00000487B1704B40][00000487B1715000 50] Android_Mali_T7xx, [00000487B17016C0][00000487B1717800 50] Android_Mali_T8xx, [00000487B1703D40][00000487B171A000 50] Android_Mali_G71, [00000487B1705080][00000487B171C800 50] Android_Mali_G72, [00000487B1700380][00000487B16F2800 50] Android_Mali_G72_Vulkan, [00000487B1702140][00000487B1720000 50] Android_Mali_G76, [00000487B1705240][00000487B1725000 50] Android_Mali_G76_Vulkan, [00000487B1705780][00000487B1727800 50] Android_Mali_G77, [00000487B1705400][00000487B172A000 50] Android_Mali_G77_Vulkan, [00000487B1700540][00000487B172C800 50] Android_Mali_G78, [00000487B1704980][00000487B1712800 50] Android_Mali_G78_Vulkan, [00000487B17055C0][00000487B1730000 50] Android_Mali_G710, [00000487B1705E80][00000487B1735000 50] Android_Mali_G710_Vulkan, [00000487B1700E00][00000487B1737800 50] Android_Xclipse_920, [00000487B1704D00][00000487B173A000 50] Android_Xclipse_920_Vulkan, [00000487B1706040][00000487B173C800 50] Android_Vulkan_SM5, [00000487B1705940][00000487B1722800 50] Android_PowerVR_G6xxx, [00000487B1701C00][00000487B1740000 50] Android_PowerVR_GT7xxx, [00000487B1702F40][00000487B1745000 50] Android_PowerVR_GE8xxx, [00000487B1701340][00000487B1747800 50] Android_PowerVR_GM9xxx, [00000487B1703B80][00000487B174A000 50] Android_PowerVR_GM9xxx_Vulkan, [00000487B1701180][00000487B174C800 50] Android_TegraK1, [00000487B1704EC0][00000487B1732800 50] Android_Unknown_Vulkan, [00000487B1704440][00000487B1750000 50] Oculus_Quest, [00000487B17039C0][00000487B1755000 50] Oculus_Quest2, [00000487B1706200][00000487B1757800 50] HoloLens, 
+[2023.07.02-00.56.47:965][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.07.02-00.56.47:969][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.")
+[2023.07.02-00.56.47:969][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.07.02-00.56.47:969][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.07.02-00.56.47:969][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.07.02-00.56.47:969][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.07.02-00.56.47:997][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.07.02-00.56.48:292][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.07.02-00.56.48:292][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.07.02-00.56.48:292][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.07.02-00.56.48:292][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.07.02-00.56.48:292][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.07.02-00.56.48:317][  0]LogNetVersion: Team3_FinalProject 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3170613265)
+[2023.07.02-00.56.48:514][  0]LogSlate: Border
+[2023.07.02-00.56.48:514][  0]LogSlate: BreadcrumbButton
+[2023.07.02-00.56.48:514][  0]LogSlate: Default
+[2023.07.02-00.56.48:514][  0]LogSlate: Icons.Save
+[2023.07.02-00.56.48:514][  0]LogSlate: Icons.Toolbar.Settings
+[2023.07.02-00.56.48:514][  0]LogSlate: ListView
+[2023.07.02-00.56.48:514][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.07.02-00.56.48:514][  0]LogSlate: SoftwareCursor_Grab
+[2023.07.02-00.56.48:514][  0]LogSlate: TableView.DarkRow
+[2023.07.02-00.56.48:514][  0]LogSlate: TableView.Row
+[2023.07.02-00.56.48:514][  0]LogSlate: TreeView
+[2023.07.02-00.56.48:815][  0]SourceControl: Source control is disabled
+[2023.07.02-00.56.48:860][  0]SourceControl: Source control is disabled
+[2023.07.02-00.56.48:860][  0]SourceControl: Source control is disabled
+[2023.07.02-00.56.49:042][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.07.02-00.56.49:042][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2023.07.02-00.56.49:042][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.07.02-00.56.49:638][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: E4DEDC87421F69345D89DCA2515673AB | Instance: 163ED9AD4F600658F304EE9C6F7C0AA2 (LAPTOP-430CGDAD-23516).
+[2023.07.02-00.56.49:699][  0]LogPython: Using Python 3.9.7
+[2023.07.02-00.56.51:035][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.07.02-00.56.51:043][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.07.02-00.56.51:184][  0]SourceControl: Source control is disabled
+[2023.07.02-00.56.51:189][  0]SourceControl: Source control is disabled
+[2023.07.02-00.56.51:208][  0]SourceControl: Source control is disabled
+[2023.07.02-00.56.51:224][  0]LogUProjectInfo: Found projects:
+[2023.07.02-00.56.51:708][  0]LogOpenImageDenoise: OIDN starting up
+[2023.07.02-00.56.51:815][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.07.02-00.56.51:854][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.07.02-00.56.51:854][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.07.02-00.56.52:014][  0]LogCollectionManager: Loaded 0 collections in 0.002732 seconds
+[2023.07.02-00.56.52:149][  0]LogFileCache: Scanning file cache for directory 'D:/Team3-FinalProject/Team3_FinalProject/Saved/Collections/' took 0.00s
+[2023.07.02-00.56.52:149][  0]LogFileCache: Scanning file cache for directory 'D:/Team3-FinalProject/Team3_FinalProject/Content/Developers/zhang/Collections/' took 0.00s
+[2023.07.02-00.56.52:149][  0]LogFileCache: Scanning file cache for directory 'D:/Team3-FinalProject/Team3_FinalProject/Content/Collections/' took 0.00s
+[2023.07.02-00.56.52:733][  0]LogEngine: Initializing Engine...
+[2023.07.02-00.56.52:754][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.07.02-00.56.52:756][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.07.02-00.56.53:166][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.07.02-00.56.53:167][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.07.02-00.56.53:184][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-00.56.53:234][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.07.02-00.56.53:235][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.07.02-00.56.53:275][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.07.02-00.56.53:276][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.07.02-00.56.53:276][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.07.02-00.56.53:277][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.07.02-00.56.53:277][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.07.02-00.56.53:277][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.02-00.56.53:277][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.02-00.56.53:277][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.02-00.56.53:277][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.02-00.56.53:277][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.02-00.56.53:277][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.02-00.56.53:277][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.02-00.56.53:277][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.02-00.56.53:277][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.02-00.56.53:277][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.02-00.56.53:277][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.02-00.56.53:287][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.02-00.56.53:347][  0]LogAudioMixer: Display: Using Audio Hardware Device BenQ EX2510S (NVIDIA High Definition Audio)
+[2023.07.02-00.56.53:347][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.02-00.56.53:351][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.02-00.56.53:351][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.02-00.56.53:352][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.07.02-00.56.53:352][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.07.02-00.56.53:353][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.07.02-00.56.53:353][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.07.02-00.56.53:353][  0]LogInit: FAudioDevice initialized.
+[2023.07.02-00.56.53:354][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.07.02-00.56.53:354][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.07.02-00.56.53:354][  0]LogInit: Texture streaming: Enabled
+[2023.07.02-00.56.53:410][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.07.02-00.56.53:427][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.07.02-00.56.53:467][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.07.02-00.56.53:479][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.07.02-00.56.53:479][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.07.02-00.56.55:988][  0]LogLiveCoding: Display: First instance in process group "UE_Team3_FinalProject_0x4bcdfdd4", spawning console
+[2023.07.02-00.56.55:988][  0]LogLiveCoding: Display: Waiting for server
+[2023.07.02-00.56.55:988][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.07.02-00.56.56:040][  0]LogInit: Transaction tracking system initialized
+[2023.07.02-00.56.56:167][  0]BlueprintLog: New page: Editor Load
+[2023.07.02-00.56.56:501][  0]LocalizationService: Localization service is disabled
+[2023.07.02-00.56.56:582][  0]TimingProfiler: Initialize
+[2023.07.02-00.56.56:583][  0]TimingProfiler: OnSessionChanged
+[2023.07.02-00.56.56:583][  0]LoadingProfiler: Initialize
+[2023.07.02-00.56.56:583][  0]LoadingProfiler: OnSessionChanged
+[2023.07.02-00.56.56:583][  0]NetworkingProfiler: Initialize
+[2023.07.02-00.56.56:583][  0]NetworkingProfiler: OnSessionChanged
+[2023.07.02-00.56.56:583][  0]MemoryProfiler: Initialize
+[2023.07.02-00.56.56:583][  0]MemoryProfiler: OnSessionChanged
+[2023.07.02-00.56.57:675][  0]LogFileCache: Scanning file cache for directory 'D:/Team3-FinalProject/Team3_FinalProject/Content/' took 0.02s
+[2023.07.02-00.56.57:675][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.07.02-00.56.57:811][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.07.02-00.56.57:814][  0]SourceControl: Source control is disabled
+[2023.07.02-00.56.57:814][  0]LogUnrealEdMisc: Loading editor; pre map load, took 16.941
+[2023.07.02-00.56.57:814][  0]Cmd: MAP LOAD FILE="../../../../../Team3-FinalProject/Team3_FinalProject/Content/Map/TutorialLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.07.02-00.56.57:814][  0]LightingResults: New page: Lighting Build
+[2023.07.02-00.56.57:826][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-00.56.57:826][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-00.56.57:826][  0]MapCheck: New page: Map Check
+[2023.07.02-00.56.57:826][  0]LightingResults: New page: Lighting Build
+[2023.07.02-00.56.57:835][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.02-00.56.57:839][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.07.02-00.56.59:038][  0]LogLinker: Warning: [AssetLog] D:\Team3-FinalProject\Team3_FinalProject\Content\Map\TutorialLevel.umap: Failed to load '/Game/Map/TutorialLevel_BuiltData': Can't find file.
+[2023.07.02-00.56.59:038][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Map/TutorialLevel_BuiltData'
+[2023.07.02-00.56.59:452][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube should be resaved to improve async compilation performance.
+[2023.07.02-00.56.59:593][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame should be resaved to improve async compilation performance.
+[2023.07.02-00.56.59:779][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialLevel'.
+[2023.07.02-00.56.59:779][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.07.02-00.56.59:780][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-00.56.59:781][  0]LogAIModule: Creating AISystem for world TutorialLevel
+[2023.07.02-00.56.59:788][  0]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2023.07.02-00.56.59:788][  0]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.07.02-00.56.59:802][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.07.02-00.56.59:823][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.07.02-00.56.59:823][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.07.02-00.56.59:824][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.209ms to complete.
+[2023.07.02-00.56.59:824][  0]LogFileHelpers: Loading map 'TutorialLevel' took 2.009
+[2023.07.02-00.56.59:847][  0]LogUnrealEdMisc: Total Editor Startup Time, took 18.974
+[2023.07.02-00.56.59:847][  0]LogShaderCompilers: Display: ================================================
+[2023.07.02-00.56.59:847][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.02-00.56.59:847][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.07.02-00.56.59:847][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.07.02-00.56.59:847][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.07.02-00.56.59:847][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.02-00.56.59:847][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.07.02-00.56.59:847][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.07.02-00.56.59:848][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.07.02-00.56.59:848][  0]LogShaderCompilers: Display: ================================================
+[2023.07.02-00.56.59:981][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.07.02-00.56.59:981][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.07.02-00.57.00:009][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.07.02-00.57.00:009][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.07.02-00.57.00:009][  0]LogSlate: The tab "LevelEditorToolBar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.07.02-00.57.00:032][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.02-00.57.00:040][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.02-00.57.00:048][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.02-00.57.00:057][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.02-00.57.00:093][  0]LogPakFile: Display: Mounted Pak file 'D:/Development/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.07.02-00.57.00:094][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.02-00.57.00:095][  0]LogPakFile: Display: Mounted Pak file 'D:/Development/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.07.02-00.57.00:095][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.02-00.57.00:096][  0]LogPakFile: Display: Mounted Pak file 'D:/Development/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.07.02-00.57.00:096][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.02-00.57.00:097][  0]LogPakFile: Display: Mounted Pak file 'D:/Development/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.07.02-00.57.00:097][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.02-00.57.00:098][  0]LogPakFile: Display: Mounted Pak file 'D:/Development/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.07.02-00.57.00:098][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.02-00.57.00:099][  0]LogPakFile: Display: Mounted Pak file 'D:/Development/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.07.02-00.57.00:099][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.02-00.57.00:101][  0]LogPakFile: Display: Mounted Pak file 'D:/Development/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.07.02-00.57.00:101][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.02-00.57.00:102][  0]LogPakFile: Display: Mounted Pak file 'D:/Development/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.07.02-00.57.00:102][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.02-00.57.00:103][  0]LogPakFile: Display: Mounted Pak file 'D:/Development/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.07.02-00.57.00:103][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.02-00.57.00:104][  0]LogPakFile: Display: Mounted Pak file 'D:/Development/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.07.02-00.57.00:104][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.02-00.57.00:104][  0]LogFeaturePack: Error: Error in Feature pack D:/Development/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.07.02-00.57.00:409][  0]LogSlate: Took 0.000364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.07.02-00.57.00:416][  0]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.07.02-00.57.00:417][  0]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.07.02-00.57.00:420][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.07.02-00.57.00:421][  0]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.07.02-00.57.00:463][  0]LogViewport: Scene viewport resized to 1081x522, mode Windowed.
+[2023.07.02-00.57.01:766][  0]LogStall: Startup...
+[2023.07.02-00.57.01:768][  0]LogStall: Startup complete.
+[2023.07.02-00.57.01:788][  0]LogLoad: (Engine Initialization) Total time: 20.92 seconds
+[2023.07.02-00.57.01:788][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.07.02-00.57.01:901][  0]LogAssetRegistry: Asset discovery search completed in 14.6084 seconds
+[2023.07.02-00.57.01:916][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.07.02-00.57.01:961][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.07.02-00.57.02:084][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Team3-FinalProject/Team3_FinalProject/Content/' took 0.22s
+[2023.07.02-00.57.02:189][  2]LogSlate: Took 0.000413 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.07.02-00.57.02:266][  3]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_Controller
+	W_InventoryGrid_C /Game/Map/TutorialLevel.TutorialLevel:W_InventoryMenu_C_0.WidgetTree.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:030E
+[2023.07.02-00.57.03:138][  4]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_Controller
+	W_InventoryGrid_C /Game/Map/TutorialLevel.TutorialLevel:W_InventoryGrid_C_0
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:030E
+[2023.07.02-00.58.49:587][296]LogDerivedDataCache: C:/Users/zhang/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.620 and deleted 0 file(s) with total size 0 MiB.
+[2023.07.02-01.05.32:609][338]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.02-01.05.32:626][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.02-01.05.32:627][338]PIE: New page: PIE session: TutorialLevel (2023年7月1日 下午5:05:32)
+[2023.07.02-01.05.32:631][338]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.07.02-01.05.32:631][338]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.07.02-01.05.32:633][338]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_TutorialLevel
+[2023.07.02-01.05.32:696][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062994s)
+[2023.07.02-01.05.32:696][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/TutorialLevel.TutorialLevel to /Game/Map/UEDPIE_0_TutorialLevel.TutorialLevel (0.063123s)
+[2023.07.02-01.05.32:696][338]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.07.02-01.05.32:696][338]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-01.05.32:697][338]LogAIModule: Creating AISystem for world TutorialLevel
+[2023.07.02-01.05.32:697][338]LogPlayLevel: PIE: World Init took: (0.001338s)
+[2023.07.02-01.05.32:711][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.07.02-01.05.32:712][338]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.07.02-01.05.32:712][338]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.02-01.05.32:712][338]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.02-01.05.32:712][338]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.02-01.05.32:712][338]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.02-01.05.32:712][338]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.02-01.05.32:712][338]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.02-01.05.32:712][338]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.02-01.05.32:712][338]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.02-01.05.32:713][338]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.02-01.05.32:713][338]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.02-01.05.32:713][338]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.02-01.05.32:716][338]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.02-01.05.32:761][338]LogAudioMixer: Display: Using Audio Hardware Device BenQ EX2510S (NVIDIA High Definition Audio)
+[2023.07.02-01.05.32:762][338]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.02-01.05.32:762][338]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.02-01.05.32:762][338]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.02-01.05.32:764][338]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.07.02-01.05.32:764][338]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.07.02-01.05.32:766][338]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.07.02-01.05.32:766][338]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.07.02-01.05.32:766][338]LogInit: FAudioDevice initialized.
+[2023.07.02-01.05.32:766][338]LogAudio: Display: Audio Device (ID: 2) registered with world 'TutorialLevel'.
+[2023.07.02-01.05.32:780][338]LogLoad: Game class is 'MyGameMode_C'
+[2023.07.02-01.05.32:814][338]LogWorld: Bringing World /Game/Map/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 60) at 2023.07.01-21.05.32
+[2023.07.02-01.05.32:814][338]LogWorld: Bringing up level for play took: 0.034270
+[2023.07.02-01.05.32:817][338]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2023.07.02-01.05.32:855][338]LogBlueprintUserMessages: [BP_LockDial_C_0] 0
+[2023.07.02-01.05.32:856][338]LogBlueprintUserMessages: [BP_LockDial_C_1] 9
+[2023.07.02-01.05.32:858][338]LogBlueprintUserMessages: [BP_LockDial_C_2] 1
+[2023.07.02-01.05.32:859][338]LogBlueprintUserMessages: [BP_LockDial_C_3] 1
+[2023.07.02-01.05.32:862][338]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.07.02-01.05.32:865][338]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BP_Components/BPC_Inventory.BPC_Inventory_C'!
+[2023.07.02-01.05.32:865][338]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BP_Components/BPC_Inventory.BPC_Inventory_C'!
+[2023.07.02-01.05.32:865][338]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BP_Components/BPC_Inventory.BPC_Inventory_C'!
+[2023.07.02-01.05.32:865][338]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BP_Components/BPC_Inventory.BPC_Inventory_C'!
+[2023.07.02-01.05.32:865][338]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BP_Components/BPC_Inventory.BPC_Inventory_C'!
+[2023.07.02-01.05.32:865][338]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BP_Components/BPC_Inventory.BPC_Inventory_C'!
+[2023.07.02-01.05.32:865][338]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BP_Components/BPC_Inventory.BPC_Inventory_C'!
+[2023.07.02-01.05.32:865][338]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BP_Components/BPC_Inventory.BPC_Inventory_C'!
+[2023.07.02-01.05.32:867][338]PIE: Server logged in
+[2023.07.02-01.05.32:868][338]PIE: Play in editor total start time 0.243 seconds.
+[2023.07.02-01.05.33:166][341]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_Controller
+	W_InventoryGrid_C /Game/Map/TutorialLevel.TutorialLevel:W_InventoryGrid_C_1
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:030E
+[2023.07.02-01.05.33:169][341]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_Controller
+	W_InventoryGrid_C /Game/Map/TutorialLevel.TutorialLevel:W_InventoryMenu_C_1.WidgetTree.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:030E
+[2023.07.02-01.05.37:854][471]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.07.02-01.05.37:854][471]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.07.02-01.05.37:854][471]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.07.02-01.05.42:879][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.02-01.05.42:879][665]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_TutorialLevel
+[2023.07.02-01.05.42:879][665]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-01.05.42:882][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-01.05.42:907][665]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.02-01.05.42:911][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-01.05.42:921][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.02-01.05.42:925][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.07.02-01.05.42:928][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.07.02-01.05.42:942][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.07.02-01.05.42:974][666]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2023.07.02-01.05.42:993][667]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_Controller
+	W_InventoryGrid_C /Game/Map/TutorialLevel.TutorialLevel:W_InventoryGrid_C_2
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:030E
+[2023.07.02-01.05.42:995][667]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_Controller
+	W_InventoryGrid_C /Game/Map/TutorialLevel.TutorialLevel:W_InventoryMenu_C_2.WidgetTree.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:030E
+[2023.07.02-01.05.44:239][713]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.02-01.05.44:255][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.02-01.05.44:255][713]PIE: New page: PIE session: TutorialLevel (2023年7月1日 下午5:05:44)
+[2023.07.02-01.05.44:255][713]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_TutorialLevel
+[2023.07.02-01.05.44:317][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062528s)
+[2023.07.02-01.05.44:317][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/TutorialLevel.TutorialLevel to /Game/Map/UEDPIE_0_TutorialLevel.TutorialLevel (0.062638s)
+[2023.07.02-01.05.44:317][713]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.07.02-01.05.44:317][713]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-01.05.44:318][713]LogAIModule: Creating AISystem for world TutorialLevel
+[2023.07.02-01.05.44:318][713]LogPlayLevel: PIE: World Init took: (0.001160s)
+[2023.07.02-01.05.44:330][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.07.02-01.05.44:330][713]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.07.02-01.05.44:331][713]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.02-01.05.44:331][713]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.02-01.05.44:331][713]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.02-01.05.44:331][713]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.02-01.05.44:331][713]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.02-01.05.44:331][713]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.02-01.05.44:331][713]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.02-01.05.44:331][713]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.02-01.05.44:331][713]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.02-01.05.44:331][713]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.02-01.05.44:331][713]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.02-01.05.44:334][713]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.02-01.05.44:377][713]LogAudioMixer: Display: Using Audio Hardware Device BenQ EX2510S (NVIDIA High Definition Audio)
+[2023.07.02-01.05.44:377][713]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.02-01.05.44:377][713]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.02-01.05.44:377][713]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.02-01.05.44:378][713]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.07.02-01.05.44:378][713]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.07.02-01.05.44:380][713]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.07.02-01.05.44:380][713]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.07.02-01.05.44:380][713]LogInit: FAudioDevice initialized.
+[2023.07.02-01.05.44:380][713]LogAudio: Display: Audio Device (ID: 3) registered with world 'TutorialLevel'.
+[2023.07.02-01.05.44:396][713]LogLoad: Game class is 'MyGameMode_C'
+[2023.07.02-01.05.44:425][713]LogWorld: Bringing World /Game/Map/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 60) at 2023.07.01-21.05.44
+[2023.07.02-01.05.44:426][713]LogWorld: Bringing up level for play took: 0.029759
+[2023.07.02-01.05.44:428][713]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2023.07.02-01.05.44:433][713]LogBlueprintUserMessages: [BP_LockDial_C_0] 4
+[2023.07.02-01.05.44:434][713]LogBlueprintUserMessages: [BP_LockDial_C_1] 2
+[2023.07.02-01.05.44:435][713]LogBlueprintUserMessages: [BP_LockDial_C_2] 5
+[2023.07.02-01.05.44:436][713]LogBlueprintUserMessages: [BP_LockDial_C_3] 9
+[2023.07.02-01.05.44:438][713]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.07.02-01.05.44:441][713]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BP_Components/BPC_Inventory.BPC_Inventory_C'!
+[2023.07.02-01.05.44:441][713]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BP_Components/BPC_Inventory.BPC_Inventory_C'!
+[2023.07.02-01.05.44:441][713]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BP_Components/BPC_Inventory.BPC_Inventory_C'!
+[2023.07.02-01.05.44:441][713]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BP_Components/BPC_Inventory.BPC_Inventory_C'!
+[2023.07.02-01.05.44:441][713]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BP_Components/BPC_Inventory.BPC_Inventory_C'!
+[2023.07.02-01.05.44:441][713]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BP_Components/BPC_Inventory.BPC_Inventory_C'!
+[2023.07.02-01.05.44:441][713]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BP_Components/BPC_Inventory.BPC_Inventory_C'!
+[2023.07.02-01.05.44:441][713]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'InventorySlots' of length 0 in '/Game/Blueprints/BP_Components/BPC_Inventory.BPC_Inventory_C'!
+[2023.07.02-01.05.44:442][713]PIE: Server logged in
+[2023.07.02-01.05.44:444][713]PIE: Play in editor total start time 0.19 seconds.
+[2023.07.02-01.05.47:565][799]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.07.02-01.05.47:565][799]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.07.02-01.05.47:565][799]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.07.02-01.05.48:682][843]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.07.02-01.05.48:682][843]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.07.02-01.06.21:569][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.02-01.06.21:569][817]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_TutorialLevel
+[2023.07.02-01.06.21:570][817]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-01.06.21:574][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-01.06.21:656][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.02-01.06.21:660][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-01.06.21:676][817]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.02-01.06.21:676][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.07.02-01.06.21:678][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.07.02-01.06.21:684][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.02-01.06.21:692][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.07.02-01.06.21:739][818]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2023.07.02-01.06.21:884][820]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_Controller
+	W_InventoryGrid_C /Game/Map/TutorialLevel.TutorialLevel:W_InventoryGrid_C_3
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:030E
+[2023.07.02-01.06.21:887][820]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_Controller
+	W_InventoryGrid_C /Game/Map/TutorialLevel.TutorialLevel:W_InventoryMenu_C_3.WidgetTree.W_InventoryGrid
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:030E
+[2023.07.02-01.06.23:076][844]LogViewport: Scene viewport resized to 795x514, mode Windowed.
+[2023.07.02-01.06.23:791][856]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMy_Player_Controller
+	W_InventoryGrid_C /Game/Map/TutorialLevel.TutorialLevel:W_InventoryGrid_C_3
+	Function /Game/UMG/Inventory/W_InventoryGrid.W_InventoryGrid_C:ExecuteUbergraph_W_InventoryGrid:030E
+[2023.07.02-01.06.34:773][ 64]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.07.02-01.06.34:790][ 64]LogContentBrowser: Creating deferred item: NewFolder
+[2023.07.02-01.06.34:801][ 65]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.07.02-01.06.37:838][126]LogContentBrowser: Attempting asset rename: NewFolder -> Zombie
+[2023.07.02-01.06.37:838][126]LogContentBrowser: End creating deferred item NewFolder
+[2023.07.02-01.07.21:127][720]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Team3-FinalProject_resources\Models_Animations\zombie\Zombiegirl W Kurniawan.fbx)
+[2023.07.02-01.07.21:216][720]LogFbx: Loading FBX Scene from D:\Team3-FinalProject_resources\Models_Animations\zombie\Zombiegirl W Kurniawan.fbx
+[2023.07.02-01.07.21:291][720]LogFbx: FBX Scene Loaded Succesfully
+[2023.07.02-01.07.23:889][720]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.07.02-01.07.57:594][720]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.07.02-01.07.57:645][720]LogFbx: Valid bind pose for Pose (skinCluster4) - ZombieGirl_Body
+[2023.07.02-01.07.57:645][720]LogFbx: Valid bind pose for Pose (skinCluster5) - ZombieGirl_Body
+[2023.07.02-01.07.57:646][720]LogFbx: Valid bind pose for Pose (skinCluster6) - ZombieGirl_Body
+[2023.07.02-01.07.57:652][720]LogFbx: Triangulating skeletal mesh ZombieGirl_Body
+[2023.07.02-01.07.57:842][720]LogFbx: Triangulating skeletal mesh ZombieGirl_Top
+[2023.07.02-01.07.57:881][720]LogFbx: Triangulating skeletal mesh ZombieGirl_Pants
+[2023.07.02-01.07.57:923][720]LogFbx: Warning: Bones digested - 63  Depth of hierarchy - 12
+[2023.07.02-01.07.58:200][720]LogSkeletalMesh: Section 0: Material=0, 6848 triangles
+[2023.07.02-01.07.58:200][720]LogSkeletalMesh: Section 1: Material=1, 566 triangles
+[2023.07.02-01.07.58:200][720]LogSkeletalMesh: Section 2: Material=2, 34 triangles
+[2023.07.02-01.07.58:272][720]LogSkeletalMesh: Building Skeletal Mesh Zombiegirl_W_Kurniawan...
+[2023.07.02-01.07.58:272][720]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Zombiegirl_W_Kurniawan) ...
+[2023.07.02-01.07.58:504][720]LogSkeletalMesh: Built Skeletal Mesh [0.24s] /Game/Assets/Character/Zombie/Zombiegirl_W_Kurniawan.Zombiegirl_W_Kurniawan
+[2023.07.02-01.07.58:504][720]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-01.07.58:525][720]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-01.07.58:526][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-01.07.58:535][720]LogFbx: SortedLinks :(0) Hips
+[2023.07.02-01.07.58:535][720]LogFbx: SortedLinks :(1) Spine
+[2023.07.02-01.07.58:535][720]LogFbx: SortedLinks :(2) Spine1
+[2023.07.02-01.07.58:535][720]LogFbx: SortedLinks :(3) Spine2
+[2023.07.02-01.07.58:535][720]LogFbx: SortedLinks :(4) Neck
+[2023.07.02-01.07.58:535][720]LogFbx: SortedLinks :(5) Head
+[2023.07.02-01.07.58:535][720]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.07.02-01.07.58:535][720]LogFbx: SortedLinks :(7) LeftEye
+[2023.07.02-01.07.58:535][720]LogFbx: SortedLinks :(8) RightEye
+[2023.07.02-01.07.58:535][720]LogFbx: SortedLinks :(9) LeftShoulder
+[2023.07.02-01.07.58:535][720]LogFbx: SortedLinks :(10) LeftArm
+[2023.07.02-01.07.58:535][720]LogFbx: SortedLinks :(11) LeftForeArm
+[2023.07.02-01.07.58:535][720]LogFbx: SortedLinks :(12) LeftHand
+[2023.07.02-01.07.58:535][720]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2023.07.02-01.07.58:535][720]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2023.07.02-01.07.58:535][720]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2023.07.02-01.07.58:535][720]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2023.07.02-01.07.58:535][720]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(25) LeftHandRing1
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(26) LeftHandRing2
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(27) LeftHandRing3
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(28) LeftHandRing4
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(33) RightShoulder
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(34) RightArm
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(35) RightForeArm
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(36) RightHand
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(37) RightHandThumb1
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(38) RightHandThumb2
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(39) RightHandThumb3
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(40) RightHandThumb4
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(41) RightHandIndex1
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(42) RightHandIndex2
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(43) RightHandIndex3
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(44) RightHandIndex4
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(45) RightHandRing1
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(46) RightHandRing2
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(47) RightHandRing3
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(48) RightHandRing4
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(49) RightHandPinky1
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(50) RightHandPinky2
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(51) RightHandPinky3
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(52) RightHandPinky4
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(53) LeftUpLeg
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(54) LeftLeg
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(55) LeftFoot
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(56) LeftToeBase
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(57) LeftToe_End
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(58) RightUpLeg
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(59) RightLeg
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(60) RightFoot
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(61) RightToeBase
+[2023.07.02-01.07.58:536][720]LogFbx: SortedLinks :(62) RightToe_End
+[2023.07.02-01.07.58:538][720]LogFbx: Parsing AnimStack mixamo.com
+[2023.07.02-01.07.58:583][720]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Character/Zombie/Zombiegirl_W_Kurniawan_Anim.Zombiegirl_W_Kurniawan_Anim
+[2023.07.02-01.07.58:584][720]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'ZombieGirl_Material' was renamed 'ZombieGirl_Material_ncl1_1' 
+[2023.07.02-01.07.58:584][720]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.07.02-01.08.11:169][988]LogSlate: Window 'Message Log' being destroyed
+[2023.07.02-01.08.11:224][988]LogSlate: Window 'Message Log' being destroyed
+[2023.07.02-01.08.48:785][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.07.02-01.08.50:190][754]LogSlate: Window 'Delete Assets' being destroyed
+[2023.07.02-01.08.50:248][754]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/Assets/Character/Zombie/Zombiegirl_W_Kurniawan.Zombiegirl_W_Kurniawan
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/Assets/Character/Zombie/Zombiegirl_W_Kurniawan_Anim.Zombiegirl_W_Kurniawan_Anim
+	Asset Type: AnimSequence
+	Asset Name: /Game/Assets/Character/Zombie/Zombiegirl_W_Kurniawan_PhysicsAsset.Zombiegirl_W_Kurniawan_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/Assets/Character/Zombie/Zombiegirl_W_Kurniawan_Skeleton.Zombiegirl_W_Kurniawan_Skeleton
+	Asset Type: Skeleton
+[2023.07.02-01.08.50:575][754]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2023.07.02-01.08.51:103][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.07.02-01.08.51:115][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.07.02-01.08.51:126][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.07.02-01.08.51:140][755]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Assets/Character/Zombie/Zombiegirl_W_Kurniawan.Zombiegirl_W_Kurniawan has no skeleton. This needs to fixed before an animation can be set
+[2023.07.02-01.08.51:157][756]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Assets/Character/Zombie/Zombiegirl_W_Kurniawan.Zombiegirl_W_Kurniawan has no skeleton. This needs to fixed before an animation can be set
+[2023.07.02-01.08.57:965][889]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.07.02-01.08.58:054][889]LogContentBrowser: Creating deferred item: NewFolder
+[2023.07.02-01.08.58:082][891]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.07.02-01.09.00:041][933]LogContentBrowser: Attempting asset rename: NewFolder -> T-Bone
+[2023.07.02-01.09.00:041][933]LogContentBrowser: End creating deferred item NewFolder
+[2023.07.02-01.09.26:830][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.07.02-01.09.26:832][ 51]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TutorialLevel' took 0.016
+[2023.07.02-01.11.11:237][399]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Team3-FinalProject_resources\Models_Animations\zombie\Zombiegirl W Kurniawan.fbx)
+[2023.07.02-01.11.11:302][399]LogFbx: Loading FBX Scene from D:\Team3-FinalProject_resources\Models_Animations\zombie\Zombiegirl W Kurniawan.fbx
+[2023.07.02-01.11.11:369][399]LogFbx: FBX Scene Loaded Succesfully
+[2023.07.02-01.11.19:889][399]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.07.02-01.11.19:933][399]LogFbx: Valid bind pose for Pose (skinCluster4) - ZombieGirl_Body
+[2023.07.02-01.11.19:933][399]LogFbx: Valid bind pose for Pose (skinCluster5) - ZombieGirl_Body
+[2023.07.02-01.11.19:934][399]LogFbx: Valid bind pose for Pose (skinCluster6) - ZombieGirl_Body
+[2023.07.02-01.11.19:938][399]LogFbx: Triangulating skeletal mesh ZombieGirl_Body
+[2023.07.02-01.11.20:121][399]LogFbx: Triangulating skeletal mesh ZombieGirl_Top
+[2023.07.02-01.11.20:163][399]LogFbx: Triangulating skeletal mesh ZombieGirl_Pants
+[2023.07.02-01.11.20:200][399]LogFbx: Warning: Bones digested - 63  Depth of hierarchy - 12
+[2023.07.02-01.11.20:461][399]LogSkeletalMesh: Section 0: Material=0, 6848 triangles
+[2023.07.02-01.11.20:462][399]LogSkeletalMesh: Section 1: Material=1, 566 triangles
+[2023.07.02-01.11.20:462][399]LogSkeletalMesh: Section 2: Material=2, 34 triangles
+[2023.07.02-01.11.20:534][399]LogSkeletalMesh: Building Skeletal Mesh Zombiegirl_W_Kurniawan...
+[2023.07.02-01.11.20:534][399]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Zombiegirl_W_Kurniawan) ...
+[2023.07.02-01.11.20:771][399]LogSkeletalMesh: Built Skeletal Mesh [0.25s] /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan.Zombiegirl_W_Kurniawan
+[2023.07.02-01.11.20:771][399]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-01.11.20:796][399]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-01.11.20:796][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-01.11.20:804][399]LogFbx: SortedLinks :(0) Hips
+[2023.07.02-01.11.20:804][399]LogFbx: SortedLinks :(1) Spine
+[2023.07.02-01.11.20:804][399]LogFbx: SortedLinks :(2) Spine1
+[2023.07.02-01.11.20:804][399]LogFbx: SortedLinks :(3) Spine2
+[2023.07.02-01.11.20:804][399]LogFbx: SortedLinks :(4) Neck
+[2023.07.02-01.11.20:804][399]LogFbx: SortedLinks :(5) Head
+[2023.07.02-01.11.20:804][399]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.07.02-01.11.20:804][399]LogFbx: SortedLinks :(7) LeftEye
+[2023.07.02-01.11.20:804][399]LogFbx: SortedLinks :(8) RightEye
+[2023.07.02-01.11.20:804][399]LogFbx: SortedLinks :(9) LeftShoulder
+[2023.07.02-01.11.20:804][399]LogFbx: SortedLinks :(10) LeftArm
+[2023.07.02-01.11.20:804][399]LogFbx: SortedLinks :(11) LeftForeArm
+[2023.07.02-01.11.20:804][399]LogFbx: SortedLinks :(12) LeftHand
+[2023.07.02-01.11.20:804][399]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2023.07.02-01.11.20:804][399]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2023.07.02-01.11.20:804][399]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2023.07.02-01.11.20:804][399]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2023.07.02-01.11.20:804][399]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2023.07.02-01.11.20:804][399]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2023.07.02-01.11.20:804][399]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2023.07.02-01.11.20:804][399]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2023.07.02-01.11.20:804][399]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2023.07.02-01.11.20:804][399]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2023.07.02-01.11.20:804][399]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2023.07.02-01.11.20:804][399]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2023.07.02-01.11.20:804][399]LogFbx: SortedLinks :(25) LeftHandRing1
+[2023.07.02-01.11.20:804][399]LogFbx: SortedLinks :(26) LeftHandRing2
+[2023.07.02-01.11.20:804][399]LogFbx: SortedLinks :(27) LeftHandRing3
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(28) LeftHandRing4
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(33) RightShoulder
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(34) RightArm
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(35) RightForeArm
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(36) RightHand
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(37) RightHandThumb1
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(38) RightHandThumb2
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(39) RightHandThumb3
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(40) RightHandThumb4
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(41) RightHandIndex1
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(42) RightHandIndex2
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(43) RightHandIndex3
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(44) RightHandIndex4
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(45) RightHandRing1
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(46) RightHandRing2
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(47) RightHandRing3
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(48) RightHandRing4
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(49) RightHandPinky1
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(50) RightHandPinky2
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(51) RightHandPinky3
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(52) RightHandPinky4
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(53) LeftUpLeg
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(54) LeftLeg
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(55) LeftFoot
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(56) LeftToeBase
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(57) LeftToe_End
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(58) RightUpLeg
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(59) RightLeg
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(60) RightFoot
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(61) RightToeBase
+[2023.07.02-01.11.20:805][399]LogFbx: SortedLinks :(62) RightToe_End
+[2023.07.02-01.11.20:806][399]LogFbx: Parsing AnimStack mixamo.com
+[2023.07.02-01.11.20:844][399]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_Anim.Zombiegirl_W_Kurniawan_Anim
+[2023.07.02-01.11.20:844][399]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'ZombieGirl_Material' was renamed 'ZombieGirl_Material_ncl1_1' 
+[2023.07.02-01.11.20:844][399]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.07.02-01.11.23:758][457]LogSlate: Window 'Message Log' being destroyed
+[2023.07.02-01.11.23:813][457]LogSlate: Window 'Message Log' being destroyed
+[2023.07.02-01.12.01:440][909]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.07.02-01.12.01:452][909]LogContentBrowser: Creating deferred item: NewFolder
+[2023.07.02-01.12.01:463][910]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.07.02-01.12.06:291][ 16]LogContentBrowser: Attempting asset rename: NewFolder -> Texture
+[2023.07.02-01.12.06:292][ 16]LogContentBrowser: End creating deferred item NewFolder
+[2023.07.02-01.12.14:670][ 86]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Team3-FinalProject_resources\Models_Animations\zombie\Zombiegirl W Kurniawan.fbm\zombie_body_diffuse.png)
+[2023.07.02-01.12.14:892][ 86]LogTexture: Display: Building textures: /Game/Assets/Character/Zombie/Texture/zombie_body_diffuse.zombie_body_diffuse (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.02-01.12.14:892][ 86]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Team3-FinalProject_resources\Models_Animations\zombie\Zombiegirl W Kurniawan.fbm\zombie_diffuse.png)
+[2023.07.02-01.12.15:190][ 86]LogTexture: Display: Building textures: /Game/Assets/Character/Zombie/Texture/zombie_diffuse.zombie_diffuse (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.02-01.12.15:190][ 86]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Team3-FinalProject_resources\Models_Animations\zombie\Zombiegirl W Kurniawan.fbm\zombie_normal.png)
+[2023.07.02-01.12.15:493][ 86]LogTexture: Display: Building textures: /Game/Assets/Character/Zombie/Texture/zombie_normal.zombie_normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.02-01.12.15:523][ 86]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Team3-FinalProject_resources\Models_Animations\zombie\Zombiegirl W Kurniawan.fbm\zombie_specular.png)
+[2023.07.02-01.12.15:707][ 86]LogTexture: Display: Building textures: /Game/Assets/Character/Zombie/Texture/zombie_specular.zombie_specular (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.02-01.13.12:071][790]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan.Zombiegirl_W_Kurniawan
+[2023.07.02-01.13.12:071][790]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan.Zombiegirl_W_Kurniawan
+[2023.07.02-01.13.12:073][790]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan.Zombiegirl_W_Kurniawan as actor: SkeletalMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.SkeletalMeshActor_0
+[2023.07.02-01.13.12:075][790]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan.Zombiegirl_W_Kurniawan as actor: SkeletalMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.SkeletalMeshActor_0
+[2023.07.02-01.13.12:698][813]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan.Zombiegirl_W_Kurniawan
+[2023.07.02-01.13.12:698][813]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan.Zombiegirl_W_Kurniawan
+[2023.07.02-01.13.12:700][813]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan.Zombiegirl_W_Kurniawan as actor: SkeletalMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.SkeletalMeshActor_1
+[2023.07.02-01.13.12:701][813]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan.Zombiegirl_W_Kurniawan as actor: SkeletalMeshActor /Game/Map/TutorialLevel.TutorialLevel:PersistentLevel.SkeletalMeshActor_1
+[2023.07.02-01.13.12:802][814]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.07.02-01.13.15:783][908]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan.Zombiegirl_W_Kurniawan
+[2023.07.02-01.13.16:179][908]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-01.13.16:224][908]LogTexture: Display: Waiting for textures to be ready 0/1 (/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1) ...
+[2023.07.02-01.13.16:264][908]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.02-01.13.16:784][908]LogViewport: Scene viewport resized to 838x714, mode Windowed.
+[2023.07.02-01.13.24:514][ 96]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.07.02-01.13.42:704][568]LogViewport: Scene viewport resized to 1081x522, mode Windowed.
+[2023.07.02-01.13.45:976][647]LogViewport: Scene viewport resized to 795x514, mode Windowed.
+[2023.07.02-01.13.47:169][673]LogViewport: Scene viewport resized to 797x714, mode Windowed.
+[2023.07.02-01.14.15:197][395]LogSlate: Window 'Zombiegirl_W_Kurniawan' being destroyed
+[2023.07.02-01.14.15:206][395]LogSlate: Window 'Zombiegirl_W_Kurniawan' being destroyed
+[2023.07.02-01.14.15:208][395]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-01.14.15:208][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-01.14.36:961][ 27]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Character/Zombie/Texture/zombie_body_diffuse.zombie_body_diffuse
+[2023.07.02-01.14.37:195][ 27]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2023.07.02-01.14.37:325][ 27]LogViewport: Scene viewport resized to 1044x746, mode Windowed.
+[2023.07.02-01.14.40:241][118]LogSlate: Window 'zombie_body_diffuse' being destroyed
+[2023.07.02-01.14.40:278][118]LogSlate: Window 'zombie_body_diffuse' being destroyed
+[2023.07.02-01.14.50:998][439]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan.Zombiegirl_W_Kurniawan
+[2023.07.02-01.14.51:000][439]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-01.14.51:037][439]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.02-01.14.51:455][439]LogViewport: Scene viewport resized to 797x714, mode Windowed.
+[2023.07.02-01.15.11:538][984]LogSlate: Window 'Zombiegirl_W_Kurniawan' being destroyed
+[2023.07.02-01.15.11:547][984]LogSlate: Window 'Zombiegirl_W_Kurniawan' being destroyed
+[2023.07.02-01.15.11:549][984]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-01.15.11:549][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-01.16.26:156][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.07.02-01.16.28:019][728]LogSlate: Window 'Delete Assets' being destroyed
+[2023.07.02-01.16.29:192][728]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_Skeleton.Zombiegirl_W_Kurniawan_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan.Zombiegirl_W_Kurniawan
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_Anim.Zombiegirl_W_Kurniawan_Anim
+	Asset Type: AnimSequence
+	Asset Name: /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_PhysicsAsset.Zombiegirl_W_Kurniawan_PhysicsAsset
+	Asset Type: PhysicsAsset
+[2023.07.02-01.16.30:127][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.07.02-01.16.30:140][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.07.02-01.16.30:152][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.07.02-01.16.30:173][729]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan.Zombiegirl_W_Kurniawan has no skeleton. This needs to fixed before an animation can be set
+[2023.07.02-01.16.30:190][730]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan.Zombiegirl_W_Kurniawan has no skeleton. This needs to fixed before an animation can be set
+[2023.07.02-01.16.38:581][995]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.07.02-01.16.38:581][995]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.07.02-01.16.40:877][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.07.02-01.16.42:565][ 67]LogSlate: Window 'Delete Assets' being destroyed
+[2023.07.02-01.16.42:599][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.07.02-01.16.42:613][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.07.02-01.16.42:626][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.07.02-01.16.57:179][186]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Team3-FinalProject_resources/Models_Animations/zombie/Zombiegirl W Kurniawan.fbx)
+[2023.07.02-01.16.57:244][186]LogFbx: Loading FBX Scene from ../../../../../Team3-FinalProject_resources/Models_Animations/zombie/Zombiegirl W Kurniawan.fbx
+[2023.07.02-01.16.57:318][186]LogFbx: FBX Scene Loaded Succesfully
+[2023.07.02-01.17.32:465][186]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.07.02-01.17.32:521][186]LogFbx: Valid bind pose for Pose (skinCluster4) - ZombieGirl_Body
+[2023.07.02-01.17.32:522][186]LogFbx: Valid bind pose for Pose (skinCluster5) - ZombieGirl_Body
+[2023.07.02-01.17.32:522][186]LogFbx: Valid bind pose for Pose (skinCluster6) - ZombieGirl_Body
+[2023.07.02-01.17.32:526][186]LogFbx: Triangulating skeletal mesh ZombieGirl_Body
+[2023.07.02-01.17.32:708][186]LogFbx: Triangulating skeletal mesh ZombieGirl_Top
+[2023.07.02-01.17.32:746][186]LogFbx: Triangulating skeletal mesh ZombieGirl_Pants
+[2023.07.02-01.17.32:783][186]LogFbx: Warning: Bones digested - 63  Depth of hierarchy - 12
+[2023.07.02-01.17.33:036][186]LogSkeletalMesh: Section 0: Material=0, 6848 triangles
+[2023.07.02-01.17.33:036][186]LogSkeletalMesh: Section 1: Material=1, 566 triangles
+[2023.07.02-01.17.33:036][186]LogSkeletalMesh: Section 2: Material=2, 34 triangles
+[2023.07.02-01.17.33:108][186]LogSkeletalMesh: Building Skeletal Mesh Zombiegirl_W_Kurniawan...
+[2023.07.02-01.17.33:108][186]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Zombiegirl_W_Kurniawan) ...
+[2023.07.02-01.17.33:334][186]LogSkeletalMesh: Built Skeletal Mesh [0.24s] /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan.Zombiegirl_W_Kurniawan
+[2023.07.02-01.17.33:334][186]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-01.17.33:346][186]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-01.17.33:346][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-01.17.33:354][186]LogFbx: SortedLinks :(0) Hips
+[2023.07.02-01.17.33:354][186]LogFbx: SortedLinks :(1) Spine
+[2023.07.02-01.17.33:354][186]LogFbx: SortedLinks :(2) Spine1
+[2023.07.02-01.17.33:354][186]LogFbx: SortedLinks :(3) Spine2
+[2023.07.02-01.17.33:354][186]LogFbx: SortedLinks :(4) Neck
+[2023.07.02-01.17.33:354][186]LogFbx: SortedLinks :(5) Head
+[2023.07.02-01.17.33:354][186]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.07.02-01.17.33:354][186]LogFbx: SortedLinks :(7) LeftEye
+[2023.07.02-01.17.33:354][186]LogFbx: SortedLinks :(8) RightEye
+[2023.07.02-01.17.33:354][186]LogFbx: SortedLinks :(9) LeftShoulder
+[2023.07.02-01.17.33:354][186]LogFbx: SortedLinks :(10) LeftArm
+[2023.07.02-01.17.33:354][186]LogFbx: SortedLinks :(11) LeftForeArm
+[2023.07.02-01.17.33:354][186]LogFbx: SortedLinks :(12) LeftHand
+[2023.07.02-01.17.33:354][186]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2023.07.02-01.17.33:354][186]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2023.07.02-01.17.33:354][186]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2023.07.02-01.17.33:354][186]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2023.07.02-01.17.33:354][186]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2023.07.02-01.17.33:354][186]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2023.07.02-01.17.33:354][186]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2023.07.02-01.17.33:354][186]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2023.07.02-01.17.33:354][186]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2023.07.02-01.17.33:354][186]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2023.07.02-01.17.33:354][186]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(25) LeftHandRing1
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(26) LeftHandRing2
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(27) LeftHandRing3
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(28) LeftHandRing4
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(33) RightShoulder
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(34) RightArm
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(35) RightForeArm
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(36) RightHand
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(37) RightHandThumb1
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(38) RightHandThumb2
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(39) RightHandThumb3
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(40) RightHandThumb4
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(41) RightHandIndex1
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(42) RightHandIndex2
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(43) RightHandIndex3
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(44) RightHandIndex4
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(45) RightHandRing1
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(46) RightHandRing2
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(47) RightHandRing3
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(48) RightHandRing4
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(49) RightHandPinky1
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(50) RightHandPinky2
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(51) RightHandPinky3
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(52) RightHandPinky4
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(53) LeftUpLeg
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(54) LeftLeg
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(55) LeftFoot
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(56) LeftToeBase
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(57) LeftToe_End
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(58) RightUpLeg
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(59) RightLeg
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(60) RightFoot
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(61) RightToeBase
+[2023.07.02-01.17.33:355][186]LogFbx: SortedLinks :(62) RightToe_End
+[2023.07.02-01.17.33:356][186]LogFbx: Parsing AnimStack mixamo.com
+[2023.07.02-01.17.33:388][186]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_Anim.Zombiegirl_W_Kurniawan_Anim
+[2023.07.02-01.17.33:396][186]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'ZombieGirl_Material' was renamed 'ZombieGirl_Material_ncl1_1' 
+[2023.07.02-01.17.33:396][186]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.07.02-01.17.54:229][894]LogSlate: Window 'Message Log' being destroyed
+[2023.07.02-01.17.54:267][894]LogSlate: Window 'Message Log' being destroyed
+[2023.07.02-01.18.30:466][221]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Team3-FinalProject_resources\Models_Animations\zombie\Zombiegirl W Kurniawan.fbm\zombie_diffuse.png)
+[2023.07.02-01.18.30:726][221]LogTexture: Display: Building textures: /Game/Assets/Character/Zombie/Texture/zombie_diffuse.zombie_diffuse (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.02-01.18.30:726][221]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Team3-FinalProject_resources\Models_Animations\zombie\Zombiegirl W Kurniawan.fbm\zombie_normal.png)
+[2023.07.02-01.18.31:040][221]LogTexture: Display: Building textures: /Game/Assets/Character/Zombie/Texture/zombie_normal.zombie_normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.02-01.18.31:054][221]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Team3-FinalProject_resources\Models_Animations\zombie\Zombiegirl W Kurniawan.fbm\zombie_specular.png)
+[2023.07.02-01.18.31:227][221]LogTexture: Display: Building textures: /Game/Assets/Character/Zombie/Texture/zombie_specular.zombie_specular (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.02-01.18.31:227][221]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Team3-FinalProject_resources\Models_Animations\zombie\Zombiegirl W Kurniawan.fbm\zombie_body_diffuse.png)
+[2023.07.02-01.18.31:470][221]LogTexture: Display: Building textures: /Game/Assets/Character/Zombie/Texture/zombie_body_diffuse.zombie_body_diffuse (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.02-01.18.38:107][414]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_Anim.Zombiegirl_W_Kurniawan_Anim
+[2023.07.02-01.18.38:110][414]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-01.18.38:163][414]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.02-01.18.38:449][414]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-01.18.38:602][414]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.07.02-01.18.38:612][414]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-01.18.38:642][414]LogViewport: Scene viewport resized to 771x447, mode Windowed.
+[2023.07.02-01.18.38:686][414]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.07.02-01.18.41:964][484]LogSlate: Window 'Zombiegirl_W_Kurniawan_Anim' being destroyed
+[2023.07.02-01.18.41:973][484]LogSlate: Window 'Zombiegirl_W_Kurniawan_Anim' being destroyed
+[2023.07.02-01.18.41:974][484]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-01.18.41:974][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-01.18.41:990][484]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-01.18.41:990][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-01.18.42:058][484]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-01.18.42:058][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-01.18.43:420][524]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_PhysicsAsset.Zombiegirl_W_Kurniawan_PhysicsAsset
+[2023.07.02-01.18.43:806][524]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-01.18.43:825][524]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2023.07.02-01.18.44:201][524]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.07.02-01.18.44:214][524]LogViewport: Scene viewport resized to 838x714, mode Windowed.
+[2023.07.02-01.18.46:026][565]LogSlate: Window 'Zombiegirl_W_Kurniawan_PhysicsAsset' being destroyed
+[2023.07.02-01.18.46:036][565]LogSlate: Window 'Zombiegirl_W_Kurniawan_PhysicsAsset' being destroyed
+[2023.07.02-01.18.46:037][565]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-01.18.46:037][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-01.18.46:832][586]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_Skeleton.Zombiegirl_W_Kurniawan_Skeleton
+[2023.07.02-01.18.46:833][586]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-01.18.46:877][586]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.02-01.18.47:165][586]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-01.18.47:268][586]LogViewport: Scene viewport resized to 838x714, mode Windowed.
+[2023.07.02-01.18.49:616][646]LogSlate: Window 'Zombiegirl_W_Kurniawan_Skeleton' being destroyed
+[2023.07.02-01.18.49:625][646]LogSlate: Window 'Zombiegirl_W_Kurniawan_Skeleton' being destroyed
+[2023.07.02-01.18.49:627][646]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-01.18.49:627][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-01.18.49:702][646]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-01.18.49:702][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-01.18.50:375][665]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan.Zombiegirl_W_Kurniawan
+[2023.07.02-01.18.50:375][665]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-01.18.50:427][665]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.02-01.18.50:848][665]LogViewport: Scene viewport resized to 797x714, mode Windowed.
+[2023.07.02-01.20.16:039][978]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/Character/Mutant/T-Bone/Mutant/Ch30_nonPBR.Ch30_nonPBR
+[2023.07.02-01.20.16:040][978]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-01.20.16:092][978]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.02-01.20.16:492][978]LogViewport: Scene viewport resized to 797x714, mode Windowed.
+[2023.07.02-01.20.22:571][138]LogSlate: Window 'Ch30_nonPBR' being destroyed
+[2023.07.02-01.20.22:582][138]LogSlate: Window 'Ch30_nonPBR' being destroyed
+[2023.07.02-01.20.22:583][138]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-01.20.22:583][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-01.20.22:676][138]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-01.20.22:676][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-01.20.31:351][416]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan.Zombiegirl_W_Kurniawan
+[2023.07.02-01.20.31:352][416]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-01.20.31:408][416]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.02-01.20.31:822][416]LogViewport: Scene viewport resized to 797x714, mode Windowed.
+[2023.07.02-01.21.27:422][778]LogPackageName: Warning: TryConvertFilenameToLongPackageName was passed an ObjectPath (/Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan.fbm) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryConvertFilenameToLongPackageName will fail on ObjectPaths.
+[2023.07.02-01.21.27:435][778]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Team3-FinalProject_resources\Models_Animations\zombie\Zombiegirl W Kurniawan.fbm/zombie_body_diffuse.png)
+[2023.07.02-01.21.27:637][778]LogPackageName: Warning: TryConvertFilenameToLongPackageName was passed an ObjectPath (/Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan.fbm) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryConvertFilenameToLongPackageName will fail on ObjectPaths.
+[2023.07.02-01.21.27:655][778]LogTexture: Display: Building textures: /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan/zombie_body_diffuse.zombie_body_diffuse (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.02-01.21.27:655][778]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Team3-FinalProject_resources\Models_Animations\zombie\Zombiegirl W Kurniawan.fbm/zombie_diffuse.png)
+[2023.07.02-01.21.27:935][778]LogPackageName: Warning: TryConvertFilenameToLongPackageName was passed an ObjectPath (/Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan.fbm) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryConvertFilenameToLongPackageName will fail on ObjectPaths.
+[2023.07.02-01.21.27:953][778]LogTexture: Display: Building textures: /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan/zombie_diffuse.zombie_diffuse (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.02-01.21.27:953][778]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Team3-FinalProject_resources\Models_Animations\zombie\Zombiegirl W Kurniawan.fbm/zombie_normal.png)
+[2023.07.02-01.21.28:267][778]LogTexture: Display: Building textures: /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan/zombie_normal.zombie_normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.02-01.21.28:273][778]LogPackageName: Warning: TryConvertFilenameToLongPackageName was passed an ObjectPath (/Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan.fbm) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryConvertFilenameToLongPackageName will fail on ObjectPaths.
+[2023.07.02-01.21.28:281][778]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Team3-FinalProject_resources\Models_Animations\zombie\Zombiegirl W Kurniawan.fbm/zombie_specular.png)
+[2023.07.02-01.21.28:461][778]LogTexture: Display: Building textures: /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan/zombie_specular.zombie_specular (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.02-01.21.43:092][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.07.02-01.21.45:057][195]LogSlate: Window 'Delete Assets' being destroyed
+[2023.07.02-01.21.45:087][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.07.02-01.21.45:101][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.07.02-01.21.45:113][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.07.02-01.21.48:235][293]LogSlate: Took 0.006733 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.07.02-01.22.15:808][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.07.02-01.22.15:825][467]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.010147 seconds
+[2023.07.02-01.22.16:412][467]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/TutorialLevel_Auto1
+[2023.07.02-01.22.16:413][467]LogSavePackage: Moving '../../../../../Team3-FinalProject/Team3_FinalProject/Saved/TutorialLevel_Auto1E5F13E3545A9F425EC08B7A2B14D9813.tmp' to '../../../../../Team3-FinalProject/Team3_FinalProject/Saved/Autosaves/Game/Map/TutorialLevel_Auto1.umap'
+[2023.07.02-01.22.16:420][467]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/TutorialLevel' took 0.627
+[2023.07.02-01.22.16:420][467]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.627
+[2023.07.02-01.22.16:422][467]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan] ([1] browsable assets)...
+[2023.07.02-01.22.16:527][467]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan.Zombiegirl_W_Kurniawan]
+[2023.07.02-01.22.16:527][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan]
+[2023.07.02-01.22.16:585][467]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_Auto1
+[2023.07.02-01.22.16:586][467]LogSavePackage: Moving '../../../../../Team3-FinalProject/Team3_FinalProject/Saved/Zombiegirl_W_Kurniawan_Auto166D155BD446DC5D7A3240AB437E361A3.tmp' to '../../../../../Team3-FinalProject/Team3_FinalProject/Saved/Autosaves/Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_Auto1.uasset'
+[2023.07.02-01.22.16:587][467]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_Skeleton] ([1] browsable assets)...
+[2023.07.02-01.22.16:632][467]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_Skeleton.Zombiegirl_W_Kurniawan_Skeleton]
+[2023.07.02-01.22.16:632][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_Skeleton]
+[2023.07.02-01.22.16:641][467]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_Skeleton_Auto1
+[2023.07.02-01.22.16:642][467]LogSavePackage: Moving '../../../../../Team3-FinalProject/Team3_FinalProject/Saved/Zombiegirl_W_Kurniawan_Skeleton_7A9009B446AA6837F5193587D53A9E69.tmp' to '../../../../../Team3-FinalProject/Team3_FinalProject/Saved/Autosaves/Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_Skeleton_Auto1.uasset'
+[2023.07.02-01.22.16:643][467]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_PhysicsAsset] ([1] browsable assets)...
+[2023.07.02-01.22.16:686][467]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_PhysicsAsset.Zombiegirl_W_Kurniawan_PhysicsAsset]
+[2023.07.02-01.22.16:687][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_PhysicsAsset]
+[2023.07.02-01.22.16:732][467]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_PhysicsAsset_Auto1
+[2023.07.02-01.22.16:732][467]LogSavePackage: Moving '../../../../../Team3-FinalProject/Team3_FinalProject/Saved/Zombiegirl_W_Kurniawan_PhysicsAs2864F0AC4507066C8A931B8DF543D894.tmp' to '../../../../../Team3-FinalProject/Team3_FinalProject/Saved/Autosaves/Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_PhysicsAsset_Auto1.uasset'
+[2023.07.02-01.22.16:735][467]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/Zombie/Texture/zombie_diffuse] ([1] browsable assets)...
+[2023.07.02-01.22.16:738][467]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Character/Zombie/Texture/zombie_diffuse.zombie_diffuse]
+[2023.07.02-01.22.16:738][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/Zombie/Texture/zombie_diffuse]
+[2023.07.02-01.22.16:757][467]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Character/Zombie/Texture/zombie_diffuse_Auto1
+[2023.07.02-01.22.16:757][467]LogSavePackage: Moving '../../../../../Team3-FinalProject/Team3_FinalProject/Saved/zombie_diffuse_Auto1760974E346B2A850651407918A34EEF0.tmp' to '../../../../../Team3-FinalProject/Team3_FinalProject/Saved/Autosaves/Game/Assets/Character/Zombie/Texture/zombie_diffuse_Auto1.uasset'
+[2023.07.02-01.22.16:758][467]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/Zombie/Texture/zombie_normal] ([1] browsable assets)...
+[2023.07.02-01.22.16:760][467]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Character/Zombie/Texture/zombie_normal.zombie_normal]
+[2023.07.02-01.22.16:760][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/Zombie/Texture/zombie_normal]
+[2023.07.02-01.22.16:777][467]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Character/Zombie/Texture/zombie_normal_Auto1
+[2023.07.02-01.22.16:777][467]LogSavePackage: Moving '../../../../../Team3-FinalProject/Team3_FinalProject/Saved/zombie_normal_Auto18812B2AB417B64504346A49BC4AED93F.tmp' to '../../../../../Team3-FinalProject/Team3_FinalProject/Saved/Autosaves/Game/Assets/Character/Zombie/Texture/zombie_normal_Auto1.uasset'
+[2023.07.02-01.22.16:778][467]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/Zombie/Texture/zombie_specular] ([1] browsable assets)...
+[2023.07.02-01.22.16:780][467]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Character/Zombie/Texture/zombie_specular.zombie_specular]
+[2023.07.02-01.22.16:780][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/Zombie/Texture/zombie_specular]
+[2023.07.02-01.22.16:799][467]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Character/Zombie/Texture/zombie_specular_Auto1
+[2023.07.02-01.22.16:799][467]LogSavePackage: Moving '../../../../../Team3-FinalProject/Team3_FinalProject/Saved/zombie_specular_Auto1D039E2DC4D48B98136A5089CA21651F3.tmp' to '../../../../../Team3-FinalProject/Team3_FinalProject/Saved/Autosaves/Game/Assets/Character/Zombie/Texture/zombie_specular_Auto1.uasset'
+[2023.07.02-01.22.16:800][467]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Character/Zombie/Texture/zombie_body_diffuse] ([1] browsable assets)...
+[2023.07.02-01.22.16:802][467]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Character/Zombie/Texture/zombie_body_diffuse.zombie_body_diffuse]
+[2023.07.02-01.22.16:802][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/Zombie/Texture/zombie_body_diffuse]
+[2023.07.02-01.22.16:821][467]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Character/Zombie/Texture/zombie_body_diffuse_Auto1
+[2023.07.02-01.22.16:821][467]LogSavePackage: Moving '../../../../../Team3-FinalProject/Team3_FinalProject/Saved/zombie_body_diffuse_Auto186AD61C844E9CEB20407D4B22D257E98.tmp' to '../../../../../Team3-FinalProject/Team3_FinalProject/Saved/Autosaves/Game/Assets/Character/Zombie/Texture/zombie_body_diffuse_Auto1.uasset'
+[2023.07.02-01.22.16:822][467]LogFileHelpers: Auto-saving content packages took 0.402
+[2023.07.02-01.22.44:028][640]LogSlate: Window 'Zombiegirl_W_Kurniawan' being destroyed
+[2023.07.02-01.22.44:039][640]LogSlate: Window 'Zombiegirl_W_Kurniawan' being destroyed
+[2023.07.02-01.22.44:040][640]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-01.22.44:041][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-01.23.32:962][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.07.02-01.23.36:804][455]LogSlate: Window 'Delete Assets' being destroyed
+[2023.07.02-01.23.37:913][455]LogUObjectGlobals: Force Deleting 8 Package(s):
+	Asset Name: /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan.Zombiegirl_W_Kurniawan
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/Assets/Character/Zombie/Texture/zombie_body_diffuse.zombie_body_diffuse
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/Character/Zombie/Texture/zombie_specular.zombie_specular
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/Character/Zombie/Texture/zombie_normal.zombie_normal
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/Character/Zombie/Texture/zombie_diffuse.zombie_diffuse
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_Anim.Zombiegirl_W_Kurniawan_Anim
+	Asset Type: AnimSequence
+	Asset Name: /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_PhysicsAsset.Zombiegirl_W_Kurniawan_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_Skeleton.Zombiegirl_W_Kurniawan_Skeleton
+	Asset Type: Skeleton
+[2023.07.02-01.23.39:415][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.07.02-01.23.39:427][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.07.02-01.23.39:438][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.07.02-01.23.43:723][494]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Team3-FinalProject_resources\Models_Animations\zombie\Zombiegirl W Kurniawan.fbx)
+[2023.07.02-01.23.43:787][494]LogFbx: Loading FBX Scene from D:\Team3-FinalProject_resources\Models_Animations\zombie\Zombiegirl W Kurniawan.fbx
+[2023.07.02-01.23.43:855][494]LogFbx: FBX Scene Loaded Succesfully
+[2023.07.02-01.23.59:192][494]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.07.02-01.23.59:268][494]LogFbx: Valid bind pose for Pose (skinCluster4) - ZombieGirl_Body
+[2023.07.02-01.23.59:269][494]LogFbx: Valid bind pose for Pose (skinCluster5) - ZombieGirl_Body
+[2023.07.02-01.23.59:269][494]LogFbx: Valid bind pose for Pose (skinCluster6) - ZombieGirl_Body
+[2023.07.02-01.23.59:273][494]LogMaterial: Display: Material /Game/Assets/Character/Zombie/ZombieGirl_body_Material.ZombieGirl_body_Material needed to have new flag set bUsedWithSkeletalMesh !
+[2023.07.02-01.23.59:279][494]LogMaterial: Display: Missing cached shadermap for ZombieGirl_body_Material in PCD3D_SM5, Default, SM5 (DDC key hash: E4664B6F43B5B2BFA2F4591195797DF8674280F9), compiling. 
+[2023.07.02-01.23.59:679][494]LogTexture: Display: Building textures: /Game/Assets/Character/Zombie/zombie_body_diffuse.zombie_body_diffuse (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.02-01.23.59:881][494]LogTexture: Display: Building textures: /Game/Assets/Character/Zombie/zombie_specular.zombie_specular (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.02-01.24.00:227][494]LogTexture: Display: Building textures: /Game/Assets/Character/Zombie/zombie_normal.zombie_normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.02-01.24.00:236][494]LogMaterial: Display: Missing cached shadermap for ZombieGirl_body_Material in PCD3D_SM5, Default, SM5 (DDC key hash: AAE0C9CC711BC092BCDF6C4E6C0CFCCC605E79AA), compiling. 
+[2023.07.02-01.24.00:256][494]LogMaterial: Display: Material /Game/Assets/Character/Zombie/ZombieGirl_Material.ZombieGirl_Material needed to have new flag set bUsedWithSkeletalMesh !
+[2023.07.02-01.24.00:277][494]LogMaterial: Display: Missing cached shadermap for ZombieGirl_Material in PCD3D_SM5, Default, SM5 (DDC key hash: E5FC9D32540E92BEBC78915EB58FA9B3B3440B2C), compiling. 
+[2023.07.02-01.24.00:725][494]LogTexture: Display: Building textures: /Game/Assets/Character/Zombie/zombie_diffuse.zombie_diffuse (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.02-01.24.00:944][494]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for zombie_normal
+[2023.07.02-01.24.01:280][494]LogTexture: Display: Building textures: /Game/Assets/Character/Zombie/zombie_specular.zombie_specular (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.02-01.24.01:335][494]LogTexture: Display: Building textures: /Game/Assets/Character/Zombie/zombie_normal.zombie_normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.02-01.24.01:685][494]LogTexture: Display: Building textures: /Game/Assets/Character/Zombie/zombie_diffuse.zombie_diffuse (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.02-01.24.01:699][494]LogMaterial: Display: Missing cached shadermap for ZombieGirl_Material in PCD3D_SM5, Default, SM5 (DDC key hash: BB9E772F03484E6EEEA04E975197D62A4C2324F3), compiling. 
+[2023.07.02-01.24.01:718][494]LogMaterial: Display: Material /Game/Assets/Character/Zombie/ZombieGirl_Material_ncl1_1.ZombieGirl_Material_ncl1_1 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.07.02-01.24.01:741][494]LogMaterial: Display: Missing cached shadermap for ZombieGirl_Material_ncl1_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 948BAC224644FC3340D067A71248FCB350932162), compiling. 
+[2023.07.02-01.24.02:300][494]LogTexture: Display: Building textures: /Game/Assets/Character/Zombie/zombie_diffuse.zombie_diffuse (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.02-01.24.02:510][494]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for zombie_normal
+[2023.07.02-01.24.02:824][494]LogTexture: Display: Building textures: /Game/Assets/Character/Zombie/zombie_specular.zombie_specular (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.02-01.24.02:872][494]LogTexture: Display: Building textures: /Game/Assets/Character/Zombie/zombie_normal.zombie_normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.02-01.24.03:227][494]LogTexture: Display: Building textures: /Game/Assets/Character/Zombie/zombie_diffuse.zombie_diffuse (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.07.02-01.24.03:242][494]LogMaterial: Display: Missing cached shadermap for ZombieGirl_Material_ncl1_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 9E1473EFA2F9BF916670E4F13C377E7D2BAEEC03), compiling. 
+[2023.07.02-01.24.03:259][494]LogFbx: Triangulating skeletal mesh ZombieGirl_Body
+[2023.07.02-01.24.03:560][494]LogFbx: Triangulating skeletal mesh ZombieGirl_Top
+[2023.07.02-01.24.03:622][494]LogFbx: Triangulating skeletal mesh ZombieGirl_Pants
+[2023.07.02-01.24.03:680][494]LogFbx: Warning: Bones digested - 63  Depth of hierarchy - 12
+[2023.07.02-01.24.04:097][494]LogSkeletalMesh: Section 0: Material=0, 6848 triangles
+[2023.07.02-01.24.04:097][494]LogSkeletalMesh: Section 1: Material=1, 566 triangles
+[2023.07.02-01.24.04:097][494]LogSkeletalMesh: Section 2: Material=2, 34 triangles
+[2023.07.02-01.24.04:182][494]LogSkeletalMesh: Building Skeletal Mesh Zombiegirl_W_Kurniawan...
+[2023.07.02-01.24.04:182][494]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Zombiegirl_W_Kurniawan) ...
+[2023.07.02-01.24.04:537][494]LogSkeletalMesh: Built Skeletal Mesh [0.37s] /Game/Assets/Character/Zombie/Zombiegirl_W_Kurniawan.Zombiegirl_W_Kurniawan
+[2023.07.02-01.24.04:537][494]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.02-01.24.04:538][494]LogShaderCompilers: Display: ================================================
+[2023.07.02-01.24.04:538][494]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.02-01.24.04:538][494]LogShaderCompilers: Display: Total job queries 96, among them cache hits 0 (0.00%)
+[2023.07.02-01.24.04:538][494]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2023.07.02-01.24.04:538][494]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.07.02-01.24.04:538][494]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.02-01.24.04:538][494]LogShaderCompilers: Display: Shaders Compiled: 96
+[2023.07.02-01.24.04:538][494]LogShaderCompilers: Display: Jobs assigned 37, completed 2 (5.41%)
+[2023.07.02-01.24.04:539][494]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.07 s
+[2023.07.02-01.24.04:539][494]LogShaderCompilers: Display: Job execution time: average 5.08 s, max 5.08 s
+[2023.07.02-01.24.04:539][494]LogShaderCompilers: Display: Job life time (pending + execution): average 5.10 s, max 5.10
+[2023.07.02-01.24.04:539][494]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.10 s
+[2023.07.02-01.24.04:539][494]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 4.62 jobs/batch
+[2023.07.02-01.24.04:539][494]LogShaderCompilers: Display: Average processing rate: 0.39 jobs/sec
+[2023.07.02-01.24.04:539][494]LogShaderCompilers: Display: Effective parallelization: 0.82 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.07.02-01.24.04:539][494]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2023.07.02-01.24.04:539][494]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    1 times, average 2.31 sec, max 2.31 sec, min 2.31 sec)
+[2023.07.02-01.24.04:539][494]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 1.90 sec, max 1.90 sec, min 1.90 sec)
+[2023.07.02-01.24.04:539][494]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2023.07.02-01.24.04:539][494]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 54.89% of total time (compiled    1 times, average 2.31 sec, max 2.31 sec, min 2.31 sec)
+[2023.07.02-01.24.04:539][494]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 45.11% of total time (compiled    1 times, average 1.90 sec, max 1.90 sec, min 1.90 sec)
+[2023.07.02-01.24.04:539][494]LogShaderCompilers: Display: ================================================
+[2023.07.02-01.24.04:559][494]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.07.02-01.24.04:559][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.02-01.24.04:581][494]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'ZombieGirl_Material' was renamed 'ZombieGirl_Material_ncl1_1' 
+[2023.07.02-01.24.04:581][494]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.07.02-01.24.23:126][  7]LogSlate: Window 'Message Log' being destroyed
+[2023.07.02-01.24.23:165][  7]LogSlate: Window 'Message Log' being destroyed
+[2023.07.02-01.24.33:338][344]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.07.02-01.24.33:351][344]LogContentBrowser: Creating deferred item: NewFolder
+[2023.07.02-01.24.33:363][345]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.07.02-01.24.59:202][210]LogContentBrowser: Attempting asset rename: NewFolder -> T-Bone
+[2023.07.02-01.24.59:202][210]LogContentBrowser: End creating deferred item NewFolder
+[2023.07.02-01.25.04:830][375]LogMetaData: Removing '/Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_Skeleton.Zombiegirl_W_Kurniawan_Skeleton' ref from Metadata '/Game/Assets/Character/Zombie/Zombiegirl_W_Kurniawan_Skeleton.PackageMetaData'
+[2023.07.02-01.25.04:921][375]LogSavePackage: Moving output files for package: /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_PhysicsAsset
+[2023.07.02-01.25.04:921][375]LogSavePackage: Moving '../../../../../Team3-FinalProject/Team3_FinalProject/Saved/Zombiegirl_W_Kurniawan_PhysicsAs54FB294D437100A5CBD2539861396E78.tmp' to '../../../../../Team3-FinalProject/Team3_FinalProject/Content/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_PhysicsAsset.uasset'
+[2023.07.02-01.25.04:940][375]LogSavePackage: Moving output files for package: /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_Skeleton
+[2023.07.02-01.25.04:940][375]LogSavePackage: Moving '../../../../../Team3-FinalProject/Team3_FinalProject/Saved/Zombiegirl_W_Kurniawan_Skeleton22E77C2444C77934F13D65863563F5A5.tmp' to '../../../../../Team3-FinalProject/Team3_FinalProject/Content/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_Skeleton.uasset'
+[2023.07.02-01.25.05:118][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.07.02-01.25.05:133][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.07.02-01.25.05:144][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.07.02-01.25.05:201][375]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.02-01.25.05:201][375]LogContentValidation: Display: Validating PhysicsAsset /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_PhysicsAsset.Zombiegirl_W_Kurniawan_PhysicsAsset
+[2023.07.02-01.25.05:202][375]LogContentValidation: Display: Validating Skeleton /Game/Assets/Character/Zombie/T-Bone/Zombiegirl_W_Kurniawan_Skeleton.Zombiegirl_W_Kurniawan_Skeleton
+[2023.07.02-01.25.08:992][500]LogSlate: Window 'Failed Renames' being destroyed
+[2023.07.02-01.25.11:254][564]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.07.02-01.25.11:267][564]LogContentBrowser: Creating deferred item: NewFolder
+[2023.07.02-01.25.11:280][565]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.07.02-01.25.16:552][746]LogContentBrowser: Attempting asset rename: NewFolder -> Texture
+[2023.07.02-01.25.16:552][746]LogContentBrowser: End creating deferred item NewFolder

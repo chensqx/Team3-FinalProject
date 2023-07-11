@@ -133,7 +133,8 @@
 		{
 			"ShaderMapHash": "74507F8FC3CE944E357F2B833C6B5E5D3DE03C07",
 			"Assets": [
-				"/Game/SICKA_mansion/Materials/M_Black"
+				"/Game/SICKA_mansion/Materials/M_Black",
+				"/Game/Migrated/M_Black"
 			]
 		},
 		{
@@ -170,6 +171,43 @@
 			"ShaderMapHash": "E30E3209E163F869D05FBC61E2CAF0476EA233BE",
 			"Assets": [
 				"/Game/Props/Materials/M_Box"
+			]
+		},
+		{
+			"ShaderMapHash": "5683138ACE3FA76BF17C67ADBA639EE00DAD9C94",
+			"Assets": [
+				"/Game/Migrated/M_ShowcasePlane"
+			]
+		},
+		{
+			"ShaderMapHash": "B3DC5D32FE64361AF385F3899BEC95F2EB279215",
+			"Assets": [
+				"/Game/Migrated/M_PP_Sharpen"
+			]
+		},
+		{
+			"ShaderMapHash": "D83DB3CEDB6EC3C63802FABA1ACBCBB5CB59A47C",
+			"Assets": [
+				"/Game/Migrated/M_PP_Outline"
+			]
+		},
+		{
+			"ShaderMapHash": "258677598B06A930E2D7C3D6D517E82C4DBF1557",
+			"Assets": [
+				"/Game/Migrated/M_FoodCollection",
+				"/Game/SICKA_mansion/Materials/M_FoodCollection"
+			]
+		},
+		{
+			"ShaderMapHash": "3137109F16F693BA0EA514B63591F2D78053F4B1",
+			"Assets": [
+				"/Game/Migrated/M_FOGVolume"
+			]
+		},
+		{
+			"ShaderMapHash": "C52E5226D3CFA1CAC3D87FAC8D50F38D363FAB58",
+			"Assets": [
+				"/Game/Migrated/DefaultSpriteMaterial"
 			]
 		},
 		{
@@ -327,12 +365,6 @@
 			"ShaderMapHash": "8ACAFDF4D8347920962FFA6E6E976F915609C626",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
-			]
-		},
-		{
-			"ShaderMapHash": "258677598B06A930E2D7C3D6D517E82C4DBF1557",
-			"Assets": [
-				"/Game/SICKA_mansion/Materials/M_FoodCollection"
 			]
 		},
 		{
@@ -657,13 +689,20 @@
 		{
 			"ShaderMapHash": "D38815132FD3A699FFDCDA593C88BC94DD8E4C95",
 			"Assets": [
-				"/Game/SICKA_mansion/Materials/M_GlassMaster"
+				"/Game/SICKA_mansion/Materials/M_GlassMaster",
+				"/Game/Migrated/M_GlassMaster"
 			]
 		},
 		{
 			"ShaderMapHash": "C070A1DB4F1012A1908AF8C65F7F3F041E3B156E",
 			"Assets": [
 				"/Game/Props/Materials/Material_005"
+			]
+		},
+		{
+			"ShaderMapHash": "5F24F75BCBE0D59D1163B7148EA40252B03838C4",
+			"Assets": [
+				"/Game/Migrated/M_FireParticle"
 			]
 		},
 		{
@@ -730,6 +769,19 @@
 			"Assets": [
 				"/Game/Materials/M_NoteExamination",
 				"/Game/Materials/M_Examination"
+			]
+		},
+		{
+			"ShaderMapHash": "A2DEF3A2044F2DFEC45682AF08237914543A7294",
+			"Assets": [
+				"/Game/Assets/Character/Zombie/T-Bone/Texture/ZombieGirl_Material_ncl1_1",
+				"/Game/Assets/Character/Zombie/T-Bone/Texture/ZombieGirl_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "AADFDB861D65F87036ADBCA3A42144E9889FFA79",
+			"Assets": [
+				"/Game/Assets/Character/Zombie/T-Bone/Texture/ZombieGirl_body_Material"
 			]
 		},
 		{
@@ -816,7 +868,8 @@
 		{
 			"ShaderMapHash": "3B3E48E876423C9706F302DE747A2B2CBF3BA1A4",
 			"Assets": [
-				"/Game/SICKA_mansion/Materials/M_OilPaints"
+				"/Game/SICKA_mansion/Materials/M_OilPaints",
+				"/Game/Migrated/M_OilPaints"
 			]
 		},
 		{
@@ -864,7 +917,8 @@
 		{
 			"ShaderMapHash": "150296F1F4D028F6AEC690347CE8B9145E583B27",
 			"Assets": [
-				"/Game/SICKA_mansion/Materials/MI_GlassProp"
+				"/Game/SICKA_mansion/Materials/MI_GlassProp",
+				"/Game/Migrated/MI_GlassProp"
 			]
 		},
 		{
@@ -877,7 +931,15 @@
 			"ShaderMapHash": "0668768E90C6BC1109ED0B6D4D36152A9A103A02",
 			"Assets": [
 				"/Game/SICKA_mansion/Materials/M_Props",
-				"/Game/SICKA_mansion/Materials/MI_PersianCarpets_V1"
+				"/Game/Migrated/M_Props",
+				"/Game/SICKA_mansion/Materials/MI_PersianCarpets_V1",
+				"/Game/Migrated/MI_PersianCarpets_V1"
+			]
+		},
+		{
+			"ShaderMapHash": "3B3486C8575A2A9973582FF981CA15CFF199D060",
+			"Assets": [
+				"/Game/Migrated/M_FlashLight_LF"
 			]
 		},
 		{
@@ -921,38 +983,47 @@
 				"/Game/SICKA_mansion/Materials/MI_FloorSeamless",
 				"/Game/SICKA_mansion/Materials/MI_CellarWallset",
 				"/Game/SICKA_mansion/Materials/MI_BED_Cover",
-				"/Game/SICKA_mansion/Materials/MI_BED"
+				"/Game/SICKA_mansion/Materials/MI_BED",
+				"/Game/Migrated/MI_WallFillers1",
+				"/Game/Migrated/MI_Vitrin2",
+				"/Game/Migrated/MI_Vitrin3",
+				"/Game/Migrated/MI_RoofTilesV2",
+				"/Game/Migrated/MI_RoofTiles",
+				"/Game/Migrated/MI_PersianCarpets_V2",
+				"/Game/Migrated/MI_GrandpaClock",
+				"/Game/Migrated/MI_KnightCloth",
+				"/Game/Migrated/MI_KnightArmor",
+				"/Game/Migrated/MI_Gramophone",
+				"/Game/Migrated/MI_dinnerWareSet",
+				"/Game/Migrated/MI_CurtainSet_V3",
+				"/Game/Migrated/MI_BED",
+				"/Game/Migrated/MI_FloorSeamless",
+				"/Game/Migrated/MI_CurtainSet_V2",
+				"/Game/Migrated/MI_CurtainSet_V1",
+				"/Game/Migrated/MI_BED_Cover",
+				"/Game/Migrated/MI_CellarWallset",
+				"/Game/Migrated/MI_Buffah1"
 			]
 		},
 		{
 			"ShaderMapHash": "759FAFC026CBD7EE600432B0607FD49CFA17942B",
 			"Assets": [
-				"/Game/SICKA_mansion/Materials/MI_Chandelier"
+				"/Game/SICKA_mansion/Materials/MI_Chandelier",
+				"/Game/Migrated/MI_Chandelier"
 			]
 		},
 		{
 			"ShaderMapHash": "6E4675933CA62F234051BD44B9A2B63BC08A34C0",
 			"Assets": [
-				"/Game/SICKA_mansion/Materials/MI_BurntWood"
+				"/Game/SICKA_mansion/Materials/MI_BurntWood",
+				"/Game/Migrated/MI_BurntWood"
 			]
 		},
 		{
 			"ShaderMapHash": "F2722ED28F851FECCDC60D2158471DD53E767585",
 			"Assets": [
-				"/Game/SICKA_mansion/Materials/MI_AnimalHides"
-			]
-		},
-		{
-			"ShaderMapHash": "A2DEF3A2044F2DFEC45682AF08237914543A7294",
-			"Assets": [
-				"/Game/Assets/Character/Zombie/T-Bone/Texture/ZombieGirl_Material_ncl1_1",
-				"/Game/Assets/Character/Zombie/T-Bone/Texture/ZombieGirl_Material"
-			]
-		},
-		{
-			"ShaderMapHash": "AADFDB861D65F87036ADBCA3A42144E9889FFA79",
-			"Assets": [
-				"/Game/Assets/Character/Zombie/T-Bone/Texture/ZombieGirl_body_Material"
+				"/Game/SICKA_mansion/Materials/MI_AnimalHides",
+				"/Game/Migrated/MI_AnimalHides"
 			]
 		}
 	]
